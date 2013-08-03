@@ -1,0 +1,19 @@
+Source: browser
+Section: misc
+Priority: extra
+Maintainer: JungHwan Kang <junghwan.kang@samsung.com>, Sangpyo Kim <sangpyo7.kim@samsung.com>, Hyerim Bae <hyerim.bae@samsung.com>, Inbum Chang <ibchang@samsung.com>
+Uploaders: JungHwan Kang <junghwan.kang@samsung.com>, Sangpyo Kim <sangpyo7.kim@samsung.com>, Hyerim Bae <hyerim.bae@samsung.com>, Inbum Chang <ibchang@samsung.com>
+Build-Depends: debhelper (>= 5), libeina-dev(>=0.0.1), libwebkit2-efl-dev, libecore-dev(>=0.9), libevas-dev(>=0.1), libcairo2-dev, dlog-dev, libvconf-dev, libslp-db-util-dev, libaul-1-dev, libui-gadget-dev, libssl-dev, libss-client-dev, libxml2-dev, libbundle-dev, libsoup2.4-dev, libgnutls-dev, libaccounts-svc-dev, libedje-dev, libslp-tapi-dev, libslp-utilx-dev, libappsvc-dev, libdevman-dev, capi-location-manager-dev, capi-appfw-application, capi-appfw-app-manager-dev, capi-web-url-download-dev, capi-system-haptic-dev, libshortcut-dev, syspopup-caller-dev, capi-network-connection-dev, libpkgmgr-client-dev, vconf-internal-keys-dev, capi-system-sensor-dev, capi-system-device-dev
+Standards-Version: 0.1.0
+
+Package: org.tizen.browser
+Section: misc
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: webkit browser with EFL
+
+Package: org.tizen.browser-dbg
+Section: debug
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, org.tizen.browser (= ${Source-Version})
+Description: webkit browser with EFL (unstripped)

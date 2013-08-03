@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Informuojama..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Apdorojama..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Apdorojimas baigtas"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Bandyti dar kartą"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Atsisiuntimų tvarkytuvė"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Netinkamas aprašymas"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Negalima atidaryti failo"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Ar atsisiųsti?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Pasirinkta"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Atsisiuntimas atšauktas"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Tęsti nuo pask. puslapio"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Puslapis"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Žodynas"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "Apie naršyklę"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Tipas"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Leidėjas"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Rodyti vaizdus"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Atsisiųsti"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "Įvesti URL"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Aplankas"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Pradinis puslapis"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Gulsčias"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Žymeklių nėra"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Rezultatų nerasta"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Pasirinkt."
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Paleisti „Flash“"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "Vykdyti „JavaScript“"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Bendrasis pavadinimas:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Organizacijos skyrius:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Organizacija:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "Vartotojo agentas"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Pirmenybės"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Aktyvinimo klaida"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Jau įjungta"
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Neįdiegta"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Autentifikavimas nepavyko"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Ar perrašyti?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Istorija"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Įkeltų siuntų sąrašas"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Jau įdiegta"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Pranešama..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Nepalaikomas turinys"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Klaida: neįmanoma nustatyti pagrindinio kompiuterio vardo"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Neįmanoma pasiekti tarpinio serverio"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "Nėra SSL sertifikatų"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Failo dydis viršija didžiausią leistiną ribą"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Įveskite pavadinimą:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Kitas"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Naujas aplankas"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Pridėti į žymeklius"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Naujas langas"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URL nepasiekiamas"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "URL %s nepasiekiamas. Gali laikinai neveikti arba būti nebenaudojamas"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Aplankas"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Aplanko pavadinimas"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Toks aplanko pavadinimas jau naudojamas"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Nėra pavadinimo"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Keli langai"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Istorijos nėra"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Pridėti prie adresyno įrašų"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Redaguoti žymelę"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Aplanko pavadinimas:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Pasirinkti viską"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Atsisiuntimų tvarkytuvė"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "Pridėti RSS naujienų kanalą"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "Prid. RSS naujienų kanalą"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Nustat."
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "Įvesti URL"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Slaptažodis"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Neteisingas adresas"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Jau yra atsisiuntimo sąraše"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Įrašyti aplanko pavadinimą"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Nėra psl."
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Nėra atgalinių puslapių"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Nėra priekinių puslapių"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Puslapio iš naujo įkelti nepavyko"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Reikalinga patvirtinti autentiškumą"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Adresyno įrašas jau yra"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Toks aplanko pavadinimas jau yra"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Neįmanoma išsaugoti objekto. Nepakanka vietos talpykloje"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Pasirinkti elementų"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Sertifikato inf."
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Bendrinti per el. paštą"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Bendrinti per žinutes"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Bendrinti per"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Neįmanoma paleisti naršyklės"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Nėra adreso"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Daugiau neberodyti"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Failo pavadinimo nėra"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Kurti aplanką"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Pasirinkta"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Dalytis"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Vėliausiai aplankyti puslapiai"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Ekranas"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Pritaikyti pagal plotį"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Nuskaitoma"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Privatumas"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Slapukai"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Priimti viską"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Raginimas"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Slapukai"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Priimti slapukus"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Priimti slapukus"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Priimti viską"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Atmesti viską"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Automatiškai išsaugoti ID / slaptažodį"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Įjungta"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Išjungta"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Numatytoji saugykla"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Ieškoti"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Išsaugoti vaizdą"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Silpnas akumuliatorius. Nepavyksta paleisti naršyklės"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Rasti žodį"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Pridėti pradžios ekrane"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Pridėt prie pradžios ekrano"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Dažniausiai lankomos svetainės"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Bendrinti per „Facebook“"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Bendrinti per „Twitter“"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Keisti rodinį"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "Pasirinkite URL"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "Ši svetainė bando atidaryti iškylantįjį langą"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Blokuoti iškylanč. langus"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Teksto skaitytuvas"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Kopijuoti vaizdą"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Išsaugoti vaizdą"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Paleisti"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Rinktis"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Eiti atgal"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Eiti pirmyn"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Stabdyti"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Įkelti iš naujo"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Įklijuoti"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Daug."
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Nepavyko"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Atid. naujame lange"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Peržiūrėti atsisiuntimo sąrašą"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "Kopijuoti URL adresą"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "Kopijuoti URL į"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Žiūrėti pav."
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Privatumo nustatymai"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Valyti talpyklą"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Išvalyti istoriją"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Įjungti papildinius"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Pasirinkite paieškos sistemą"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Ištrinti išsaugotą ID/slaptažodį"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Pašalinti visus slapukų duomenis"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Aukštyn"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Šrifto dydis"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Ištrinta"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Numatytasis vaizdas"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Puslapio turinio nustat."
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "Skirti didžiąsias ir mažąsias raides"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Prijungimas"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Papildinių sąrašas"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Vietinė talpykla"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Trinti naršymo duomenis"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Įkeliama..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Įkeliama..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "Įvesti URL"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Užrakinti"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Atrakinti"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Keisti"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Psl. aukštyn"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Psl. žemyn"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Kūrėjo režimas"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Tuščia"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Sertifikatai"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Adresyno įrašai"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Įvesti vardą"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Pavadinimas"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Siųsti el. paštu"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Siųsti kaip žinutę"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Nustat."
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Naudotojo vardas"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Jau yra"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Išsaugota"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Nepakanka atminties"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Tinklo klaida"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Visada klausti"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Atminties kortelė"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Telefonas"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Nėra paskyrų"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Klaidos puslapis"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Tinklalapis laikinai nepasiekiamas"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Tinklalapis nepasiekiamas"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Nepavyko įkelti rėmelių"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "Priimant tinklalapį %s, įvyko ši klaida."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Neįmanoma gauti tinklalapio. (Tinklalapis gali laikinai neveikti arba būti perkeltas į naują URL)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Labiausiai tikėtina priežastis nurodyta toliau"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Tinklo ryšys neužmegztas kaip įprastai"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Tikrinti tinklalapio URL"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Dar kartą įkelti tinklalapį vėliau"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Adresyno įrašas"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Pavadinimas"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Įveskite pavadinimą"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Aplankai"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Leisti"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Atsisakyti"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Apsaugos klaida: nepatikimas serverio sertifikatas"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "Pasirinkta elementų: %d"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "Pasirinktas 1 elementas"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Pridėti prie vaizdinės žiniatinklio nuorodos"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Sukurtas šaukinys"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Pasirinkite žodį"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Iešk. puslapyje"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Iešk. puslapyje"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "„Picasa“"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Internetas"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Sąrašas"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Pasirinkti viską"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Žinutė"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "El. paštas"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Atšaukti"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "Kop. nuor. URL"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Žiūrėti pav."
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Atid. nauj. lange"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Atidaryti"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Teksto atranka įjungta"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Žymelės"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Redaguoti"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Trinti"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Trinti"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Atšaukti"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Redaguoti žymelę"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Žinutės"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "El. paštas"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Redaguoti"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Trinti"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Pridėti prie adresyno įrašų"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Šrifto dydis"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Didelis"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Mažas"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Greitis"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Proxy serverio adresas"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Proxy prievadas"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Atlikta"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Versija"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Įdiegti"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Dabartinis puslpais"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Įrašyti aplanko pavadinimą"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Čia įveskite žymeklio pavadinimą"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Neklauskite dar kartą"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "URL nerastas"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s užklausų jūsų vietai"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Įsiminti nuostatą"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Rodyti vaizdus"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Rodyti apsaugos įspėjimus"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Prisiminti slaptažodžius"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Išvalyti slaptažodžius"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Trinti visus išsaugotus slaptažodžius?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Ištrinti visus slapukus. Tęsti?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Prisiminti formos duomenis"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Nustatyti į numatytąjį"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Visi nustatymai numatytieji. Tęsti?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Ar valyti talpyklą?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Valyti visą istoriją?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Naršyklės naršymo istorija bus išvalyta"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Visada įjungta"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Įjungti vietą"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Ištrinti vietos prieigą"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Neįmanoma įtraukti žymelės. Pasiektas maksimalus žymelių skaičius"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Trinti informaciją apie prieigą prie svetainės vietos?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Spausdinti"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "Ieškoti arba įvesti URL"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Automatinis"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Rankinis"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Mažas"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Vidutinis"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Tuščias puslapis"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Nepavyko įdiegti"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Svetainės nustatymai"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Didelė"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Įrašyti nuorodą"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Dalytis nuoroda"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Privatumas ir sauga"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Išsaugoti norint skaityti neprisijungus"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Vieta"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Formos duomenys"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Išvalyti formos duomenis"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Naikinti visus išsaugotus slaptažodžius"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Įtraukta į adresyną"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Pašalinta iš adresyno"
+

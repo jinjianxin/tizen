@@ -1,0 +1,9 @@
+@PREFIX@/bin/*
+@PREFIX@/res/*
+@PREFIX@/res/locale/*
+@PREFIX@/res/edje/*
+@PREFIX@/res/html/*
+@PREFIX@/res/images/*
+@PREFIX@/data/*
+opt/share/applications/*
+opt/share/icons/default/small/*

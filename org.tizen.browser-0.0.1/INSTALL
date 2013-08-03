@@ -1,0 +1,33 @@
+1. make the build directory
+
+  ex) 
+
+   $ mkdir build
+
+
+2. change the working directory to the build directory
+
+  ex)
+
+   $ cd build
+
+
+3. run 'cmake'
+
+  $ cmake ${SOURCE_DIR} -DCMAKE_INSTALL_PREFIX=/opt/apps/@@PKGNAME@@
+
+  ex)
+
+   $ cmake .. -DCMAKE_INSTALL_PREFIX=/opt/apps/org.tizen.browser
+
+   or
+
+   $ cmake ..
+
+
+4. make & make install
+
+  ex)
+
+   $ make -j 2 && make install
+

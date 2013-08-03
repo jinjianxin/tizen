@@ -1,0 +1,25 @@
+<html>
+<head>
+
+
+	<script type="text/javascript">
+	 	var s = window.location.href;
+	  	var url = s.substring(s.indexOf("?") + 1, s.lastIndexOf("?"));
+	  	document.write("<title>" + unescape(url) + "</title>");
+	</script>
+	
+
+</head>
+<body >
+<object width="100%" height="100%">
+
+	<script type="text/javascript">
+	 	var s = window.location.href;
+	  	var url = s.substring(s.indexOf("?") + 1, s.lastIndexOf("?"));
+	  	var type = s.substring(s.lastIndexOf("?") + 1, s.length);
+	  	document.write("<embed width=\"100%\" height=\"100%\"  src=\"" + unescape(url) + "\" type=\"" + unescape(type) + "\" />");
+	</script>
+
+</object>
+</body>
+</html>

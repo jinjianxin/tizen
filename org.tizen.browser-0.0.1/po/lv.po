@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Paziņo..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Notiek apstrāde..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Apstrāde pabeigta"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Atkārtot"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Lejupielāžu pārvaldnieks"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Nederīgs deskriptors"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Nevar atvērt failu"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Vai lejupielādēt?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Izvēlēts"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Lejupielāde atcelta"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Turpināt no pēd. lapas"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Lapa"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Vārdnīca"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "Par pārlūku"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Veids"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Izdevējs"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Rādīt attēlus"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Lejupielādēt"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "Ievadiet URL"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Mape"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Mājas lapa"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Ainavas skats"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Nav grāmatzīmes"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Nav atrasts neviens rezultāts"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Izvēles"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Palaist Flash"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "Palaist JavaScript"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Vispārējais nosaukums:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Organizācijas vienība:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Organizācija:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "Lietotāja aģents"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Preferences"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Aktivizācijas kļūda"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Jau darbojas"
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Nav ieviests"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Autentifikācija neizdevās"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Vai pārrakstīt?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Vēsture"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Lejupielāžu saraksts"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Jau instalēts"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Paziņo..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Neatbalstīts saturs"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Kļūda: nevar noteikt resursservera nosaukumu"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Nevar sasniegt starpniekserveri"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "Nav SSL sertifikātu"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Faila lielums pārsniedz maksimālo augšupielādes ierobežojumu"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Ievadiet nosaukumu:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Nāk."
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Jauna mape"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Pievien. grāmatzīmēm"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Jauns logs"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URL nav pieejams"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "URL %s nav pieejams. Iespējams, tas pagaidām nedarbojas vai netiek vairs lietots"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Mape"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Mapes nosaukums"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Mapes nosaukumu jau lieto."
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Nav nosaukuma"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Vairāklogu"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Nav vēstures"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Pievienot grāmatzīmēm"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Rediģēt grāmatzīmi"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Mapes nosaukums:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Izv. visu"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Lejupielāžu pārvaldnieks"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "Pievienot RSS plūsmu"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "Pievienot RSS plūsmas"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Iestatījumi"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "Ievadiet URL"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Parole"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Nederīga adrese"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Jau iekļauts lejupielāžu sarakstā"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Ievadiet mapes nosaukumu"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Nav lapas"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Atpakaļ nav lapu"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Uz priekšu nav lapu"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Nav lapu, ko vēlreiz ielādēt"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Nepieciešama autentifikācija"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Grāmatzīme jau pastāv"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Mapes nosaukums jau pastāv"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Nevar saglabāt objektu. Kešatmiņā nepietiek vietas"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Izvēlēties objektus"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Sertifikāta informācija"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Koplietot, izmantojot e-pastu"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Koplietošana, izmantojot Ziņas"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Koplietot, izmantojot"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Nevar palaist pārlūkprogrammu"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Nav adreses"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Nekad vairs nerādīt"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Faila nosaukuma nav"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Izveidot mapi"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Izvēlēts"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Koplietot"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Nesen apmeklētās lapas"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Displejs"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Pielāgot platumam"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Lasāma"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Konfidencialitāte"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Sīkfaili"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Pieņemt visus"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Jautāt"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Sīkfaili"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Pieņemt sīkfailus"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Pieņemt sīkfailus"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Pieņemt visus"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Noraidīt visus"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Automātiskās saglabāšanas ID/parole"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Ieslēgt"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Izslēgt"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Noklusējuma krātuve"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Meklēt"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Saglabāt attēlu"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Tukšs akumulators. Pārlūku nevar palaist"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Atrast vārdu"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Pievienošana sākuma ekrānam"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Pievienot sākuma ekrānam"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Biežāk apmeklētās vietnes"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Koplietot, izmantojot Facebook"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Koplietot, izmantojot Twitter"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Mainīt skatu"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "Izvēlieties URL"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "Šī vietne mēģina atvērt uznirstošo logu"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Bloķēt uznirstošos logus"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Teksta lasītājs"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Kopēt attēlu"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Saglabāt attēlu"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Atskaņot"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Izvēlēties"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Doties atpakaļ"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Doties uz priekšu"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Apturēt"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Ielādēt vēlreiz"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Ielīmēt"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Citi"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Neizdevās"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Atvērt jaunā logā"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Skatīt lejupielādes sarakstu"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "Kopēt URL"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "Kopēt URL"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Skatīt attēlu"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Konfidencialitātes iestatījumi"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Iztīrīt kešatmiņu"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Nodzēst vēsturi"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Aktivizēt spraudņus"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Izvēlieties meklēšanas programmu"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Dzēst saglabāto ID/paroli"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Notīrīt visus sīkfailu datus"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Uz augšu"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Fonta lielums"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Izdzēsts"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Noklusējuma skats"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Lapas satura iestatījumi"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "Reģistrjutīgs"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Spraudnis"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Spraudņu saraksts"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Vietējā krātuve"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Dzēst pārlūkošanas datus"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Ielādē..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Ielādē..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "Ievadiet URL"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Bloķēt"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Atbloķēt"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Pārveidot"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Lapā uz aug."
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Lapā uz leju"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Izstrādātāju režīms"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Tukšs"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Sertifikāti"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Grāmatzīmes"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Ievadiet vārdu"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Vārds"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Sūtīt, izmantojot e-pastu"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Sūtīt, izmantojot ziņu"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Iestatījumi"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Lietotājvārds"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Jau pastāv"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Saglabāts"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Atmiņa pilna"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Tīkla kļūda"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Jautāt vienmēr"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Atmiņas karte"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Tālrunis"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Nav kontu"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Lapas kļūda"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Tīmekļa lapa īslaicīgi nav pieejama"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Tīmekļa lapa nav pieejama"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Neizdevās ielādēt rāmjus"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "Tīmekļa lapas %s izguves laikā rādās šāda kļūda."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Nevar izgūt tīmekļa lapu (tīmekļa lapa, iespējams, īslaicīgi nedarbojas vai ir pārvietota uz citu vietrādi URL)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Visticamākais iemesls ir norādīts tālāk"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Nepareizi izveidots tīkla savienojums"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Pārbaudiet tīmekļa lapas vietrādi URL"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Ielādējiet tīmekļa lapu vēlāk no jauna"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Grāmatzīme"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Nosaukums"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Ievadiet nosaukumu"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Mapes"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Atļaut"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Atteikt"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Drošības kļūda: neuzticams servera sertifikāts"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "Ir izvēlēti %d objekti"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "Ir izvēlēts 1 objekts"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Pievienot tīmekļa klipam"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Izveidots īsceļš"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Izv. vārdu"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Meklēt lapā"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Meklēt lapā"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Internets"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Saraksts"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Izv. visu"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Ziņa"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "E-pasts"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Atcelt"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "Kop. saites URL"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Skatīt attēlu"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Atvērt jaunā lapā"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Atvērt"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Teksta izvēle ieslēgta"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Grāmatzīmes"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Rediģēt"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Dzēst"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Dzēst"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Atcelt"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Rediģēt grāmatzīmi"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Ziņas"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "E-pasts"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Rediģēt"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Dzēst"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Pievienot grāmatzīmēm"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Fonta lielums"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Liels"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Mazs"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Ātrums"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Starpniekservera adrese"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Starpniekservera ports"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Gatavs"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Versija"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Instalēt"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Pašreizējā lapa"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Ievadiet mapes nosaukumu"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Ievadiet grāmatzīmes nosaukumu"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Vairs nevaicāt"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "URL nav atrasts"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s pieprasa jūsu atrašanās vietu"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Atcerēties preferenci"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Rādīt attēlus"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Rādīt drošības brīdinājumus"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Atcerēties paroles"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Notīrīt paroles"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Vai dzēst visas saglabātās paroles?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Dzēst visus sīkfailus. Vai turpināt?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Iegaumēt veidlapas datus"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Atjaunot noklusējumu"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Visi iestatījumi ir noklusētie. Vai turpināt?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Vai iztīrīt kešatmiņu?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Vai izdzēst visu vēsturi?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Pārlūka navigācijas vēsture tiks notīrīta"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Vienmēr ieslēgts"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Aktivizēt atrašanās vietu"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Notīrīt atrašanās vietas piekļuvi"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Nevar pievienot grāmatzīmi. Sasniegts maksimālais grāmatzīmju skaits"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Vai dzēst tīmekļa vietnes atrašanās vietas piekļuves datus?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Drukāt"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "Meklējiet vai ievadiet vietrādi URL"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Automātiski"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Manuāli"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Zema"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Vidējs"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Tukša lapa"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Instalēšana neizdevās"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Tīmekļa vietnes iestatījumi"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Augsta"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Saglabāt saiti"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Koplietot saiti"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Konfidencialitāte un drošība"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Saglabāt lasīšanai bezsaistē"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Atrašanās vieta"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Veidlapas dati"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Notīrīt veidlapas datus"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Notīrīt visas saglabātās paroles"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Pievienots grāmatzīmēm"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Noņemts no grāmatzīmēm"
+

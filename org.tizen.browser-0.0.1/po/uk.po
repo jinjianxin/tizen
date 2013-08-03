@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Сповіщення..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Обробка..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Обробку завершено"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Повтор."
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Диспетчер завантажень"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Хибний JAD"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Неможливо відкрити файл"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Завантажити?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Вибране"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Завантаження скасовано"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Продовж. з ост. стор."
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Сторінка"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Словник"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "Про браузер"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Тип"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Видано"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Показати зображення"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Завантажити"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "Введіть URL"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Папка"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Домашня сторінка"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Альбомна"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Немає закладок"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Результатів не знайдено"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Додатково"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Запустити Flash"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "Запуск JavaScript"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Загальне ім’я:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Підрозділ організації:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Організація:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "Агент користувача"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Додаткові установки"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Помилка активації"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Вже виконується"
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Не реалізовано"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Збій аутентифікації"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Перезаписати?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Історія"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Список завантажень"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Вже установлено"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Сповіщення..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Вміст не підтримується"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Помилка: неможливо визначити назву хосту"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Неможливо з'єднатися із проксі-сервером"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "Немає SSL сертифіката"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Розмір файла перевищує максимально допустимий розмір для завантаження"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Ввести ім’я:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Далі"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Ручний"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Додати до закладок"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Нове вікно"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URL-адреса недоступна"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "URL-адреса %s недоступна. Вона може бути тимчасово недоступна або більше не використовуватися"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Папка"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Ім'я папки"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Ім’я папки вже використовується"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Немає назви"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Декілька вікон"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Немає історій"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Додати до закладок"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Редагувати закладку"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Ім’я папки:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Вибрати всі"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Диспетчер завантажень"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "Додати RSS-канал"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "Додати RSS-канали"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Установки"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "Введіть URL"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Пароль"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Хибна адреса"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Вже існує у списку завантажень"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Ввести ім’я папки"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Немає сторінки"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Немає попередніх сторінок"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Немає наступної сторінки"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Немає сторінки для перезавантаження"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Потрібна аутентифікація"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Закладка вже існує"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Ім’я папки вже існує"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Не вдалося зберегти об’єкт. Недостатньо місця у кеші"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Виберіть об’єкти"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Інформація про сертифікат"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Спільний доступ через Email"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Спільний доступ через повідомлення"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Відкрити доступ через"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Неможливо запустити браузер"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Без адреси"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Більше ніколи не показувати"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Ім’я файла відсутнє"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Створити папку"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Вибране"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Надіслати"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Нещодавно відвідані сторінки"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Дисплей"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "За шириною"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Чітко"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Конфіденційність"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Файли cookie"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Приймати всі"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Підказка"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Файли cookie"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Приймати файли cookies"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Приймати файли cookies"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Приймати всі"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Відхилити всі"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Автозбереження імені користувача/пароля"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Увімкнено"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Вимкнено"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Стандартне місце збереження"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Пошук"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Зберегти зображення"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Батарея розряджена. Неможливо запустити браузер"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Пошук слова"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Додати на головний екран"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Додати на головний екран"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Найбільш відвідувані сайти"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Спільний доступ через Facebook"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Спільний доступ через Twitter"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Змінити перегляд"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "Виберіть URL-адреси"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "Цей сайт намагається відкрити спливаюче вікно"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Блокувати спливаючі вікна"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Пристрій для читання тексту"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Копіювати зображення"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Зберегти зображення"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Відтворити"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Вибрати"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Перейти назад"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Перейти вперед"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Стоп"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Перезавантажити"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Вставити"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Додатково"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Збій"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Відк. в новому вікні"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Переглянути список завантажень"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "Копіювати URL"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "Копіювати URL до"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Перегл. зображ."
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Установки конфіденційності"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Очистити кеш"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Очистити журнал"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Увімкнути підключаємі програми"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Вибір системи веб-пошуку"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Видалити збережений ID/пароль"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Очистити всі дані файлів cookie"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Вгору"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Розмір шрифту"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Видалено"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Стандартний режим перегляду"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Установки вмісту сторінки"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "З урахуванням регістру"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Plug-in"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Список модулів"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Локальне місце збереження"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Видалити дані браузера"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Завантаження..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Завантаження..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "Введіть URL"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Блокування"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Розблокувати"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Змінити"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Вгору"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Вниз"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Режим розробки"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Пусто"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Сертифікати"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Закладки"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Введіть назву"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Назва"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Надіслати в Email"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Надіслати повідомленням"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Установки"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Ім'я користувача"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Вже існує"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Збережено"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Недостатньо пам'яті"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Помилка мережі"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Завжди запитувати"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Карта пам’яті"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Телефон"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Немає облікових записів"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Сторінка з помилкою"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Веб-сторінка тимчасово недоступна"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Веб-сторінка недоступна"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Не вдалося завантажити рамки"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "Під час завантаження веб-сторінки %s сталася така помилка."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Неможливо завантажити веб-сторінку. (Веб-сторінка може тимчасово не працювати або її було переміщено на іншу URL-адресу)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Наймовірнішу причину наведено нижче"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Не вдалося встановити стандартне підключення до мережі"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Перевірте URL-адресу веб-сторінки"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Перезавантажте веб-сторінку пізніше"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Закладка"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Назва"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Введіть заголовок"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Папки"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Дозволити"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Відмова"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Помилка безпеки: ненадійний сертифікат сервера"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "Вибрано %d об’єктів"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "Вибрано 1 об’єкт"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Додати до веб-посилання"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Створено клавішу швидкого доступу"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Виберіть слово"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Знайти на стор."
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Знайти на стор."
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Браузер"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Список"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Вибрати всі"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Повідомлення"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "Email"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Скасувати"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "Скопіювати URL"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Перегл. зображ."
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Відкр.на нов.стор."
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Відкрити"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Увімкнути вибір тексту"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Закладки"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Редагув."
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Вида-\nлити"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Видалити"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Скасувати"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Редагувати закладку"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Повідомлення"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "Email"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Редагувати"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Видал."
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Додати до закладок"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Розмір шрифту"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Великий"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Малий"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Швидкість"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Адреса проксі"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Порт проксі"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Готово"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Версія"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Встанов."
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Поточна сторінка"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Ввести ім’я папки"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Введіть ім’я закладки"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Надалі не запитувати"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "URL не знайдено"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s запитує ваше розташування"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Запам’ятати параметр"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Показати зображення"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Показувати попередження системи безпеки"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Запам’ятати паролі"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Очистити паролі"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Видалити всі збережені паролі?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Буде видалено всі файли cookie. Продовжити?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Запам’ятати дані форми"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Скинути на стандартні"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Буде відновлено стандартні установки. Продовжити?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Очистити кеш?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Очистити весь журнал?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Історію навігації браузера буде очищено"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Завжди увімк."
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Увімкнути розташування"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Очистити доступ до розташування"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Неможливо додати закладку. Досягнуто максимальної кількості закладок"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Видалити відомості про доступ до розташування веб-сайту?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Друк"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "Знайдіть або введіть URL-адресу"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Авто"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Вручну"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Низька"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Cередня"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Пуста сторінка"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Збій інсталяції"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Установки веб-сайта"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Високий"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Збер. посилання"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Відкрити доступ до посилання"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Конфіденційність і безпека"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Зберегти для перегляду в режимі без зв’язку"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Розташування"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Дані форми"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Очистити дані форми"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Очистити всі збережені паролі"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Додано до закладок"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Видалено із закладок"
+

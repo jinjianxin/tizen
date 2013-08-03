@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Ειδοποίηση..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Επεξεργασία..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Ολοκλήρωση επεξεργασίας"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Επανάληψη"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Διαχείριση λήψεων"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Μη έγκυρη περιγραφή"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Δεν είναι δυνατό το άνοιγμα αρχείου"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Λήψη;"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Επιλεγμένο"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Ακύρωση λήψης"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Συνέχ.από τελευτ. σελ."
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Σελίδα"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Λεξικό"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "Πληροφορίες για το πρόγραμμα περιήγησης"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Είδος"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Εκδότης"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Προβολή εικόνων"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Λήψη"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "Εισαγωγή URL"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Φάκελος"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Αρχική σελίδα"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Οριζόντιος"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Κανένας σελιδοδείκτης"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Δεν βρέθηκαν αποτελέσματα"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Προαιρετικό"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Εκτέλεση Flash"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "Εκτέλεση JavaScript"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Κοινό όνομα:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Οργανωτική μονάδα:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Οργανισμός:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "Παράγοντας χρήστη"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Προτιμήσεις"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Σφάλμα ενεργοποίησης"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Εκτελείται ήδη"
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Δεν υλοποιήθηκε"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Αποτυχία ελέγχου ταυτότητας"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Αντικατάσταση;"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Ιστορικό"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Λίστα λήψεων"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Ήδη εγκατεστημένο"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Ειδοποίηση..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Μη υποστηριζόμενο περιεχόμενο"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Σφάλμα: Δεν είναι δυνατή η επίλυση του ονόματος κεντρικού υπολογιστή"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Δεν είναι δυνατή η επικοινωνία με το διακομιστή μεσολάβησης"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "Κανένα πιστοποιητικό SSL"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Το μέγεθος του αρχείου υπερβαίνει το μέγιστο όριο αποστολής"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Εισαγάγετε όνομα:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Επόμενο"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Νέος φάκελος"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Προσθ.στους σελιδ."
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Νέο παράθυρο"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "Μη διαθέσιμο URL"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "Το URL %s δεν είναι διαθέσιμο. Ίσως να είναι προσωρινά εκτός λειτουργίας ή δε χρησιμοποιείται πια"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Φάκελος"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Όνομα φακέλου"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Το όνομα φακέλου υπάρχει ήδη"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Χωρίς τίτλο"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Παράθ. πολ. Χρ."
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Κανένα ιστορικό"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Προσθήκη στους σελιδ/τες"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Επεξεργασία σελιδοδείκτη"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Όνομα φακέλου:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Επιλογή όλων"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Διαχείριση λήψεων"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "Προσθήκη τροφοδοσίας RSS"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "Προσθήκη τροφοδοσιών RSS"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Ρυθμίσεις"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "Εισαγωγή URL"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Κωδικός πρόσβασης"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Άκυρη διεύθυνση"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Υπάρχει ήδη στη λίστα λήψεων"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Εισαγωγή ονόματος φακέλου"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Καμία σελίδα"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Καμία προηγούμενη σελίδα"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Καμία επόμενη σελίδα"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Καμία σελίδα προς επαναφόρτωση"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Απαιτείται έλεγχος ταυτότητας"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Ο σελιδοδείκτης υπάρχει ήδη"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Το όνομα φακέλου υπάρχει ήδη"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Δεν είναι δυνατή η αποθήκευση αντικειμένου. Ο χώρος της μνήμης cache δεν επαρκεί"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Επιλογή στοιχείων"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Πληροφορίες πιστοποιητικού"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Κοινή χρήση μέσω email"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Κοινή χρήση μέσω μηνυμάτων"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Κοινή χρήση μέσω"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Δεν είναι δυνατή η εκκίνηση του προγράμματος περιήγησης"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Καμία διεύθυνση"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Να μην εμφανιστεί ξανά"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Κενό όνομα αρχείου"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Δημ/ργία φακέλου"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Επιλεγμένο"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Κοινόχρηστο"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Σελίδες που επισκεφθήκατε πρόσφατα"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Οθόνη"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Προσαρμογή κατά πλάτος"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Για ανάγνωση"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Απόρρητο"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Cookies"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Αποδοχή όλων"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Ερώτηση"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Cookies"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Αποδοχή των cookies"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Αποδοχή των cookies"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Αποδοχή όλων"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Απόρριψη όλων"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Αυτόματη αποθήκευση αναγνωριστικού/κωδικού πρόσβασης"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Ενεργό"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Ανενεργό"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Προεπιλεγμένη αποθήκευση"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Αναζήτηση"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Αποθ. εικόνας"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Χαμηλή μπαταρία. Δεν είναι δυνατή η εκτέλεση του προγράμματος περιήγησης"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Εύρεση λέξης"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Προσθήκη στην Αρχική οθόνη"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Προσθήκη στην αρχική οθόνη"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Δημοφιλέστερες τοποθεσίες"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Κοινή χρήση μέσω Facebook"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Κοινή χρήση μέσω Twitter"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Αλλαγή προβολής"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "Επιλογή διευθύνσεων URL"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "Αυτή η τοποθεσία επιχειρεί να ανοίξει ένα αναδυόμενο παράθυρο"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Αποκλ. αναδυόμενων παραθ."
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Πρόγραμμα ανάγνωσης κειμένου"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Αντιγραφή εικόνας"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Αποθ. εικόνας"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Αναπαραγωγή"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Επιλογή"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Μετάβαση προς τα πίσω"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Μετάβαση προς τα εμπρός"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Διακοπή"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Επαναφόρτιση"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Επικόλληση"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Περισσότερα"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Αποτυχία"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Άνοιγ. σε νέο παράθ."
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Προβολή λίστας λήψεων"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "Αντιγραφή URL"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "Αντιγραφή URL σε"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Προβολή εικόνας"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Ρυθμίσεις απόρρητου"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Διαγραφή μνήμης cache"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Εκκαθάριση ιστορικού"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Ενεργοποίηση πρόσθετων"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Επιλογή μηχανής αναζήτησης"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Διαγραφή αποθηκεμένου αναγνωριστικού/Κωδικού"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Διαγραφή όλων των δεδομένων cookie"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Πάνω"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Μέγεθος γραμματοσειράς"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Διαγράφηκε"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Προεπιλεγμένη προβολή"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Ρυθμ. περιεχομένου σελ."
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "Με διάκριση πεζών-κεφαλαίων"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Plug-in"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Λίστα πρόσθετων"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Τοπική αποθήκευση"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Διαγραφή δεδομένων περιήγησης"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Φόρτωση..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Φόρτωση..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "Εισαγωγή URL"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Κλείδωμα"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Ξεκλείδωμα"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Τροποποίηση"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Pageup"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Pagedown"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Κατάσταση λειτουργίας προγραμματισμού"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Κενό"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Πιστοποιητικά"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Σελιδοδείκτες"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Εισαγωγή ονόματος"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Όνομα"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Αποστολή μέσω email"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Αποστολή μέσω μηνύματος"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Ρυθμίσεις"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Όνομα χρήστη"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Υπάρχει ήδη"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Αποθηκεύτηκε"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Ανεπαρκής μνήμη"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Σφάλμα δικτύου"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Να γίνεται πάντα ερώτηση"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Κάρτα μνήμης"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Τηλέφωνο"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Δεν υπάρχουν λογαριασμοί"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Σελίδα σφάλματος"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Η ιστοσελίδα δεν είναι διαθέσιμη προσωρινά"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Η ιστοσελίδα δεν είναι διαθέσιμη"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Η φόρτωση των πλαισίων απέτυχε"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "Προέκυψε το παρακάτω σφάλμα κατά την ανάκτηση της ιστοσελίδας %s."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Δεν είναι δυνατή η ανάκτηση της ιστοσελίδας. (Η ιστοσελίδα ενδέχεται να μην είναι διαθέσιμη προσωρινά ή να έχει μετακινηθεί σε νέα διεύθυνση URL)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Παρακάτω θα βρείτε την πιο πιθανή αιτία για αυτό"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Η σύνδεση στο δίκτυο δεν έγινε κανονικά"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Ελέγξτε τη διεύθυνση URL της ιστοσελίδας"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Να γίνει επαναφόρτωση της ιστοσελίδας αργότερα"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Σελιδοδείκτης"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Τίτλος"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Εισαγωγή τίτλου"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Φάκελοι"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Να επιτρέπεται"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Άρνηση"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Σφάλμα ασφαλείας: Μη αξιόπιστο πιστοποιητικό διακομιστή"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "Επιλέχθηκαν %d στοιχεία"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "Επιλέχθηκε 1 στοιχείο"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Προσθήκη κλιπ στο Web"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Δημιουργήθηκε συντόμευση"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Επιλογή λέξης"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Εύρ. σε σελίδα"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Εύρ. σε σελίδα"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Λίστα"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Επιλογή όλων"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Μήνυμα"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "Email"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Άκυρο"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "Αντ. URL σύνδ."
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Προβολή εικόνας"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Άνοιγμ.σε νέα σελ."
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Άνοιγμα"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Επιλογή κειμένου ενεργό"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Προσθ.στους σελιδ/τες"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Επεξεργ."
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Διαγρ."
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Διαγραφή"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Άκυρο"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Επεξεργασία σελιδοδείκτη"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Μηνύματα"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "Email"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Επεξεργασία"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Διαγραφή"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Προσθήκη στους σελιδ/τες"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Μέγεθος γραμματοσειράς"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Μεγάλο"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Μικρή"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Ταχύτητα"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Διεύθ.διακ.μεσολάβ."
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Θύρα proxy"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Ok"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Έκδοση"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Εγκατ."
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Τρέχουσα σελίδα"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Εισαγωγή ονόματος φακέλου"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Εισαγωγή ονόματος σελιδοδείκτη"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Να μην ερωτηθώ ξανά"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "Δε βρέθηκε η URL"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "Το %s ζητά την τοποθεσία σας"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Απομνημόνευση προτίμησης"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Εμφάνιση εικόνων"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Εμφάνιση προειδοποιήσεων ασφαλείας"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Απομνημόνευση κωδ. πρόσβ."
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Διαγραφή κωδ. πρόσβασης"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Διαγραφή όλων των αποθηκευμένων κωδικών πρόσβασης;"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Διαγραφή όλων των cookie. Συνέχεια;"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Απομνημόνευση των δεδομένων φορμών"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Επαναφορά της προεπιλογής"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Επαναφορά όλων των ρυθμίσεων στις προεπιλεγμένες τιμές. Συνέχεια;"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Διαγραφή μνήμης cache;"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Διαγραφή όλου του ιστορικού;"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Θα εκκαθαριστεί το ιστορικό του προγράμματος περιήγησης"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Πάντα ενεργοποίηση"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Ενεργοποίηση τοποθεσίας"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Εκκαθάριση πρόσβασης τοποθεσίας"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Αδύνατη η προσθήκη σελιδοδείκτη. Συμπληρώθηκε ο μέγιστος αριθμός σελιδοδεικτών"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Διαγραφή πληροφοριών πρόσβασης τοποθεσίας για τον ιστότοπο;"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Εκτύπωση"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "Αναζήτηση ή εισαγωγή διεύθυνσης URL"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Αυτόματο"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Χειροκίνητα"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Χαμηλή"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Μεσαίο"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Κενή σελίδα"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Αποτυχία εγκατάστασης"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Ρυθμίσεις τοποθεσίας Web"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Υψηλή"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Αποθήκευση σύνδεσης"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Κοινή χρήση σύνδεσης"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Ιδιωτικό απόρρητο και ασφάλεια"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Αποθήκευση για ανάγνωση εκτός σύνδεσης"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Θέση"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Δεδομένα φορμών"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Διαγραφή δεδομένων φορμών"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Διαγραφή όλων των αποθηκευμένων κωδικών πρόσβασης"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Προστέθηκε στους σελιδοδείκτες"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Καταργήθηκε από τους σελιδοδείκτες"
+

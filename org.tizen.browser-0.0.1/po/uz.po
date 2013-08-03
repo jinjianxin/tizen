@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Xabar berilmoqda..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Bajarilmoqda..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Qayta ishlash yakunlanmadi"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Urinish"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Yuklab olish menejeri"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Noto‘g‘ri deskriptor"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Faylni ochib bo‘lmaydi"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Yuklab olinsinmi?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Tanlangan"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Yuklab olish bekor qilindi"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Oxirgi sah-dan davom et"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Sahifa"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Lug‘at"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "Brauzer haqida"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Tur"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Emitent"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Tasvirlarni aks ettirish"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Yuklab olish"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "URL kiritish"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Jild"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Asosiy sahifa"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Albom ko‘rinishi"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Veb-hujjatlar yo‘q"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Natijalar topilmadi"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Ixtiyoriy"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Flashni ishga tushirish"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "JavaScriptni ishga tushirish"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Umumiy nomi:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Tashkilot birligi:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Tashkilot:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "Foydalanuvchi agenti"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Imtiyozlilar"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Faollashtirish xatosi"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Avvaldan ishlamoqda..."
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Amalga oshirilmagan"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Haqiqiylikni tekshirib bo‘lmadi"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Qayta yozilsinmi?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL-manzil"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Jurnal"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Yuklanmalar ro‘yxati"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Avval o‘rnatilgan"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Xabar berilmoqda..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Qo‘llab-quvvatlanmaydigan tarkib"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Xato: xost nomiga ruxsat berib bo‘lmaydi"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Proksiga ulanib bo‘lmaydi"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "SSL sertifikatlari yo‘q"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Fayl o‘lchami ruxsat etilgan maksimal o‘lchamdan katta"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Nom kiriting:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Keyingi"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Yangi jild"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Veb-huj.ga qo‘sh"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Yangi oyna"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL-manzil"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URLdan foydalanib bo‘lmaydi"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "%s URLdan foydalanib bo‘lmaydi. U vaqtincha ishlamayotgan yoki boshqa foydalanib bo‘lmaydigan bo‘lishi mumkin"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Jild"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Jild nomi"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Jild nomi avvaldan ishlatilmoqda"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Sarlavha yo‘q"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Ko‘p oynali"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Jurnallar yo‘q"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Saqlangan veb-hujjatlarga qo‘shish"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Veb-hujjatni tahrirlash"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Jild nomi:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Barchasini tanlash"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Yuklab olish menejeri"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "RSS-kanalni qo‘shish"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "RSS-kanalarni qo‘shish"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Parametrlar"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "URL kiritish"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Parol"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Noto‘g‘ri manzil"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Avvaldan yuklamalar ro‘yxatida mavjud"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Jild nomini kiriting"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Sahifa yo‘q"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Orqada sahifalar yo‘q"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Oldinda sahifalar yo‘q"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Qayta yuklash uchun sahifa yo‘q"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Haqiqiylik tekshiruvi talab qilinadi"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Veb-hujjat avvaldan mavjud"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Jild nomi avvaldan mavjud"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Obyektni saqlab bo‘lmaydi. Keshda bo‘sh joy yetarli emas"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Elementlarni tanlang"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Sertifikat ma’lumoti"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "E-pochta orqali ulashish"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Xabarlar orqali ulashish"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Quyidagi orqali ulashish"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Brauzerni ishga tushirib bo‘lmaydi"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Manzil mavjud emas"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Boshqa ko‘rsatilmasin"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Fayl nomi bo‘sh"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Jild yaratish"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Tanlangan"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Ulashish"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Oxirgi tashrif etilgan sahifalar"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Displey"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Kenglikka moslash"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "O‘qish mumkin bo‘lgan"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Maxfiylik"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Cookie-fayllar"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Barchasini qabul qilish"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Maslahat"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Cookie-fayllar"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Cookie-fayllarni qabul qilish"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Cookie-fayllarni qabul qilish"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Barchasini qabul qilish"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Barchasini rad etish"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Identifikator/parolni avtomatik saqlash"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Yoq."
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "O‘ch."
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Birlamchi xotiraga saqlash"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Qidirish"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Tasvirni saqlash"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Batareya quvvati kam. Brauzerni ishga tushirib bo‘lmaydi"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "So‘z topish"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Asosiy ekranga qo‘shish"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Asosiy ekranga qo‘shish"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Eng ko‘p kirilgan saytlar"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Facebook orqali ulashish"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Twitter orqali ulashish"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Ko‘rin. o‘zgar."
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "URL tanlash"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "Ushbu sayt qalqib chiquvchi oynani ochishga urinmoqda"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Qalquvchi oynani bloklash"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Matnni o‘qish vositasi"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Suratdan nusxa olish"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Tasvirni saqlash"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "O‘ynatmoq"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Tanlash"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Orqaga qaytish"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Oldinga o‘tish"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "To‘xtat"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Qayta yuklash"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Qo‘shib qo‘yish"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Yana"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Xato"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Yangi oynada ochish"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Yuklamalar ro‘yxatini ko‘rib chiqish"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "URLdan nusxa olish"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "URLdan quyidagiga nusxa ko‘chirish"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Rasmni ko‘rish"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Maxfiylik parametrlari"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Keshni o'chirish"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Jurnalni tozalash"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Plaginlarni yoqish"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Qidirish mexanizmini tanlash"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Saqlangan ID/parolni o'chirib tashlash"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Barcha cookie ma’lumotlarini o'chirish"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Yuqoriga"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Shrift o‘lchami"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "O'chirildi"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Ilk ko‘rinish"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Sahifa tarkibi parametri"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "Registr hisobga olinadi"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Plag-in"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Plaginlar ro‘yxati"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Mahalliy jamlovchi"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Qidirilayotgan ma’lumotni o'chirish"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Yuklanmoqda..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Yuklanmoqda..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "URL kiritish"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Bloklash"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Blokdan chiqarish"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "O‘zgartirish"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Yuqoriga"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Pastga"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Ishlab chiqaruvchi rejimi"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Bo‘sh"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Sertifikatlar"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Saqlangan veb-hujjatlar"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Nom kiriting"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Nom"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "E-pochta orqali yuborish"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Xabar orqali yuborish"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Parametrlar"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Foydalanuvchi nomi"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Avvaldan mavjud"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Saqlandi"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Xotira yetarli emas"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Tarmoq xatosi"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Har doim so‘ralsin"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Xotira kartasi"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Telefon"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Hisob qaydnomalar yo‘q"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Xato sahifa"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Veb-sahifadan vaqtincha foydalanib bo‘lmaydi"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Veb-sahifadan foydalanib bo‘lmaydi"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Hoshiyalarni yuklab bo‘lmadi"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "%s Veb-sahifasi olinayotganda, quyidagi xato yuzaga keldi."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Veb-sahifani olib bo‘lmaydi. (Veb-sahifa vaqtincha ishlamayotgan yoki boshqa URLga ko‘chirilgan bo‘lishi mumkin)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Eng mos sabab quyida ko‘rsatilgan"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Tarmoq ulanishi yaxshi o‘rnatilmadi"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Veb-sahifa URLini tekshiring"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Veb-sahifani keyinroq qayta yuklash"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Saqlangan veb-hujjat"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Sarlavha"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Sarlavha kiriting"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Jildlar"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Ruxsat"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Rad etish"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Xavfsizlik xatosi: Ishonchsiz server sertifikati"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "%d element tanlangan"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "1 element tanlangan"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Veb-klipga qo‘shish"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Yorliq yaratildi"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "So‘z tanlang"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Sahifada topish"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Sahifada topish"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Ro‘yxat"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Barchasini tanlash"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Xabar"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "E-pochta"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Bek/qil."
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "URL havolasidan nusxa olish"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Rasmni ko‘rish"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Yangi sahifada ochish"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Ochish"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Matn tanlash yoq."
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Veb-hujjatlar"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Tahrirl."
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "O'chr"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "O'chirish"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Bekor q."
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Veb-hujjatni tahrirlash"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Xabarlar"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "E-pochta"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Tahrirlash"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "O'chirish"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Saqlangan veb-hujjatlarga qo‘shish"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Shrift o‘lchami"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Katta"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Kichik"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Tezlik"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Proksi manzili"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Proksi porti"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Bajarildi"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Versiya"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "O‘rnatish"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Joriy sahifa"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Jild nomini kiriting"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Veb-hujjat nomini kiriting"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Boshqa so‘ralmasin"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "URL topilmadi"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s Sizning joylashuvingizni talab qiladi"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Eslab qolish afzalligi"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Rasmlarni ko'rsat"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Xavfsizlik ogohlantirishlarini ko‘rsatish"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Parollarni eslab qolish"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Parollarni tozalash"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Barcha saqlangan parollar yo‘q qilinsinmi?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Barcha cookie-fayllarni yo‘q qiling. Davom ettirilsinmi?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Ma’lumotdan eslab qolish"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Birlamchi o'rnatilgan holatiga tiklash"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Barcha parametrlarni birlamchi o‘rnatilganga. Davom ettirilsinmi?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Kesh o'chirilsinmi?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Butun jurnal tozalansinmi?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Brauzer navigatsiyalash jurnali tozalanadi"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Har doim yoqilgan holda"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Joylashuvni yoqish"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Joylashuvga kirishni tozalash"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Veb-hujjatni qo‘shib bo‘lmaydi. Veb-hujjatlar soni ruxsat etilgan maksimal miqdorga yetdi"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Veb-saytga kirish joylashuvi haqidagi ma'lumot o'chirilsinmi?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Chop etish"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "URL-manzilni qidirish yoki kiritish"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Avtomatik"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Qo‘lda"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Past"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "O‘rtacha"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Bo‘sh sahifa"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "O‘rnatish bajarilmadi"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Veb-sayt parametrlari"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Yuqori"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Linkni saqlash"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Linkni ulashish"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Maxfiylik va xavfsizlik"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Offlayn o‘qish uchun saqlash"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Joylashuv"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Shakl ma’lumoti"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Ma’lumotdan o'chirib tashlash"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Barcha saqlangan parollarni o'chirib tashlash"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Saqlangan veb-hujjatlarga qo‘shildi"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Veb-hujjatlardan olib tashlandi"
+

@@ -1,0 +1,134 @@
+/*
+ * Copyright 2012  Samsung Electronics Co., Ltd
+ *
+ * Licensed under the Flora License, Version 1.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.tizenopensource.org/license
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ */
+
+#include "browser-macro.edc"
+
+collections {
+	group {
+		name: "browser-reader/main_layout";
+		images {
+			image: "browser-view-images/reader/I01_popup_bg.png" COMP;
+			image: "browser-view-images/reader/I01_popup_bottom_bg.png" COMP;
+		}
+		parts {
+			part { name: "bg";
+				mouse_events: 1;
+				repeat_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 0 0 0 200;
+				}
+			}
+			part { name: "content_bg";
+				mouse_events: 1;
+				type: IMAGE;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.05 0.05; }
+					rel2 { relative: 0.95 0.85; }
+					image.normal: "browser-view-images/reader/I01_popup_bg.png";
+					image.border: 14 14 14 14;
+				}
+			}
+			part { name: "reader_view_bg";
+				mouse_events: 1;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to:"elm.swallow.reader_view"; }
+					rel2 { relative: 1.0 1.0; to:"elm.swallow.reader_view"; }
+					color: 255 255 255 255;
+				}
+			}
+			part {
+				name: "elm.swallow.reader_view";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.025 0.025; to: "content_bg"; }
+					rel2 { relative: 0.975 0.975; to: "content_bg"; }
+				}
+			}
+			part {
+				name: "elm.swallow.waiting_progress";
+				type: SWALLOW;
+				mouse_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.5 0.5;
+					min: 60 60;
+					max: 60 60;
+					fixed: 1 1;
+					rel1 { relative: 0.0 0.0; to: "reader_view_bg"; }
+					rel2 { relative: 1.0 1.0; to: "reader_view_bg"; }
+				}
+			}
+			part { name: "close_button_bg";
+				mouse_events: 1;
+				type: IMAGE;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 0 96;
+					max: 999999 96;
+					fixed: 0 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.015 0.985; to: "content_bg"; }
+					rel2 { relative: 0.985 0.985; to: "content_bg"; }
+					image.normal: "browser-view-images/reader/I01_popup_bottom_bg.png";
+					image.border: 3 3 2 6;
+				}
+			}
+			part {
+				name: "elm.swallow.close_button";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 402 74;
+					max: 402 74;
+					fixed: 1 1;
+					align: 0.5 0.5;
+					rel1 { relative: 0.0 0.0; to: "close_button_bg"; }
+					rel2 { relative: 1.0 1.0; to: "close_button_bg"; }
+				}
+			}
+		}
+	}
+}
+

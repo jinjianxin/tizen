@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Tilkynni..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Vinnsla í gangi..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Vinnslu lokið"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Reyna aftur"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Stjórnun niðurhals"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Ógildur öryggislýsandi"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Mistókst að opna skrá"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Á að hala niður?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Valið"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Það var hætt við niðurhal"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Áfram frá síðustu síðu"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Síða"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Orðabók"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "Um vafra"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Gerð"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Útgefandi"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Birta myndir"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Niðurhal"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "Slá inn slóð"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Mappa"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Heimasíða"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Landslag"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Ný bókamerki"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Ekkert fannst"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Valkvæmt"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Keyra Flash"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "Keyra Java-vefforskrift"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Sameiginlegt nafn:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Deild fyrirtækis:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Fyrirtæki:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "Fulltrúi notanda"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Sérstillingar"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Ræsingarvilla"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Er þegar í gangi..."
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Ekki notað"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Sannprófun mistókst"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Viltu skrifa yfir?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "Vefslóð"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Saga"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Niðurhalslisti"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Er þegar uppsett"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Tilkynni..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Óstutt efni"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Villa: Ekki er hægt að nota hýsisheitið"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Ekki náðist í staðgengilsþjón"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "SSL-vottorð vantar"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Skráastærð er yfir hámarki fyrir upphleðslu"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Sláðu inn nafn:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Næsta"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Ný mappa"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Bæta við bókamerki"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Nýr gluggi"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "Vefslóð"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "Vefslóð:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "Slóðin er ekki tiltæk"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "Slóðin %s er ekki tiltæk. Hugsanlega liggur hún tímabundið niðri eða er ekki lengur í notkun"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Mappa"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Heiti möppu"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Möppuheitið er þegar í notkun"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Titil vantar"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Margir gluggar"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Engin saga"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Bæta við Bókamerki"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Breyta bókamerki"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Möppuheiti:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Velja allt"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Stjórnun niðurhals"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "Bæta við RSS-straumi"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "Bæta við RSS-straumum"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Stillingar"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "Slá inn slóð"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Aðgangsorð"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Ógilt veffang"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Er þegar á niðurhalslista"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Ritið heiti möppu"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Engin síða"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Engar síður eru til að fletta til baka"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Engar síður eru til að fletta áfram"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Engin síða til að endurhlaða"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Sannprófun er nauðsynleg"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Bókamerkið er þegar til"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Sama skrárheiti er til fyrir"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Ekki tókst að vista hlut. Skyndiminni of lítið"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Velja hluti"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Skírteinisupplýsingar"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Samnýta með tölvupósti"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Samnýta með skilaboðum"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Samnýta um"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Mistókst að opna vafra"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Ekkert netfang"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Aldrei sýna aftur"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Skrárheiti tómt"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Búa til möppu"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Valið"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Samnýta"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Nýlega opnaðar vefsíður"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Skjár"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Fella að breidd"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Læsileg"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Leynd"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Fótspor"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Samþykkja allt"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Beiðni"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Fótspor"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Samþykkja fótspor"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Samþykkja fótspor"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Samþykkja allt"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Hafna öllu"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Sjálfvirk vistun auðkennis eða lykilorðs"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Kveikt"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Slökkt"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Sjálfgefinn vistunarstaður"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Leit"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Vista mynd"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Rafhlaðan er að verða tóm og því er ekki hægt að keyra vafrann"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Finna orð"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Setja á heimaskjá"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Setja á heimaskjá"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Mest opnuð svæði"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Birta í gegnum Facebook"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Samnýta um Twitter"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Breyta sýn"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "Velja vefslóðir"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "Þetta svæði er að reyna að opna sprettiglugga"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Loka fyrir sprettiglugga"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Textalesari"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Afrita mynd"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Vista mynd"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Spila"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Velja"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Fara til baka"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Fara áfram"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Stöðva"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Endurhlaða"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Líma"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Meira"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Mistókst"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Opna í nýjum glugga"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Skoða niðurhalslista"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "Afrita slóð"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "Afrita slóð í"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Skoða mynd"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Einkastillingar"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Hreinsa skyndiminni"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Hreinsa feril"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Gera viðbætur virkar"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Velja leitarvél"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Eyða vistuðu auðkenni/lykilorði"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Hreinsa öll fótsporagögn"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Upp"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Leturstærð"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Eytt"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Sjálfgefin skjár"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Efnisstillingar síðu"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "Há- og lágstafir"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Tengja"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Viðbótalisti"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Staðbundið minni"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Eyða vafragögnum"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Hleð..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Hleð..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "Slá inn slóð"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Læsa"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Taka úr lás"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Breyta"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Upp"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Niður"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Hönnunarstilling"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Tómt"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Skírteini"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Bókamerki"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Rita nafn"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Heiti"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Senda í tölvupósti"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Á að senda með skilaboðum?"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Stillingar"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Notandanafn"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Er þegar til"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Vistað"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Ekki er nægt minni"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Netvilla"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Spyrja alltaf"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Minniskort"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Sími"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Engir reikningar"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Villusíða"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Vefsíðan er ekki tiltæk eins og er"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Vefsíðan er ekki tiltæk"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Mistókst að hlaða ramma"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "Eftirfarandi villa kom upp þegar vefsíðan %s var sótt."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Tókst ekki að sækja vefsíðu. (Vefsíðan liggur hugsanlega niðri tímabundið eða hefur flust á aðra slóð)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Líklegasta orsökin kemur fram að neðan"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Eðlilegri nettengingu var ekki komið á"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Athugaðu slóð vefsíðunnar"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Endurnýjaðu vefsíðuna síðar"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Bókamerki"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Titill"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Rita titil"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Möppur"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Leyfa"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Hafna"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Öryggisvilla: Ótraust vottorð netþjóns"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "%d atriði valin"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "1 atriði valið"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Bæta við vefklippur"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Flýtileið var búin til"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Velja orð"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Finna á síðu"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Finna á síðu"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Internetið"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Listi"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Velja allt"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Skilaboð"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "Tölvupóstur"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Hætta við"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "Afrita tengil"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Skoða mynd"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Opna á nýrri síðu"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Opna"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Það er kveikt á textavali"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Bókamerki"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Breyta"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Eyða"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Eyða"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Hætta við"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Breyta bókamerki"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Skilaboð"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "Tölvupóstur"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Breyta"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Eyða"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Bæta við Bókamerki"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Leturstærð"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Stórt"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Lítið"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Hraði"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Vistfang staðgengilsnetþjóns"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Tengi fyrir staðgengilnetþjón"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Lokið"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Útgáfa"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Setja upp"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Opin síða"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Ritið heiti möppu"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Sláðu inn heiti bókamerkis"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Ekki spyrja aftur"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "Slóðin fannst ekki"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s biður um staðsetningu þína"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Muna stillingu"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Sýna myndir"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Sýna öryggisviðvaranir"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Muna lykilorð"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Hreinsa lykilorð"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Eyða öllum vistuðum lykilorðum?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Öllum fótsporum verður eytt. Viltu halda áfram?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Vista innslegnar upplýsingar"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Endurstilla á sjálfgildi"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Sjálfgefnar stillingar verða notaðar. Viltu halda áfram?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Á að hreinsa skyndiminni?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Á að hreinsa allan ferilinn?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Listi yfir notaðar vefslóðir verður hreinsaður"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Alltaf kveikt"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Virkja staðsetningu"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Hreinsa aðgang að staðsetningu"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Mistókst að bæta við bókamerki. Hámarksfjölda bókamerkja er náð"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Eyða staðaraðgangi fyrir vefsvæði?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Prenta"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "Leita eða slá inn vefslóð"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Sjálfvirkt"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Handvirkt"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Lítil"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Miðlungs"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Auð síða"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Uppsetning mistókst"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Vefsíðustillingar"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Mikið"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Vista tengil"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Samnýta tengil"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Gagnaleynd og öryggi"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Vista og lesa án tengingar"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Staðsetning"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Innsláttargögn"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Hreinsa innslegnar upplýsingar"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Hreinsa öll vistuð lykilorð"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Bætt við bókamerki"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Fjarlægt úr bókamerkjum"
+

@@ -1,0 +1,645 @@
+/*
+ * Copyright 2012  Samsung Electronics Co., Ltd
+ *
+ * Licensed under the Flora License, Version 1.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.tizenopensource.org/license
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ */
+
+#include "browser-macro.edc"
+
+collections {
+	group {
+		name: "browser/browser-multi-window";
+		images {
+
+		}
+		parts {
+			/* For view change effect. */
+			part { name: "rect.bg_clipper";
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					color: 255 255 255 0;
+					rel1 { relative: 0.0 0.0; to: "bg"; }
+					rel2 { relative: 1.0 1.0; to: "bg"; }
+				}
+				description {
+					state: "visible" 0.0;
+					color: 255 255 255 255;
+					rel1 { relative: 0.0 0.0; to: "bg"; }
+					rel2 { relative: 1.0 1.0; to: "bg"; }
+				}
+			}
+			part { name: "bg2";
+				mouse_events: 1;
+				repeat_events: 0;
+				type: RECT;
+				scale: 1;
+				/* For view change effect. */
+				clip_to: "rect.bg_clipper";
+				description {
+					state: "default" 0.0;
+					align: 0.0 0.0;
+					visible: 1;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 0 0 0 0;
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					color: 0 0 0 180;
+				}
+			}
+			part { name: "bg";
+				mouse_events: 1;
+				repeat_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					align: 0.0 0.0;
+					visible: 1;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 0 0 0 0;
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					color: 0 0 0 0;
+				}
+			}
+			/* For view change effect. */
+			part { name: "rect.scroller_clipper";
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					color: 255 255 255 255;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.scroller"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.scroller"; }
+				}
+				description {
+					state: "invisible" 0.0;
+					color: 255 255 255 0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.scroller"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.scroller"; }
+				}
+			}
+			part {
+				name: "elm.swallow.scroller";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				/* For view change effect. */
+				clip_to: "rect.scroller_clipper";
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					fixed: 1 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.2; }
+					rel2 { relative: 1.0 0.9; }
+				}
+				description {
+					state: "invisible" 0.0;
+					inherit: "default" 0.0;
+					visible: 0;
+				}
+			}
+			/* For view change effect. */
+			part { name: "rect.gengrid_clipper";
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					color: 255 255 255 0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.gengrid"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.gengrid"; }
+				}
+				description {
+					state: "visible" 0.0;
+					color: 255 255 255 255;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.gengrid"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.gengrid"; }
+				}
+			}
+			part {
+				name: "elm.swallow.gengrid";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				/* For view change effect. */
+				clip_to: "rect.gengrid_clipper";
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					fixed: 1 1;
+					align: 0.0 0.5;
+					rel1 { relative: 0.0 0.05; }
+					rel2 { relative: 1.0 0.95; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+#if 0
+			part {
+				name: "elm.swallow.close_multi_window_button";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 210 69;
+					max: 210 69;
+					fixed: 1 1;
+					align: 1.0 1.0;
+					rel1 { relative: -0.05 0.98; to_x: "elm.swallow.view_change_button"; }
+					rel2 { relative: -0.05 0.98; to_x: "elm.swallow.view_change_button"; }
+				}
+			}
+			part {
+				name: "elm.swallow.view_change_button";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 210 69;
+					max: 210 69;
+					fixed: 1 1;
+					align: 0.5 1.0;
+					rel1 { relative: 0.5 0.98; }
+					rel2 { relative: 0.5 0.98; }
+				}
+			}
+			part {
+				name: "elm.swallow.new_window_button";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 210 69;
+					max: 210 69;
+					fixed: 1 1;
+					align: 0.0 1.0;
+					rel1 { relative: 1.05 0.98; to_x: "elm.swallow.view_change_button"; }
+					rel2 { relative: 1.05 0.98; to_x: "elm.swallow.view_change_button"; }
+				}
+			}
+#endif
+			part {
+				name: "elm.title";
+				type: TEXT;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 0 40;
+					fixed: 0 1;
+					align: 0.5 0.0;
+					rel1 { relative: 0.0 1.0; to_x: "bg"; to_y: "elm.swallow.page_control"; }
+					rel2 { relative: 1.0 1.0; to_x: "bg"; to_y: "elm.swallow.page_control"; }
+					text {
+						font: FONT_ROM;
+						size: 30;
+						min: 0 0;
+						align: 0.5 1.0;
+					}
+					color: 255 255 255 255;
+				}
+				description {
+					state: "invisible" 0.0;
+					inherit: "default" 0.0;
+					visible: 0;
+				}
+			}
+			part {
+				name: "elm.url";
+				type: TEXT;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 0 40;
+					fixed: 0 1;
+					align: 0.5 0.0;
+					rel1 { relative: 0.0 1.0; to_x: "bg"; to_y: "elm.title"; }
+					rel2 { relative: 1.0 1.0; to_x: "bg"; to_y: "elm.title"; }
+					text {
+						font: FONT_ROM;
+						size: 26;
+						min: 0 0;
+						align: 0.5 1.0;
+					}
+					color: 255 255 255 255;
+				}
+				description {
+					state: "invisible" 0.0;
+					inherit: "default" 0.0;
+					visible: 0;
+				}
+			}
+			part {
+				name: "elm.swallow.page_control";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.5 0.0;
+					fixed: 0 1;
+					rel1 { relative: 0.0 0.0; to_x: "bg"; to_y: "bg"; }
+					rel2 { relative: 1.0 0.0; to_x: "bg"; to_y: "elm.title"; }
+				}
+				description {
+					state: "invisible" 0.0;
+					inherit: "default" 0.0;
+					visible: 0;
+				}
+			}
+		}
+
+		programs {
+			program { name: "show,multi_window";
+				signal: "show,multi_window,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "bg";
+			}
+			program { name: "show,bg";
+				signal: "show,bg,signal";
+				transition: LINEAR 0.8;
+				action: STATE_SET "visible" 0.0;
+				target: "bg2";
+				target: "rect.bg_clipper";
+			}
+			program { name: "hide,multi_window";
+				signal: "hide,multi_window,signal";
+				transition: LINEAR 0.2;
+				action: STATE_SET "default" 0.0;
+				target: "bg";
+			}
+			program { name: "show,grid_mode";
+				signal: "show,grid_mode,signal";
+				action: STATE_SET "invisible" 0.0;
+				//transition: ACCELERATE 0.3;
+				target: "elm.swallow.scroller";
+				target: "elm.title";
+				target: "elm.url";
+				target: "elm.swallow.page_control";
+				target: "rect.scroller_clipper";
+			}
+			program { name: "show,grid_mode,gengrid";
+				signal: "show,grid_mode,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.swallow.gengrid";
+			}
+			program { name: "show,grid_mode,clipper";
+				signal: "show,grid_mode,signal";
+				action: STATE_SET "visible" 0.0;
+				//transition: ACCELERATE 0.3;
+				target: "rect.gengrid_clipper";
+			}
+
+			program { name: "show,normal_mode";
+				signal: "show,normal_mode,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.scroller";
+				target: "elm.title";
+				target: "elm.url";
+				target: "elm.swallow.page_control";
+			}
+			program { name: "show,normal_mode,clipper";
+				signal: "show,normal_mode,signal";
+				action: STATE_SET "default" 0.0;
+				//transition: ACCELERATE 0.3;
+				target: "rect.scroller_clipper";
+			}
+			program { name: "hide,grid_mode,clipper";
+				signal: "show,normal_mode,signal";
+				action: STATE_SET "default" 0.0;
+				//transition: ACCELERATE 0.3;
+				target: "rect.gengrid_clipper";
+				target: "elm.swallow.gengrid";
+				after: "delete,gengrid";
+			}
+			/* Send "delete,gengrid,signal"
+			 * to delete gengrid after view change effect */
+			program { name: "delete,gengrid";
+				source: "elm.swallow.gengrid";
+				action: SIGNAL_EMIT "delete,gengrid,signal" "";
+			}
+		}
+	}
+
+	group {
+		name: "browser/multi-window/item";
+		images{
+			image: "multi-window/I01_Btn_delete_01.png" COMP;
+			image: "multi-window/I01_Btn_delete_01_press.png" COMP;
+		}
+		parts {
+			part { name: "bg";
+				mouse_events: 0;
+				scale: 1;
+				type: RECT;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 0 0 0 0;
+				}
+			}
+			part { name: "rect.clipper";
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					color: 255 255 255 255;
+					rel1 { relative: 1.0 0.0; to_x: "padding,snapshot_left"; }
+					rel2 { relative: 0.0 1.0; to_x: "padding,snapshot_right"; }
+				}
+				description {
+					state: "grey" 0.0;
+					color: 255 255 255 125;
+					rel1 { relative: 1.0 0.0; to_x: "padding,snapshot_left"; }
+					rel2 { relative: 0.0 1.0; to_x: "padding,snapshot_right"; }
+				}
+			}
+			part { name: "elm.swallow.snapshot";
+				type: SWALLOW;
+				mouse_events: 1;
+				repeat_events: 1;
+				scale: 1;
+				clip_to: "rect.clipper";
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.5;
+					rel1 { relative: 1.0 0.0; to_x: "padding,snapshot_left"; }
+					rel2 { relative: 0.0 1.0; to_x: "padding,snapshot_right"; }
+				}
+			}
+			part { name: "padding,snapshot_left";
+				type: RECT;
+				mouse_events: 0;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					min: 22 0;
+					fixed: 1 0;
+					visible: 0;
+					align: 0.0 0.5;
+					rel1 { relative: 0.0 0.0; to: "bg"; }
+					rel2 { relative: 0.0 1.0; to: "bg"; }
+				}
+			}
+			part { name: "padding,snapshot_right";
+				type: RECT;
+				mouse_events: 0;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					min: 22 0;
+					fixed: 1 0;
+					visible: 0;
+					align: 1.0 0.5;
+					rel1 { relative: 1.0 0.0; to: "bg"; }
+					rel2 { relative: 1.0 1.0; to: "bg"; }
+				}
+			}
+			part { name: "elm.image.delete_window";
+				type: IMAGE;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 75 75;
+					max: 75 75;
+					fixed: 1 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.snapshot"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.snapshot"; }
+					image.normal: "multi-window/I01_Btn_delete_01.png";
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+				description {
+					state: "pressed" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+					image.normal: "multi-window/I01_Btn_delete_01_press.png";
+				}
+			}
+		}
+		programs {
+			program { name: "grey,snapshot";
+				signal: "grey,snapshot,signal";
+				action: STATE_SET "grey" 0.0;
+				transition: ACCELERATE 0.3;
+				target: "rect.clipper";
+				after: "hide,delete_window_icon";
+			}
+			program { name: "non_grey,snapshot";
+				signal: "non_grey,snapshot,signal";
+				action: STATE_SET "default" 0.0;
+				target: "rect.clipper";
+			}
+			program { name: "show,delete_window_icon";
+				signal: "show,delete_window_icon,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.image.delete_window";
+			}
+			program { name: "hide,delete_window_icon";
+				signal: "hide,delete_window_icon,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.image.delete_window";
+			}
+			program {
+				name: "delete_button_press";
+				signal: "mouse,down,1";
+				source: "elm.image.delete_window";
+				script {
+					new st[31];
+					new Float:vl;
+					get_state(PART:"elm.image.delete_window", st, 30, vl);
+
+					new st_1[31];
+					new Float:vl_1;
+					get_state(PART:"rect.clipper", st_1, 30, vl_1);
+
+					if (!strcmp(st, "visible") && !strcmp(st_1, "default"))
+						set_state(PART:"elm.image.delete_window", "pressed", 0.0);
+				}
+			}
+			program {
+				name: "delete_button_release";
+				signal: "mouse,up,1";
+				source: "elm.image.delete_window";
+				script {
+					new st[31];
+					new Float:vl;
+					get_state(PART:"elm.image.delete_window", st, 30, vl);
+
+					new st_1[31];
+					new Float:vl_1;
+					get_state(PART:"rect.clipper", st_1, 30, vl_1);
+
+					if (!strcmp(st, "pressed") && !strcmp(st_1, "default"))
+						set_state(PART:"elm.image.delete_window", "visible", 0.0);
+				}
+			}
+		}
+	}
+	group {
+		name: "browser/multi-window/grid_item";
+		images{
+			image: "multi-window/I01_Btn_delete_01.png" COMP;
+			image: "multi-window/I01_Btn_delete_01_press.png" COMP;
+		}
+		parts {
+			part { name: "bg";
+				mouse_events: 1;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					fixed: 1 1;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 0 0 0 0;
+				}
+			}
+			part { name: "elm.swallow.snapshot";
+				type: SWALLOW;
+				scale: 1;
+				mouse_events: 1;
+				repeat_events: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					fixed: 1 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: bg; }
+					rel2 { relative: 1.0 1.0; to: bg; }
+				}
+			}
+			part { name: "delete_icon";
+				type: IMAGE;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 48 48;
+					max: 48 48;
+					fixed: 1 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.snapshot"; }
+					rel2 { relative: 0.0 0.0; to: "elm.swallow.snapshot"; }
+					image.normal: "multi-window/I01_Btn_delete_01.png";
+				}
+				description {
+					state: "pressed" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+					image.normal: "multi-window/I01_Btn_delete_01_press.png";
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part { name: "delete_icon_click_area";
+				type: RECT;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: -0.3 -0.3; to: "delete_icon"; }
+					rel2 { relative: 1.3 1.3; to: "delete_icon"; }
+					color: 0 0 0 0;
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			programs{
+				program { name: "show,delete_icon";
+					signal: "show,delete_icon,signal";
+					action: STATE_SET "visible" 0.0;
+					target: "delete_icon";
+					target: "delete_icon_click_area";
+				}
+				program { name: "hide,delete_icon";
+					signal: "hide,delete_icon,signal";
+					action: STATE_SET "default" 0.0;
+					target: "delete_icon";
+					target: "delete_icon_click_area";
+				}
+				program {
+					name: "delete_button_press";
+					signal: "mouse,down,1";
+					source: "delete_icon_click_area";
+					script {
+						new st[31];
+						new Float:vl;
+						get_state(PART:"delete_icon", st, 30, vl);
+						if (!strcmp(st, "visible"))
+							set_state(PART:"delete_icon", "pressed", 0.0);
+					}
+				}
+				program {
+					name: "delete_button_release";
+					signal: "mouse,up,1";
+					source: "delete_icon_click_area";
+					script {
+						new st[31];
+						new Float:vl;
+						get_state(PART:"delete_icon", st, 30, vl);
+						if (!strcmp(st, "pressed"))
+							set_state(PART:"delete_icon", "visible", 0.0);
+					}
+				}
+			}
+		}
+	}
+}

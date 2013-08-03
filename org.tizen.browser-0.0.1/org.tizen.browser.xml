@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" package="org.tizen.browser" version="0.0.1" install-location="internal-only">
+	<label>Browser</label>
+	<author email="sangpyo7.kim@samsung.com" href="www.samsung.com">Sangpyo Kim</author>
+	<description>webkit browser with EFL</description>
+	<ui-application  type="capp"  multiple="false" taskmanage="true" nodisplay="false" exec="/opt/apps/org.tizen.browser/bin/browser" appid="org.tizen.browser">
+		<icon>org.tizen.browser.png</icon>
+		<label>Internet</label>
+		<label xml:lang="en-us">Internet</label>
+		<label xml:lang="nl-nl">Internet</label>
+		<label xml:lang="de-de">Internet</label>
+		<label xml:lang="zh-hk">互聯網</label>
+		<label xml:lang="zh-cn">互联网</label>
+		<label xml:lang="ru-ru">Интернет</label>
+		<label xml:lang="ko-kr">인터넷</label>
+		<label xml:lang="zh-tw">網際網路</label>
+		<label xml:lang="ja-jp">インターネット</label>
+		<label xml:lang="es-es">Navegador</label>
+		<label xml:lang="el-gr">Internet</label>
+		<label xml:lang="it-it">Internet</label>
+		<label xml:lang="tr-tr">Internet</label>
+		<label xml:lang="pt-pt">Internet</label>
+		<label xml:lang="fr-fr">Internet</label>
+		<application-service>
+			<operation name="http://tizen.org/appcontrol/operation/view"/>
+			<uri name="http"/>
+			<uri name="https"/>
+			<uri name="file"/>
+		</application-service>
+		<application-service>
+			<operation name="http://tizen.org/appcontrol/operation/view"/>
+			<mime name="application/x-shockwave-flash"/>
+			<mime name="image/svg+xml"/>
+			<mime name="text/html"/>
+			<mime name="application/xml"/>
+		</application-service>
+	</ui-application>
+</manifest>

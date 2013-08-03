@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Ilmoitetaan..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Käsitellään..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Käsittely valmis"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Yritä uud."
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Latauksen hallinta"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Virheellinen kuvaus"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Tiedostoa ei voi avata"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Ladataanko?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Valittu"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Lataus peruutettu"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Jatka edel. sivulta"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Sivu"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Sanakirja"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "Tietoja selaimesta"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Tyyppi"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Myöntäjä"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Näytä kuvat"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Lataa"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "Kirjoita URL-osoite"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Kansio"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Kotisivu"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Vaaka"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Ei kirjanmerkkejä"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Tuloksia ei löytynyt"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Valinnainen"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Suorita Flash"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "Suorita JavaScript"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Yleinen nimi:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Organisaatioyksikkö:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Organisaatio:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "Käyttäjäagentti"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Valinnat"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Aktivointivirhe"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "On jo käynnissä"
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Ei toteutettu"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Todennus epäonnistui"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Korvataanko?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL-osoite"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Historia"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Latausluettelo"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "On jo asennettu"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Ilmoitetaan..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Sisältöä ei tueta"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Virhe: isäntänimeä ei voi selvittää"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Välityspalvelimeen ei saada yhteyttä"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "Ei SSL-varmenteita"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Tiedoston koko ylittää lähetykselle asetetun enimmäisrajoituksen"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Kirjoita nimi:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Seuraava"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Uusi kansio"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Lisää kirjanmerkk."
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Uusi ikkuna"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL-osoite"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL-osoite:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URL-osoite ei ole käytettävissä"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "URL-osoite %s ei ole käytettävissä. Se voi olla väliaikaisesti tai lopullisesti poissa käytöstä"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Kansio"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Kansion nimi"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Kansion nimi on jo käytössä"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Otsikko puuttuu"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Usea ikkuna"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Historioita ei ole"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Lisää kirjanmerkkeihin"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Muokkaa kirjanmerkkiä"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Kansion nimi:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Valitse kaikki"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Latauksen hallinta"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "Lisää RSS-syöte"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "Lisää RSS-syötteet"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Asetukset"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "Kirjoita URL-osoite"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Salasana"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Virheellinen osoite"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "On jo latausluettelossa"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Kirjoita kansion nimi"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Ei sivua"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Ei edellisiä sivuja"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Ei seuraavia sivuja"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Ei uudelleen ladattavaa sivua"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Todennus vaaditaan"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Kirjanmerkki on jo olemassa"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Kansion nimi on jo olemassa"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Objektia ei voi tallentaa. Välimuistissa ei ole riittävästi tilaa"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Valitse kohteet"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Sertifikaatin tiedot"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Jaa sähköpostin kautta"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Jaa viestien kautta"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Jakotapa"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Selainta ei voi käynnistää"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Ei osoitetta"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Älä näytä koskaan uudelleen"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Tiedostonimi on tyhjä"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Luo kansio"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Valittu"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Jaa"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Viimeksi avatut sivut"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Näyttö"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Sovita leveyteen"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Luku"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Yksityisyys"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Evästeet"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Hyväksy kaikki"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Kehote"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Evästeet"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Hyväksy evästeet"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Hyväksy evästeet"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Hyväksy kaikki"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Hylkää kaikki"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Tallenna tunnus/salasana automaattisesti"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Päällä"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Pois"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Oletustallennuspaikka"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Etsi"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Tallenna kuva"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Akku on loppumassa. Selainta ei voi käyttää"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Etsi sana"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Lisää alkunäytöksi"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Lisää alkunäyttöön"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Useimmin katsotut sivustot"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Jaa Facebookin kautta"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Jaa Twitterin kautta"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Vaihda näkymää"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "Valitse URL-osoitteet"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "Tämä sivusto yrittää avata ponnahdusikkunan"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Estä ponnahdusikkunat"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Tekstinlukija"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Kopioi kuva"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Tallenna kuva"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Toista"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Valitse"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Siirry taaksepäin"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Siirry eteenpäin"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Lopeta"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Lataa uudelleen"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Liitä"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Lisää"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Epäonnistui"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Avaa uud. ikkunassa"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Näytä latausluettelo"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "Kopioi URL-osoite"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "Kopioi URL-osoite kohteeseen"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Näytä kuva"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Yksityisyysasetukset"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Tyhjennä välimuisti"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Tyhjennä historia"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Ota laajennukset käyttöön"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Valitse hakukone"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Poista tallennettu tunnus/salasana"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Poista kaikki evästetiedot"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Ylös"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Kirjasinkoko"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Poistettu"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Oletusnäkymä"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Sivun sisällön asetukset"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "Kirjainkoko merkitsevä"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Laajennus"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Laajennusluettelo"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Paikallinen tallennustila"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Poista selaustiedot"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Ladataan..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Ladataan..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "Kirjoita URL-osoite"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Lukitse"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Avaa lukitus"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Muokkaa"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Sivu ylös"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Sivu alas"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Kehittäjätila"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Tyhjä"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Varmenteet"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Kirjanmerkit"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Kirjoita nimi"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Nimi"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Lähetä sähköpostiviestinä"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Lähetä viestinä"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Asetukset"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Käyttäjän nimi"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "On jo olemassa"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Tallennettu"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Ei tarpeeksi muistia"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Verkkovirhe"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Kysy aina"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Muistikortti"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Puhelin"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Ei tilejä"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Virhesivu"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Verkkosivu ei tällä hetkellä ole käytettävissä"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Verkkosivu ei ole käytettävissä"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Kehysten lataaminen epäonnistui"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "Verkkosivua %s haettaessa tapahtui seuraava virhe."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Verkkosivua ei voi hakea. (Verkkosivu on ehkä väliaikaisesti poissa käytöstä tai se on siirretty uuteen URL-osoitteeseen)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Todennäköisin syy on annettu alla"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Verkkoyhteyttä ei ole muodostettu normaalisti"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Tarkista verkkosivun URL-osoite"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Lataa verkkosivu myöhemmin uudelleen"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Kirjanmerkki"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Otsikko"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Kirjoita otsikko"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Kansiot"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Salli"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Kieltäydy"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Suojausvirhe: Palvelimen sertifikaatti ei ole luotettava"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "%d kohdetta valittu"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "1 kohde valittu"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Lisää Web-leikkeeseen"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Pikanäppäin luotu"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Valitse sana"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Etsi sivulta"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Etsi sivulta"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Luettelo"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Valitse kaikki"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Viesti"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "Sähköposti"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Peruuta"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "Kopioi linkin URL"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Näytä kuva"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Avaa uud. sivulle"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Avoin"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Tekstin valinta päällä"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Kirjanmerkit"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Muokkaa"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Poista"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Poista"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Peruuta"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Muokkaa kirjanmerkkiä"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Viestit"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "Sähköposti"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Muokkaa"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Poista"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Lisää kirjanmerkkeihin"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Kirjasinkoko"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Iso"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Pieni"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Nopeus"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Välityspalvelimen osoite"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Välityspalvelimen portti"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Valmis"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Versio"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Asenna"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Nykyinen sivu"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Kirjoita kansion nimi"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Anna kirjanmerkin nimi"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Älä kysy uudelleen"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "URL-osoitetta ei löydy"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s pyytää sijaintiasi"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Muista ensisijainen asetus"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Näytä kuvat"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Näytä suojausvaroitukset"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Muista salasanat"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Tyhjennä salasanat"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Poistetaanko kaikki tallennetut salasanat?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Kaikki evästeet poistetaan. Jatketaanko?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Muista lomaketiedot"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Palauta oletukset"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Kaikki oletusasetukset palautetaan. Jatketaanko?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Tyhjennetäänkö välimuisti?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Tyhjennetäänkö koko sivuhistoria?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Selaimen navigointihistoria tyhjennetään"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Aina käytössä"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Ota sijainti käyttöön"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Poista sijainnin käyttö"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Kirjanmerkkiä ei voi lisätä. Kirjanmerkkien enimmäismäärä on saavutettu"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Poistetaanko sivuston sijaintitiedot?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Tulosta"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "Hae tai anna URL-osoite"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Automaattinen"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Manuaalinen"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Matala"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Keskikokoinen"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Tyhjä sivu"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Asennus epäonnistui"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Sivuston asetukset"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Korkea"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Tallenna linkki"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Jaa linkki"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Yksityisyys ja tietoturva"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Tallenna luettavaksi offline-tilassa"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Osoite"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Lomaketiedot"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Poista lomaketiedot"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Poista kaikki tallennetut salasanat"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Lisätty kirjanmerkkeihin"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Poistettu kirjanmerkeistä"
+

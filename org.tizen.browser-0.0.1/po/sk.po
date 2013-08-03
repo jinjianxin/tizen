@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Odosiela sa notifikácia..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Prebieha spracovanie..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Spracovanie je dokončené"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Opakovať"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Správca sťahovaní"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Chybný deskriptor"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Súbor sa nedá otvoriť"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Stiahnuť?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Vybrané"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Sťahovanie zrušené"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Pokr. z poslednej str."
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Stránka"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Slovník"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "O prehliadači"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Typ"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Vydavateľ"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Zobraziť obrázky"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Stiahnuť"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "Zadajte adresu URL"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Priečinok"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Domovská stránka"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Na šírku"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Žiadne záložky"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Nenašli sa žiadne výsledky"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Voliteľné"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Spustiť Flash"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "Spustiť JavaScript"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Všeobecný názov:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Organizačná jednotka:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Organizácia:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "Agent používateľa"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Predvoľby"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Chyba aktivácie"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Už je spustené"
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Neimplementované"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Overenie sa nepodarilo"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Prepísať?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "História"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Zoznam stiahnutých"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Už nainštalované"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Oznamovanie..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Nepodporovaný obsah"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Chyba: nedá sa zistiť názov hostiteľa"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Nedá sa pripojiť k serveru proxy"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "Žiadne certifikáty SSL"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Veľkosť súboru prekračuje maximálny limit odosielania"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Zadajte meno:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Ďalej"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Nový priečinok"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Pridať medzi záložky"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Nové okno"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "Adresa URL nie je k dispozícii"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "Adresa URL %s nie je k dispozícii. Možno je dočasne mimo prevádzky alebo sa už nepoužíva"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Priečinok"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Názov priečinka"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Názov priečinka už existuje"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Žiadny názov"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Viacnás. okno"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Žiadne histórie"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Pridať do priečinka Záložky"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Upraviť záložku"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Názov priečinka:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Vybrať všetky"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Správca sťahovaní"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "Pridať informačný kanál RSS"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "Pridať informačné kanály RSS"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Nastavenia"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "Zadajte adresu URL"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Heslo"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Neplatná adresa"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Už existuje v zozname sťahovaní"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Zadajte názov priečinka"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Žiadna stránka"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Žiadne stránky dozadu"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Žiadne stránky dopredu"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Žiadna stránka na opätovné načítanie"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Vyžaduje sa overenie"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Záložka už existuje"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Názov priečinka už existuje"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Objekt sa nedá uložiť. Nedostatok miesta vo vyrovnávacej pamäti"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Vybrať položky"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Informácie o certifikáte"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Zdieľať cez e-mail"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Zdieľať cez správy"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Zdieľať cez"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Prehliadač sa nedá spustiť"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Žiadna adresa"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Už viac nezobrazovať"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Názov súboru prázdny"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Vytvoriť priečinok"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Vybrané"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Zdieľať"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Naposledy navštívené stránky"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Displej"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Prispôsobiť na šírku"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Čitateľný"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Súkromie"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Súbory cookie"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Prijať všetko"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Vyzvať"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Súbory cookie"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Prijať súbory cookie"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Prijať súbory cookie"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Prijať všetko"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Odmietnuť všetko"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Automaticky uložiť meno/heslo"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Zap."
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Vyp."
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Predvolené umiestnenie"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Hľadať"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Uložiť obrázok"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Batéria je takmer vybitá. Prehliadač sa nedá spustiť"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Hľadať slovo"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Pridať na úvodnú obrazovku"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Pridať na úvodnú obrazovku"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Najnavštevovanejšie lokality"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Zdieľať cez Facebook"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Zdieľať cez Twitter"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Zmeniť zobraz."
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "Vybrať adresy URL"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "Táto lokalita sa pokúša otvoriť automaticky otvárané okno"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Blokovať autom. otv. okná"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Textová čítačka"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Kopírovať obrázok"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Uložiť obrázok"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Prehrať"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Vybrať"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Prejsť dozadu"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Prejsť dopredu"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Zastaviť"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Načítať znova"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Vložiť"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Ďalšie"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Nepodarilo sa"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Otvoriť v novom okne"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Zobraziť zoznam stiahnutých"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "Kopírovať adresu URL"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "Kopírovať adresu URL do"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Zobr. obrázok"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Nastavenia súkromia"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Vymazať vyrovnávaciu pamäť"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Vymazať históriu"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Povoliť doplnky"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Vyberte vyhľadávací nástroj"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Vymazať uložené ID/heslo"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Vymazať údaje všetkých súborov cookie"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Hore"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Veľkosť písma"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Odstránené"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Predvolené zobrazenie"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Nastavenia obsahu stránok"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "Rozlišovať veľké a malé písmená"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Modul Plug in"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Zoznam doplnkov"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Lokálne ukladanie"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Vymazať údaje o prehliadaní"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Načítava sa..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Načítava sa..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "Zadajte adresu URL"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Blokovať"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Odomknúť"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Upraviť"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Str. nahor"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Str. nadol"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Vývojársky režim"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Prázdny"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Certifikáty"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Záložky"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Zadať meno"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Meno"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Odoslať cez e-mail"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Odoslať cez správu"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Nastavenia"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Užívateľské meno"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Už existuje"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Uložené"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Nedostatok pamäte"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Chyba siete"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Vždy sa pýtať"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Pamäťová karta"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Telefón"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Žiadne kontá"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Chybová stránka"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Webová stránka dočasne nie je k dispozícii"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Webová stránka nie je k dispozícii"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Nepodarilo sa načítať rámy"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "Počas načítania webovej stránky %s sa vyskytla nasledujúca chyba."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Nedá sa načítať webová stránka. (Webová stránka môže byť dočasne odstavená alebo premiestnená na novú adresu URL.)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Najpravdepodobnejšia príčina je uvedená nižšie"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Sieťové pripojenie sa nenadviazalo normálne"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Skontrolujte adresu URL webovej stránky"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Znova načítajte webovú stránku neskôr"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Záložka"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Názov"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Zadať názov"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Priečinky"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Povoliť"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Odmietnuť"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Chyba zabezpečenia: Nedôveryhodný certifikát servera"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "Vybraté položky: %d"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "1 vybratá položka"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Pridať do webového klipu"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Odkaz bol vytvorený"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Vybrať slovo"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Hľadať na str."
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Hľadať na str."
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Zoznam"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Vybrať všetky"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Správa"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "E-mail"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Zrušiť"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "Kop. adr. odk."
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Zobr. obrázok"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Otv. na novej str."
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Otvoriť"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Zapnúť výber textu"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Záložky"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Upraviť"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Odstrániť"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Odstrániť"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Zrušiť"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Upraviť záložku"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Správy"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "E-mail"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Upraviť"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Odstrániť"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Pridať do priečinka Záložky"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Veľkosť písma"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Veľké"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Malé"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Rýchlosť"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Adresa proxy"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Port proxy servera"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Hotovo"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Verzia"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Inštal."
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Aktuálna stránka"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Zadajte názov priečinka"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Zadajte názov záložky"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Už sa nepýtať"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "Adresa sa nenašla"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s žiada o vaše umiestnenie"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Zapamätať predvoľbu"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Zobraziť obrázky"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Zobraziť bezpečnostné upozornenia"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Zapamätať heslá"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Vymazať heslá"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Vymazať všetky uložené heslá?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Vymažte všetky súbory cookie. Pokračovať?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Zapamätať údaje formulára"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Obnoviť predvolené"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Všetky nastavenia na predvolené. Pokračovať?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Vymazať vyrovnávaciu pamäť?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Vymazať celú históriu?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Navigačná história prehľadávača bude vymazaná"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Vždy zapnuté"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Povoliť umiestnenie"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Vymazať prístup k umiestneniu"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Záložka sa nedá pridať. Dosiahol sa maximálny počet záložiek"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Odstrániť informácie o prístupe k umiestneniu webovej lokality?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Tlač"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "Hľadajte alebo zadajte adresu URL"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Automaticky"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Ručne"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Nízka"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Stredná"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Prázdna strana"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Inštalácia zlyhala"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Nastavenia webovej lokality"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Vysoká"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Uložiť prepojenie"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Zdieľať prepojenie"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Ochrana osobných údajov a zabezpečenie"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Uložiť na čítanie offline"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Miesto"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Údaje formulára"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Vymazať údaje formulára"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Vymazať všetky uložené heslá"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Pridané do záložiek"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Odstránené zo záložiek"
+

@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Obveščam ..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Obdelujem..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Obdelava je končana"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Pos.znova"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Upravitelj prenosov"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Neveljaven deskriptor"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Datoteke ni mogoče odpreti"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Prenesem?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Izbrano"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Nalaganje preklicano"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Nad.od zad.str."
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Stran"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Slovar"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "O brskalniku"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Vrsta"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Izdajatelj"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Prikaži slike"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Naložim"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "Vnesite URL"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Mapa"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Domača stran"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Ležeče"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Ni zaznamkov"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Ni najdenih rezultatov"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Neobvezno"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Zaženi Flash"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "Zaženi JavaScript"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Skupno ime:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Organizacijska enota:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Organizacija:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "Uporabniški agent"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Nastavitve"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Napaka vklopa"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Se že izvaja"
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Ni izvedeno"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Preverjanje pristnosti ni uspelo"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Zamenjam?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Zgodovina"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Prenesi seznam"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Že nameščeno"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Obveščam..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Nepodprta vsebina"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Napaka: imena gostitelja ni bilo mogoče razrešiti"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Proxy strežnik ni dosegljiv"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "Ni certifikatov SSL"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Velikost datoteke presega omejitev za prenos"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Vnesite ime:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Naprej"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Nova mapa"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Dodaj med Zaznamke"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Novo okno"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URL ni na voljo"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "URL %s ni na voljo. Strežnik je morda začasno ugasnjen ali pa ni več v uporabi"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Mapa"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Ime mape"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Ime mape se že uporablja"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Ni naslova"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Več oken"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Ni zgodovin"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Dodaj med zaznamke"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Uredi zaznamek"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Ime mape:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Izberi vse"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Upravitelj prenosov"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "Dodaj vir RSS"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "Dodaj vire RSS"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Nastavitve"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "Vnesite URL"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Geslo"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Neveljaven naslov"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Že obstaja na seznamu prenosov"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Vnesite ime mape"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Ni strani"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Ni prejšnjih strani"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Ni naslednjih strani"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Ni strani za ponovni prenos"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Potrebno je overjanje"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Zaznamek že obstaja"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Ime mape že obstaja"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Predmeta ni mogoče shraniti. V začasnem pomnilniku ni dovolj prostora"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Izberi elemente"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Informacije o certifikatu"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Souporaba preko e-pošte"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Souporaba preko sporočil"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Souporaba preko"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Ni mogoče zagnati brskalnika"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Ni naslova"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Nikoli več ne prikaži"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Ime datoteke je prazno"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Ustvari mapo"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Izbrano"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Deli"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Nedavno obiskane strani"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Zaslon"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Prilagodi širini"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Čitljivo"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Zasebnost"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Piškotki"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Sprejmi vse"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Vprašaj"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Piškotki"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Sprejmi piškotke"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Sprejmi piškotke"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Sprejmi vse"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Zavrni vse"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Samodejno shrani ID/geslo"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Vključeno"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Izključeno"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Privzeti pomnilnik"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Iskanje"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Shrani sliko"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Baterija je skoraj prazna. Brskalnika ni mogoče zagnati"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Najdi besedo"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Dodaj na domači zaslon"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Dodaj na domači zaslon"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Največkrat obiskane strani"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Skupna raba prek storitve Facebook"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Skupna raba prek storitve Twitter"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Spremeni pogled"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "Izberite URL-je"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "Ta stran poskuša odpreti pojavno okno"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Blokiraj pojavna okna"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Bralnik besedila"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Kopiraj sliko"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Shrani sliko"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Predvajaj"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Izberi"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Pojdi nazaj"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Pojdi naprej"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Ustavi"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Ponovno naloži"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Prilepi"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Več"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Ni uspelo"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Odpri v novem oknu"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Prikaži seznam prenosov"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "Kopiraj URL"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "Kopiraj URL na"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Prikaži sliko"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Nastavitve za varovanje zasebnosti"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Izprazni medpomnilnik"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Počisti zgodovino"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Omogoči vtičnike"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Izberite iskalnik"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Izbriši shranjen ID/geslo"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Počisti vse podatke piškotkov"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Gor"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Velikost pisave"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Izbrisano"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Privzeti pogled"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Nastavitve vsebine strani"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "Razlikovanje velikih/malih črk"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Dodatek"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Seznam vtičnikov"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Krajevni pomnilnik"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Izbriši iskane podatke"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Nalaganje..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Nalaganje..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "Vnesite URL"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Zakleni"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Odkleni"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Spremeni"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Ena str. gor"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Ena str. dol"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Način za razvijalce"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Prazno"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Certifikati"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Zaznamki"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Vnesite ime"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Ime"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Pošlji preko e-pošte"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Pošlji v sporočilu"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Nastavitve"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Uporabniško ime"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Že obstaja"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Shranjeno"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Ni dovolj pomnilnika"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Napaka omrežja"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Vedno vprašaj"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Pomnilniška kartica"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Telefon"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Ni računov"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Napaka na strani"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Spletna stran trenutno ni na voljo"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Spletna stran ni na voljo"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Okvirjev ni mogoče naložiti"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "Med prikazovanjem spletne strani %s je prišlo do te napake."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Spleten strani ni mogoče prikazati. (Lahko je začasno onemogočena ali premaknjena na drug URL)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Najverjetnejši vzrok je podan spodaj"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Omrežna povezava ni vzpostavljena pravilno"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Preverite URL spletne strani"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Spletno stran znova naložite pozneje"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Zaznamek"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Naslov"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Vnesite naslov"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Mape"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Dovoli"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Zavrni"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Varnostna napaka: Nepodprt certifikat strežnika"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "%d predmetov izbranih"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "1 predmet je izbran"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Dodaj v spletni posnetek"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Bližnjica je ustvarjena"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Izberi besedo"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Najdi na strani"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Najdi na strani"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Seznam"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Izberi vse"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Sporočilo"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "E-pošta"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Prekliči"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "Kopiraj URL"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Prikaži sliko"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Odpri na novi str."
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Odpri"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Izbira besedila vključena"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Zaznamki"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Uredi"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Izbriši"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Izbriši"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Prekliči"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Uredi zaznamek"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Sporočila"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "E-pošta"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Uredi"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Izbriši"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Dodaj med zaznamke"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Velikost pisave"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Velika"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Majhna"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Hitrost"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Naslov strežnika proxy"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Vrata strežnika proxy"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Končano"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Različica"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Namesti"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Trenutna stran"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Vnesite ime mape"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Vnesite ime zaznamka"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Ne vprašaj znova"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "Ne najdem naslova URL"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s zahteva vašo lokacijo"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Zapomni si prednostne nastavitve"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Prikaži slike"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Prikaži varnostna opozorila"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Zapomni si gesla"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Izbriši gesla"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Zbrišem vsa shranjena gesla?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Izbriše vse piškotke. Nadaljujem?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Zapomni si podatke obrazcev"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Ponastavi na privzeto"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Vse nastavitve so nastavljene na privzeto. Nadaljujem?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Izprazni medpomnilnik?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Počistim vso zgodovino?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Zgodovina navigacije brskalnika bo počiščena"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Vedno vključeno"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Omogoči položaj"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Počisti dostop do položaja"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Ni mogoče dodati zaznamka. Doseženo je največje dovoljeno število zaznamkov"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Želite izbrisati podatke za dostop do lokacije spletnega mesta?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Tiskanje"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "Poiščite ali vnesite URL"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Samodejno"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Ročno"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Nizko"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Srednja"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Prazna stran"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Namestitev ni uspela"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Nastavitve spletnega mesta"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Visoka"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Shrani povezavo"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Souporaba povezave"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Zasebnost in varnost"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Shrani za branje brez povezave"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Lokacija"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Podatki obrazcev"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Počisti podatke obrazca"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Počisti vsa shranjena gesla"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Dodano med zaznamke"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Odstranjeno iz zaznamkov"
+

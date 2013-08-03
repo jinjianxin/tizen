@@ -1,0 +1,32 @@
+<html>
+<head><title>Page Not Found</title></head>
+
+<body bgcolor="white" text="black" text-align="left">
+<!--<body bgcolor="#4c4c4c" text="white" text-align="left">-->
+<center>
+<table>
+<tr><td><h1>Page Not Found<br/></td></tr>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<script type="text/javascript">
+  function formatText(url){ //remove prefixes "http://" etc. and last "/"
+    var ret = url;
+    ret=ret.replace("http://", "");
+    ret=ret.replace("ftp://", "");
+    ret=ret.replace("https://", "");
+    ret=ret.replace("sftp://", "");
+    ret=ret.replace("file://", "");
+    if (ret.charAt(ret.length-1)=="/") ret=ret.substring(0, ret.length-1);
+    return ret;
+  }
+
+  var s = window.location.href;
+  var failingUrl = s.substring(s.indexOf("?") + 1, s.lastIndexOf("?"));
+  document.write("<p><tr><td><h2>URL: " + unescape(failingUrl) + "</h2></td></tr>");
+  var errorDesc = s.substring(s.lastIndexOf("?") + 1, s.length);
+  document.write("<tr><td><h2>Error: " + unescape(errorDesc) + "</h2></td></tr>");
+  document.write("<tr><td><h3>Google: <form method=\"get\" action=\"http://www.google.com/custom\"><input type=text name=\"q\" size=25 maxlength=100 value=\""+ formatText(unescape(failingUrl))+"\"> <input type=submit name=\"sa\" value=Search></form></h3></td></tr>");
+</script>
+</table>
+</h1>
+</body>
+</html>

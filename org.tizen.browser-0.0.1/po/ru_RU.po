@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Уведомление..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Обработка..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Обработка завершена"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Повтор"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Диспетчер загрузки"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Неверный дескриптор"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Невозможно открыть файл"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Загрузить?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Выбранное"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Загрузка отменена"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "С последней страницы"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Страница"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Словарь"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "О браузере"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Тип"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Выдан"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Показывать картинки"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Загрузить"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "Введите URL-адрес"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Папка"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Домашняя страница"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Пейзаж"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Нет закладок"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Ничего не найдено"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Выборочно"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Запускать Flash"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "Выполнять JavaScript"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Имя:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Подразделение:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Организация:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "Агент пользователя"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Параметры"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Ошибка активации"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Уже запущено"
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Не реализовано"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Сбой проверки подлинности"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Перезаписать?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Журнал"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Список загрузки"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Уже установлено"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Уведомление..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Содержимое не поддерживается"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Ошибка: не удалось преобразовать имя узла"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Невозможно связаться с прокси-сервером"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "Нет сертификата SSL"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Размер файла превышает лимит загрузки"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Введите имя:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Далее"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Новая папка"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Добавить к закладкам"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Новое окно"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URL-адрес недоступен"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "URL-адрес %s недоступен. Возможно, он временно не работает или больше не используется"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Папка"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Имя папки"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Имя папки уже существует"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Нет названия"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Несколько окон"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Нет журналов"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Добавить в Закладки"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Редактировать закладку"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Имя папки:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Выбрать все"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Диспетчер загрузки"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "Добавить RSS-новость"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "Добавить RSS-каналы"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Настройки"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "Введите URL"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Пароль"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Неверный адрес"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Уже существует в списке загрузки"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Введите имя папки"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Нет страницы"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Нет предыдущих страниц"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Нет последующих страниц"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Нет страницы для повторной загрузки"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Требуется проверка подлинности"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Закладка уже существует"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Имя папки уже существует"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Невозможно сохранить объект. Недостаточно пространства в кэше"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Выберите элементы"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Информация о сертификате"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Отправить по электронной почте"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Отправить с помощью сообщения"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Отправить через"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Не удается запустить браузер"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Нет адреса"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Больше не показывать"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Не указано имя файла"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Создать папку"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Выбранное"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Поделиться"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Недавно посещенные страницы"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Дисплей"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "По ширине"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Для чтения"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Конфиденциальность"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Файлы Cookie"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Принимать все"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Спрашивать"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Файлы Cookie"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Разрешить cookies"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Разрешить cookies"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Принимать все"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Отклонять все"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Автоматическое сохранение идентификатора и пароля"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Включено"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Выключено"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Хранилище по умолчанию"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Поиск"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Сохранить картинку"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Аккумулятор разряжен. Невозможно запустить браузер"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Поиск слова"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Добавить на главный экран"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Добавить на главный экран"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Часто посещаемые сайты"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Отправить в Facebook"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Отправить в Twitter"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Изменить вид"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "Выберите URL-адреса"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "Этот сайт пытается открыть всплывающее окно"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Блокировать всплыв. окна"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Текст"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Копировать изображение"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Сохранить картинку"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Воспроизвести"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Выбрать"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Назад"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Вперед"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Стоп"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Обновить"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Вставить"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Еще"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Сбой"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Открыть в новом окне"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Просмотр списка загрузок"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "Копировать URL"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "Копировать URL"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Просмотр картинки"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Настройки конфиденциальности"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Очистить кэш"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Очистить журнал"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Разрешить плагины"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Выбор поисковой системы"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Удалить логин/пароль"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Удалить cookies"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Вверх"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Размер шрифта"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Удалено"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "По умолчанию"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Параметры содерж.страницы"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "С учетом регистра"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Дополнительный модуль"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Список подключаемых модулей"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Локальное хранилище"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Удалить данные браузера"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Загрузка..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Загрузка..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "Введите URL-адрес"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Заблокировать"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Разблокировать"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Изменить"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Вверх"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Вниз"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Режим разработчика"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Пусто"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Сертификаты"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Закладки"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Введите имя"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Имя"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Отправить по E-mail"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Отправить в сообщении"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Настройки"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Имя пользователя"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Уже существует"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Соxранено"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Недостаточно памяти"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Ошибка сети"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Всегда спрашивать"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Карта памяти"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Телефон"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Нет учетных записей"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Страница ошибки"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Веб-страница временно недоступна"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Веб-страница недоступна"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Сбой загрузки фреймов"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "При получении веб-страницы %s произошла следующая ошибка."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Невозможно получить веб-страницу. (Возможно, она временно не работает или перемещена на новый URL)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Ниже указана наиболее вероятная причина"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Сетевое подключение установлено с ошибками"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Проверьте URL веб-страницы"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Перезагрузите веб-страницу позднее"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Закладка"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Название"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Введите название"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Папки"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Разрешить"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Отказать"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Ошибка защиты: не имеющий доверия сертификат сервера"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "Выбрано элементов: %d"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "Выбран 1 элемент"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Добавить как виджет"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Создана ссылка"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Выберите слово"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Найти на странице"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Найти на странице"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Интернет"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Список файлов"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Выбрать все"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Сообщение"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "E-mail"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Отмена"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "Копировать URL ссылки"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Просмотр картинки"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Открыть в новом окне"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Открыть"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Выделить текст"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Закладки"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Изменить"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Удал."
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Удалить"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Отмена"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Редактировать закладку"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Сообщения"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "E-mail"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Изменить"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Удалить"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Добавить в Закладки"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Размер шрифта"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Большой"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Маленький"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Скорость"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Адрес прокси"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Порт прокси"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Готово"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Версия"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Устан."
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Текущая страница"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Введите имя папки"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Введите имя закладки"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Больше не спрашивать"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "URL-адрес не найден"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s запрашивает сведения о вашем местоположении"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Запомнить настройки"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Показать изображения"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Предупреждать о безопасности"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Сохранять пароли"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Очистить пароли"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Удалить все сохраненные пароли?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Все файлы cookie будут удалены. Продолжить?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Сохранять данные форм"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Восстановить настройки по умолчанию"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Все параметры будут сброшены. Продолжить?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Очистить кэш?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Очистить весь журнал?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Журнал браузера будет удален"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Всегда вкл."
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Включить местоположение"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Удалить данные о местоположении"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Невозможно добавить закладку. Достигнуто максимальное число закладок"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Удалить сведения о доступе к веб-сайту?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Печать"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "Выполните поиск или введите URL-адрес"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Авто"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Вручную"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Низкий"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Средний"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Пустая страница"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Сбой установки"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Настройки веб-сайтов"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Высокий"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Сохранить ссылку"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Отправить ссылку"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Конфиденциальность и безопасность"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Сохранить для автономного чтения"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Местоположение"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Данные формы"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Очистить данные форм"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Удалить все сохраненные пароли"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Добавлено к закладкам"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Удалено из закладок"
+

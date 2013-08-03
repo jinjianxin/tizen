@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Melden..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Verwerken..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Verwerken voltooid"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Opnieuw"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Downloadmanager"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Ongeldige descriptor"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Kan bestand niet openen"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Downloaden?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Geselecteerd"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Downloaden geannuleerd"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Verder na ltst pag"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Pagina"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Woordenboek"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "Browserinfo"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Type"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Uitgever"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Afbeeldingen weergeven"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Downloaden"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "URL invoeren"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Map"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Startpagina"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Liggend"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Geen favorieten"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Geen resultaten gevonden"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Optioneel"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Flash uitvoeren"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "JavaScript uitvoeren"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Algemene naam:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Organisatorische eenheid:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Organisatie:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "User-agent"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Voorkeuren"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Activeringsfout"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Is al actief"
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Niet geīmplementeerd"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Verificatie mislukt"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Overschrijven?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Geschiedenis"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Downloadlijst"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Al geīnstalleerd"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Melden..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Inhoud niet ondersteund"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Fout: kan hostnaam niet oplossen"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Kan proxy niet bereiken"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "Geen SSL-certificaten"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Bestandsgrootte overschrijdt maximale uploadlimiet"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Naam invoeren:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Volgende"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Nieuwe map"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Toev. als favoriet"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Nieuw venster"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URL niet beschikbaar"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "URL %s niet beschikbaar. Deze is mogelijk tijdelijk uitgevallen of niet langer in gebruik"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Map"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Mapnaam"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Mapnaam bestaat al"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Geen titel"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Meer vensters"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Geen geschiedenis"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Toevoegen aan Favorieten"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Favoriet bewerken"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Mapnaam:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Alles selecteren"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Downloadmanager"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "RSS-feed toevoegen"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "RSS-feeds toevoegen"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Instellingen"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "URL invoeren"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Wachtwoord"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Ongeldig adres"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Bestaat al in downloadlijst"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Mapnaam invoeren"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Geen pagina"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Geen vorige pagina's"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Geen volgende pagina's"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Geen pagina opnieuw te laden"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Verificatie vereist"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Favoriet bestaat al"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Mapnaam bestaat al"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Kan object niet opslaan. Onvoldoende ruimte in cache"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Items selecteren"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Certificaatinfo"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Delen via e-mail"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Delen via Berichten"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Delen via"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Kan browser niet starten"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Geen adres"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Niet meer weergeven"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Bestandsnaam leeg"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Map maken"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Geselecteerd"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Delen"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Onlangs bezochte pagina's"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Display"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Passend in breedte"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Leesbaar"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Privacy"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Cookies"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Alles accepteren"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Vragen"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Cookies"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Cookies accepteren"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Cookies accepteren"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Alles accepteren"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Alles weigeren"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Gebruikersnaam/wachtwoord automatisch opslaan"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Aan"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Uit"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Standaardopslag"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Zoeken"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Afbeelding opslaan"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Batterij bijna leeg. Kan browser niet starten"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Woord zoeken"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Toevoegen aan startscherm"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Toevoegen aan startscherm"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Meest bezochte sites"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Delen via Facebook"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Delen via Twitter"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Wijzig weergave"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "URL´s selecteren"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "Deze site probeert een pop-upvenster te openen"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Pop-upvensters blokkeren"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Tekstlezer"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Afbeelding kopiëren"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Afbeelding opslaan"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Afspelen"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Selecteren"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Ga terug"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Ga vooruit"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Stoppen"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Opnieuw laden"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Plakken"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Meer"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Mislukt"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "In nieuw venster"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Gedownloade lijst tonen"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "URL kopiëren"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "URL kopiëren naar"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Afbeelding bekijken"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Privacy-instellingen"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Buffer leegmaken"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Geschiedenis wissen"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Invoegtoepassingen activeren"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Zoekmachine selecteren"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Opgeslagen gebruikersnaam/wachtwoord wissen"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Alle cookiegegevens wissen"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Omhoog"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Tekstgrootte"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Verwijderd"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Standaardweergave"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Instellingen pagina-inhoud"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "Hoofdlettergevoelig"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Plug-in"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Lijst met invoegtoepassingen"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Lokale opslag"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Surfgegevens verwijderen"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Laden..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Laden..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "URL invoeren"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Vergrendelen"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Ontgrendelen"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Wijzigen"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Pag. omhoog"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Pag. omlaag"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Ontwikkelaarstand"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Leeg"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Certificaten"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Favorieten"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Naam invoeren"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Naam"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Verzenden via e-mail"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Verzenden via bericht"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Instellingen"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Gebruikersnaam"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Bestaat al"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Opgeslagen"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Onvoldoende geheugen"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Netwerkfout"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Altijd vragen"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Geheugenkaart"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Telefoon"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Geen accounts"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Foutpagina"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Webpagina tijdelijk niet beschikbaar"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Webpagina niet beschikbaar"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Kan frames niet laden"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "De volgende fout is opgetreden bij het ophalen van webpagina %s."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Kan de webpagina niet ophalen. (Webpagina is mogelijk tijdelijk uitgeschakeld of naar een nieuwe URL verplaatst)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Hieronder wordt de meest waarschijnlijke oorzaak vermeld"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Netwerkverbinding niet normaal tot stand gekomen"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "URL webpagina controleren"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Webpagina later opnieuw laden"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Favorieten"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Titel"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Titel invoeren"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Mappen"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Toestaan"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Weigeren"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Beveiligingsfout: Servercertificaat niet vertrouwd"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "%d items geselecteerd"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "1 item geselecteerd"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Toevoegen aan webclip"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Sneltoets gemaakt"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Woord selecteren"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Zoek op pagina"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Zoek op pagina"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Lijst"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Alles selecteren"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Bericht"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "E-mail"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Annuleer"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "URL kopiëren"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Afbeelding bekijken"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Open in nw venster"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Openen"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Tekstselectie aan"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Favorieten"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Bewerken"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Wissen"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Wissen"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Annuleren"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Favoriet bewerken"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Berichten"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "E-mail"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Bewerken"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Wissen"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Toevoegen aan Favorieten"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Tekstgrootte"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Groot"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Klein"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Snelheid"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Proxyadres"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Poort proxy"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Gereed"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Versie"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Install."
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Huidige pagina"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Mapnaam invoeren"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Geef naam favoriet in"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Niet nogmaals vragen"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "URL niet gevonden"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s vraagt om uw locatie"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Voorkeur onthouden"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Afbeeldingen tonen"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Beveiligingswaarschuwingen weergeven"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Wachtwoorden onthouden"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Wachtwoorden wissen"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Alle opgeslagen wachtwoorden verwijderen?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Alle cookies verwijderen. Doorgaan?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Formuliergegevens onthouden"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Standaardinstellingen"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Alle instellingen op standaard. Doorgaan?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Buffer leegmaken?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Hele geschiedenis wissen?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "De navigatiehistorie van de browser wordt gewist"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Altijd aan"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Locatie activeren"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Toegang tot locatie wissen"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Kan geen favoriet toevoegen. Maximumaantal favorieten bereikt"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Toegangsgegevens voor websitelocatie verwijderen?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Afdrukken"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "URL zoeken of ingeven"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Automatisch"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Handmatig"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Laag"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Normaal"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Lege pagina"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Installatie mislukt"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Website-instellingen"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Hoog"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Koppeling opslaan"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Koppeling delen"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Privacy en beveiliging"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Opslaan voor offline lezen"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Locatie"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Formuliergegevens"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Formuliergegevens wissen"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Alle opgeslagen wachtwoorden wissen"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Toegevoegd aan favorieten"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Verwijderd uit favorieten"
+

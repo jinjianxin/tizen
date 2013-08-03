@@ -1,0 +1,340 @@
+# Install script for directory: /root/tizen-browser/org.tizen.browser-0.0.1/po
+
+# Set the install prefix
+IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
+  SET(CMAKE_INSTALL_PREFIX "/usr/local")
+ENDIF(NOT DEFINED CMAKE_INSTALL_PREFIX)
+STRING(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
+
+# Set the install configuration name.
+IF(NOT DEFINED CMAKE_INSTALL_CONFIG_NAME)
+  IF(BUILD_TYPE)
+    STRING(REGEX REPLACE "^[^A-Za-z0-9_]+" ""
+           CMAKE_INSTALL_CONFIG_NAME "${BUILD_TYPE}")
+  ELSE(BUILD_TYPE)
+    SET(CMAKE_INSTALL_CONFIG_NAME "Release")
+  ENDIF(BUILD_TYPE)
+  MESSAGE(STATUS "Install configuration: \"${CMAKE_INSTALL_CONFIG_NAME}\"")
+ENDIF(NOT DEFINED CMAKE_INSTALL_CONFIG_NAME)
+
+# Set the component getting installed.
+IF(NOT CMAKE_INSTALL_COMPONENT)
+  IF(COMPONENT)
+    MESSAGE(STATUS "Install component: \"${COMPONENT}\"")
+    SET(CMAKE_INSTALL_COMPONENT "${COMPONENT}")
+  ELSE(COMPONENT)
+    SET(CMAKE_INSTALL_COMPONENT)
+  ENDIF(COMPONENT)
+ENDIF(NOT CMAKE_INSTALL_COMPONENT)
+
+# Install shared libraries without execute permission?
+IF(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
+  SET(CMAKE_INSTALL_SO_NO_EXE "0")
+ENDIF(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/en/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/en/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/en.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/en_PH/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/en_PH/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/en_PH.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/en_US/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/en_US/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/en_US.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/ar/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/ar/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/ar.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/az/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/az/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/az.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/bg/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/bg/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/bg.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/ca/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/ca/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/ca.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/cs/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/cs/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/cs.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/da/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/da/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/da.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/de_DE/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/de_DE/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/de_DE.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/el_GR/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/el_GR/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/el_GR.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/es_ES/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/es_ES/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/es_ES.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/es_US/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/es_US/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/es_US.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/et/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/et/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/et.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/eu/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/eu/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/eu.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/fi/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/fi/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/fi.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/fr_CA/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/fr_CA/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/fr_CA.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/fr_FR/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/fr_FR/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/fr_FR.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/ga/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/ga/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/ga.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/gl/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/gl/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/gl.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/hi/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/hi/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/hi.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/hr/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/hr/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/hr.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/hu/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/hu/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/hu.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/hy/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/hy/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/hy.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/is/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/is/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/is.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/it_IT/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/it_IT/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/it_IT.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/ja_JP/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/ja_JP/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/ja_JP.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/ka/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/ka/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/ka.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/kk/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/kk/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/kk.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/ko_KR/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/ko_KR/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/ko_KR.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/lt/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/lt/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/lt.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/lv/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/lv/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/lv.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/mk/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/mk/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/mk.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/nb/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/nb/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/nb.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/nl_NL/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/nl_NL/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/nl_NL.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/pl/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/pl/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/pl.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/pt_BR/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/pt_BR/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/pt_BR.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/pt_PT/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/pt_PT/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/pt_PT.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/ro/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/ro/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/ro.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/ru_RU/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/ru_RU/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/ru_RU.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/sk/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/sk/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/sk.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/sl/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/sl/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/sl.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/sr/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/sr/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/sr.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/sv/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/sv/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/sv.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/tr_TR/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/tr_TR/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/tr_TR.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/uk/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/uk/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/uk.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/uz/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/uz/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/uz.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/zh_CN/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/zh_CN/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/zh_CN.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/zh_HK/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/zh_HK/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/zh_HK.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/zh_SG/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/zh_SG/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/zh_SG.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+
+IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+  list(APPEND CPACK_ABSOLUTE_DESTINATION_FILES
+   "/usr/local/res/locale/zh_TW/LC_MESSAGES/browser.mo")
+FILE(INSTALL DESTINATION "/usr/local/res/locale/zh_TW/LC_MESSAGES" TYPE FILE RENAME "browser.mo" FILES "/root/tizen-browser/org.tizen.browser-0.0.1/po/zh_TW.mo")
+ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+

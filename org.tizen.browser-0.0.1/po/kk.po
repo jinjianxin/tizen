@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Хабарлауда..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Өңделуде..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Өңделу аяқталды"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Қайталау"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Реттеушіні жүктеу"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Жарамсыз сипаттаушы"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Файлды ашуға болмады"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Жазасыз ба?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Таңдалған"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Жазу тоқтатылды"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Соңғы бет. баст. жалғ-у"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Бет"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Сөздік"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "Бағдарлама туралы"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Түрі"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Беруші"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Суреттерді көрсету"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Жазу"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "URL енгізіңіз"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Қалта"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Үй беті"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Пейзаж"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Бетбелгі жоқ"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Ешқандай нәтиже табылмады"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Опциалық"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Жарқылдауды іске қосу"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "JavaScript орындау"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Жалпы атауы:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Ұйымдастыру бірлігі:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Ұйым:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "Тұтынушын агент"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Ұнамдылар"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Активтеуде қателік байқалды"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Іске қосылуда..."
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Орындалмайған"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Түпнұсқа тексеру кезінде үзіліп кетті"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Үстіне жазу керек пе?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Тарих"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Жүктеу тізімі"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Орнатылған"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Мәлімдеуде..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Мұндай қызмет түрі жоқ"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Қате: хост атауын шешу мүмкін емес"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Проксиге қол жеткізу мүмкін емес"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "SSL сертификаттары жоқ"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Файл өлшемі ең көп жіберу шегінен асып кетеді"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Атын енгізіңіз:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Сосын"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Жаңа қалта"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Бетбелгіге қосу"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Жаңа терезе"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URL қол жетімді емес"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "URL %s қол жетімді емес. Ол уақытша өшкен болуы мүмкін немесе енді пайдаланылмайды"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Қалта"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Папка аты"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Мұндай қалта аты қолданыста бар"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Тақырып жоқ"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Көп терезе"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Журналдар жоқ"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Бетбелгілерге қосу"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Қосымшаны өзгерту"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Қалта аты:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Бәрін бөлектеу"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Реттеушіні жүктеу"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "RSS берілімін қосу"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "RSS арналарын қосу"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Қондырғ-р"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "URL енгізіңіз"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Кілтсөз"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Мекен-жай жарамсыз"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Қотару тізімінде бар"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Қалта атын енгізңіз"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Бет жоқ"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Алдыңғы беттер жоқ"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Келесі беттер жоқ"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Қайта қотару үшін бет жоқ"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Түпнұсқаны тексеру қажет"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Бетбелгі бұрыннан бар"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Қалтаның аты бар"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Нысан сақтау мүмкін емес. Кэште жад жеткіліксіз"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Элементтер таңдау"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Сертификат туралы ақпарат"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Электрондық пошта арқылы бөлісу"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Хабарлар арқылы бөлісу"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Бөлісу"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Браузерді іске қосу мүмкін емес"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Мекен-жай жоқ"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Ешқашан қайтадан көрсетпеңіз"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Файлданың аты бос"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Қалта жасау"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Таңдалған"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Байланысқа жол"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Соңғы рет кірген беттер"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Дисплей"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Еніне сәйкес келу"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Оқылатын"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Құпия"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Cookies"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Бәрін қабылдау"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Сұрау"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Cookies"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Куки файлдарын қабылдау"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Куки файлдарын қабылдау"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Бәрін қабылдау"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Бәрін доғарып қою"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Автоматты сақтау идентификаторы/құпиясөз"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Қосылған"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Өшірілген"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Өздігінен сақталады"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Іздеу"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Көріністі сақтау"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Батареяның заряды аз. Браузерді іске қосу мүмкін емес"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Сөзді табу"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Бастапқы экранға қосу"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Бастапқы экранға қосу"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Көп кіретін сайттар"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Facebook арқылы бөлісу"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Twitter арқылы бөлісу"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Көрініс өзгерту"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "URL мекенжайларын таңдаңыз"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "Бұл сайт қалқымалы терезені ашуға әрекет жасауда"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Қалқ. терезелер. бұғаттау"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Мәтін оқу құралы"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Сурет көшіру"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Көріністі сақтау"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Ойнату"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Таңдау"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Артқа"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Алға"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Тоқтату"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Қайта қосу"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Қою"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Басқа"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Үзіліп кетті"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Жаңа терезеден ашу"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Қотару тізімін қарап шығу"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "URL көшіру"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "URLды көшіріңіз"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Суретті көру"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Құпиялылық параметрлері"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Кэшті тазарту"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Журналды тазарту"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Қосылмалы бағдарламаларды қосу"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Іздеу механизмін таңдаңыз"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Сақталған ID/құпиясөзді жою"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Барлық куки деректерін өшіру"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Жоғары"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Шрифт өлшемі"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Жойылды"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Әдепкі көрініс"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Бет мазмұны параметрлері"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "Регистрге байланысты"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Қосу"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Қосу тізімі"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Жергілікті еске сақтау құрылғысы"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Шолушы деректерді жою"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Жазылуда..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Жазылуда..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "URL енгізіңіз"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Кілттеу"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Кілттен шығару"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Өзгерту"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Жоғарғы"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Төменгі"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Әзірлеуші режимі"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Бос"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Сертификаттар"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Қосымшалар"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Атын енгізіңіз"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Аты"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Электрондық пошта арқылы жіберу"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Хабар арқылы жіберу"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Қондырғ-р"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Тұтынушы аты"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Қолданыста бар"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Сақталған"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Жадында орын аз"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Желі қателігі"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Әрқашан сұрау"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Жад картасы"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Телефон"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Есептік жазбалар жоқ"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Қателер беті"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Веб-бет уақытша қол жетімді емес"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Веб-бет қол жетімді емес"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Жақтаулар жүктелмеді"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "Веб-бет %s алынғанда, төмендегі қате пайда болды."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Веб-бетті алу мүмкін емес. (Веб-бет уақыт төменде болуы немесе орнын жаңа URL мекенжайына ауыстырған болуы мүмкін)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Ең ұқсас себеп төменде берілген"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Желіге қалыпты жағдайда қосылмады"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Веб-беттің URL мекенжайын тексеріңіз"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Веб-бетті кейінірек қайта жүктеңіз"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Белгі қосу"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Тақырыбы"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Тақырыбын енгізу"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Қалталар"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Рұқсат"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Бас тарту"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Қауіпсіздік қатесі: Сенімсіз сервер куәлігі"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "%d элемент таңдалды"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "1 элемент таңдалды"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Веб-клипке қосу"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Тіркесім жасалған"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Сөз таңдау"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Беттен табу"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Беттен табу"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Шолушы"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Тізім"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Бәрін бөлектеу"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Хабарлама"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "Email"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Бас тарту"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "Сілт. URL көш-у"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Суретті көру"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Жаңа беттен ашу"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Ашу"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Мәтінді бөлектеуді орындау"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Қосымшалар"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Өзгер."
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Жою"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Жою"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Тоқтату"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Қосымшаны өзгерту"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Хабарламалар"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "Email"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Өзгерту"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Жою"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Бетбелгілерге қосу"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Шрифт өлшемі"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Үлкен"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Ұсақ"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Жылдамдық"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Прокси адресі"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Порт прокси"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Дайын"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Нұсқа"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Орнату"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Ағымдағы бет"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Қалта атын енгізңіз"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Бетбелгі атын енгізіңіз"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Қайтадан сұрамаңыз"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "URL табылмады"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s орныңызды сұрайды"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Басымдығын еске сақтау"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Суреттер көрсету"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Қауіпсіздік ескертулерін көрсету"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Құпиясөзді сақтау"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Құпия сөзді жою"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Барлық сақталған құпиясөздерді жою керек пе?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Барлық куки файлдарын жойыңыз. Жалғастыру керек пе?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Деректерден еске сақтау"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Стандартты бапстапқы мәндеріне баптау"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Барлық параметрлердің әдепкі мәні. Жалғастыру керек пе?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Кэшті тазартасыз ба?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Бүкіл журналды тазартасыз ба?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Браузерді шарлау журналы тазаланады"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Әрдайым қосулы"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Орнын қосу"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Орнына кіруді тазалау"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Белгі салынбады. Белгінің саны шегіне жетті"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Веб-сайт орнына кіру ақпаратын жою керек пе?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Басып шығару"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "URL мекенжайын іздеу немесе енгізу"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Авто"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Қолмен"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Төмен"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Орташа"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Бос бет"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Орнату үстінде үзіліп кетті"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Веб-сайт параметрлері"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Жоғары"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Сілтеме сақтау"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Сілтеме бөлісу"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Құпиялық және қауіпсіздік"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Өшірулі күйде оқуға сақтау"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Орналасу орны"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Үлгі деректері"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Формадағы деректерді өшіру"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Барлық сақталған құпиясөздерді өшіру"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Бетбелгілерге қосылған"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Бетбелгілерден жойылған"
+

@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Értesítés..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Feldolgozás folyamatban"
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "A feldolgozás befejeződött"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Újra"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Letöltéskezelő"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Érvénytelen leíró"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "A fájl nem nyitható meg"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Letöltés?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Kiválasztott"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Letöltés megszakítva"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Folyt. utolsó oldallal"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Oldal"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Szótár"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "A böngésző névjegye"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Típus"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Kibocsátó"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Képek megjelenítése"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Letöltés"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "Írja be az URL-t"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Mappa"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Kezdőlap"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Fekvő"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Nincs könyvjelző"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Nincs találat"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Opcionális"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Flash futtatása"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "JavaScript futtatása"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Köznapi név:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Szervezeti egység:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Szervezet:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "User agent"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Beállítások"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Aktiválási hiba"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Már fut"
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Nincs megvalósítva"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "A hitelesítés sikertelen"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Felülírja?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Előzmények"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Letöltési lista"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Már telepítve"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Értesítés..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Nem támogatott tartalom"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Hiba: a hostnév nem oldható fel"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Nem érhető el a proxy"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "Nincs SSL-tanúsítvány"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "A fájl mérete meghaladja a feltöltésre érvényes korlátot"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Írja be a nevet:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Tovább"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Új mappa"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Könyvjel. mentése"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Új ablak"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "Az URL nem érhető el"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "A(z) %s URL nem érhető el. Lehet, hogy átmenetileg nem működik, vagy teljesen megszűnt"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Mappa"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Mappa neve"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "A mappanév már használatban van"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Nincs cím"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Több ablak"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Nincsenek előzmények"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Könyvjelző mentése"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Könyvjelző szerkesztése"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Mappa neve:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Összes kijelölése"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Letöltéskezelő"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "RSS-feed hozzáadása"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "RSS-feedek hozzáadása"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Beállítások"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "Írja be az URL-t"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Jelszó"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Érvénytelen cím"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Már szerepel a letöltési listán"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Adja meg a mappa nevét"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Nincs oldal"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Nincs előző oldal"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Nincs következő oldal"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Nincs újratölthető oldal"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Hitelesítés szükséges"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Már van ilyen könyvjelző"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "A mappanév már létezik."
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Az objektum nem menthető. Kevés a hely a gyorsítótárban"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Jelöljön ki tételeket"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Tanúsítvány infó"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Megosztás e-mailben"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Megosztás üzenetben"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Megosztás"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Nem indítható el a Böngésző"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Nincs cím"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Ne jelenjen meg újra"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Fállnév üres"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Mappát létrehoz"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Kiválasztott"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Megosztás"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Legutóbb meglátogatott oldalak"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Kijelző"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Szélességhez"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Olvasható"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Védett adataim"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Cookie-k"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Összes elfogadása"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Kérdés"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Cookie-k"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Cookie-k elfogadása"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Cookie-k elfogadása"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Összes elfogadása"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Összes elutasítása"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Automatikus mentés azonosítója/jelszava"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Be"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Ki"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Alapértelmezett tárhely"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Keresés"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Kép mentése"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Az akkumulátor lemerült. Nem futtatható a böngésző"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Szókeresés"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Kezdőképernyőhöz adás"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Kezdőképernyőhöz adás"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Leggyakrabban látogatott helyek"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Megosztás a Facebookon"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Megosztás a Twitteren"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Nézetet vált"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "URL-ek kijelölése"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "A webhely előugró ablakot próbál megnyitni"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Előugró abl. blokkolása"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Szövegolvasó"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Kép másolása"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Kép mentése"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Lejátszás"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Választ"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Vissza"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Előre"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Leállít"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Újratöltés"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Beilleszt"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Egyebek"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Sikertelen"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Megny. új ablakban"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Letöltési lista megtekintése"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "URL beillesztése"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "URL másolása"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Képet megtekint"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Védett üzemmód beállításai"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Gyorsítótár ürítése"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Előzmények törlése"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Bővítmények engedélyezése"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Kereső kiválasztása"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Mentett azonosító/jelszó törlése"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Minden cookie törlése"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Fel"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Betűméret"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Törölve"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Alapértelmezett nézet"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Oldaltartalom beállításai"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "Nagybetűérzékeny"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Bővítmény"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Bővítmények listája"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Helyi tároló"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Böngészési adatok törlése"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Betöltés..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Betöltés..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "Írja be az URL-t"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Védelem"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Feloldás"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Módosítás"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Lapozás fel"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Lapozás le"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Fejlesztői üzemmód"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Üres"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Tanúsítványok"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Könyvjelzők"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Írja be a nevet"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Név"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Küldés e-mailben"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Küldés üzenetben"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Beállítások"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Felhasználónév"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Már létezik"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Mentve"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Kevés a memória"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Hálózati hiba"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Mindig kérdezzen rá"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Memóriakártya"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Telefon"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Nincs fiók"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Hibaoldal"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "A weboldal átmenetileg nem elérhető"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "A weboldal nem elérhető"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Nem sikerült betölteni a kereteket"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "A következő hiba történt a(z) %s weboldal beolvasása során."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Nem lehet beolvasni a weboldalt. (Lehet, hogy a weboldal átmenetileg nem működik, vagy új URL-címre költözött)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "A legvalószínűbb ok alább látható"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Nem jött létre a normál hálózati kapcsolat"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Ellenőrizze a weboldal URL-jét"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Töltse újra az oldalt később"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Könyvjelző"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Cím"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Cím megadása"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Mappák"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Engedélyezés"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Elutasít"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Biztonsági hiba: nem megbízható szervertanúsítvány"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "%d tétel kijelölve"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "1 tétel kijelölve"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Webklip hozzáadása"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Alkalmazásindító létrehozva"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Szó kiválasztása"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Keresés az oldalon"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Keresés az oldalon"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Lista"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Összes kijelölése"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Üzenet"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "E-mail"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Mégse"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "URL másolása"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Képet megtekint"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Megny. új oldalon"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Megnyitás"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Szövegkijelölés be"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Könyvjelzők"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Szerkeszt"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Töröl"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Töröl"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Mégse"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Könyvjelző szerkesztése"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Üzenetek"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "E-mail"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Szerkeszt"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Töröl"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Könyvjelző mentése"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Betűméret"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Nagy"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Kicsi"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Sebesség"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Proxy címe"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Proxy port"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Kész"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Verzió"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Telepít"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Jelenlegi oldal"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Adja meg a mappa nevét"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Adja meg a könyvjelző nevét"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Máskor ne legyen kérdés"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "URL nem található"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "A(z) %s az Ön helyadatait kéri"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Beállítások megjegyzése"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Képek megjelenítése"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Biztonsági figyelmeztetések"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Jelszót megjegyez"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Jelszavak törlése"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Törli az összes mentett jelszót?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Minden cookie-t törölni fog. Folytatja a műveletet?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Űrlapadatok megjegyzése"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Alapértelmezés visszaállítása"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Visszaáll az összes beállítás alapértelmezése. Folytatja a műveletet?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Kiüríti a gyorsítótárat?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Törli az összes előzményt?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Törli a böngésző előzményeit?"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Mindig bekapcsolva"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Hely engedélyezése"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Helyadatok törlése"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "A könyvjelzőt nem lehetett hozzáadni. Elérte a könyvjelzők maximális számát"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Törli a webhely helyadat-hozzáférési információit?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Nyomtatás"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "Keressen vagy írjon be URL-t"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Auto."
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Kézi"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Alacsony"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Közepes"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Üres oldal"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Telepítés sikertelen"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Webhelybeállítások"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Magas"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Hivatkozás mentése"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Link megosztása"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Adatvédelem és biztonság"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Mentés offline olvasáshoz"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Hely"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Űrlap adatok"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Űrlapadatok törlése"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Minden mentett jelszó törlése"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Könyvjelzőkhöz adva"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Törölve a könyvjelzők közül"
+

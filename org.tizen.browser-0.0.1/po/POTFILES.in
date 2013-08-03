@@ -1,0 +1,6 @@
+# List of source files containing translatable strings.
+src/AddToBookmarksView.cpp
+src/BookmarksView.cpp
+src/BrowserView.cpp
+src/DownloadView.cpp
+src/HistoryView.cpp

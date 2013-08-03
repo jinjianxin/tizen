@@ -1,0 +1,8 @@
+browser (2.0.0-0) unstable; urgency=low
+
+  * Git : apps/web/browser
+  * Tag : browser_2.0.0-0
+
+  * Release Public Tizen browser
+
+ -- Junghwan Kang <junghwan.kang@samsung.com>  Wed, 25 Jul 2012 21:52:06 +0900

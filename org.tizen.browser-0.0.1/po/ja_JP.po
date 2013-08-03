@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "通知中..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "処理中..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "処理​が​完了​しました"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "再接続"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "ダウンロードマネージャー"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "識別子​が​無効​です。"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "ファイル​を​開く​こと​が​でき​ません。"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "ダウンロードしますか？"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "選択"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "ダウンロード​を​中止​しました。"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "最終​ページ​から​続ける"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "ページ"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "辞書"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "ブラウザ​について"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "ファイル​タイプ"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "発行者"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "画像​表示"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "ダウンロード"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "URL入力"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "フォルダ"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "ホームページ"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "風景"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "ブックマーク​が​ありません。"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "検索​結果​が​ありません。"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "オプション"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Flash​を​実行​"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "JavaScript​を​実行​"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "共通名："
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "部門名："
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "組織："
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "利用するエージェント"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "プレファレンス"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "起動​エラー"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "既に​実行中..."
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "実行されて​いません"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "認証​に​失敗​しました。"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "上書き​しますか？"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "履歴"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "ダウンロード​リスト"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "既に​インストール​されて​います"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "通知中..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "未対応​のコンテンツです。"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "エラー：​ホスト名​を​解決​できません"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "プロキシ​に​達し​ません​でした"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "SSL​証明書​が​ありません"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "ファイル​サイズ​がアップロード​の​最大​容量​を​超えて​います。"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "名前​を​入力："
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "次へ"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "新規フォルダ"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "ブックマーク​に​追加​"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "新規​ウィンドウ"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL："
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URL​は​ご利用​に​なれません"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "URL%s​は​ご利用​に​なれません。​一時的​に​停止​する​か、​使用​されて​いない​可能性​が​あります"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "フォルダ"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "フォルダ​名"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "フォルダ名は既に使用されています。"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "件名​なし"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "複数​の​ウィンドウ"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "履歴が​ありません"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "ブックマークに追加"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "ブックマーク​を編集"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "フォルダ名："
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "全て​選択"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "ダウンロードマネージャー"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "RSS​フィード​を​追加​"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "RSSフィードを追​加"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "設定"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "URL​入力"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "パスワード"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "アドレスが正しくありません。"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "ダウンロード​リスト​に​既に​あります"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "フォルダ名を入力してください。"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "ページ​が​ありません"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "戻る​ページ​が​ありません"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "進む​ページ​が​ありません"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "再読込​する​ページ​が​ありません"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "認証​が​必要​です"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "ブックマークは既に存在します。"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "このフォルダ名は既に使用されています。"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "保存​でき​ません。​キャッシュ​に​十分​な​空き​容量​が​ありません"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "アイテム​を​選択​"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "認証​情報"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Eメール​で​共有"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "メッセージで共有"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "共有"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "ブラウザ​を​開始​でき​ません"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "アドレスはありません"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "今後​表示しない"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "ファイル名が​空白です。"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "フォルダ作成"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "選択"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "共有"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "最近見たサイト"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "画面"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "画面幅に合わせる"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "読みやすさ"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "プライバシー"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Cookie"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "全て​応答"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "プロンプト"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Cookie"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Cookieを許可"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Cookieを許可"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "全て​応答"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "全て​拒否​"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "ID/​パスワード​の​自動​保存"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "ON"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "OFF"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "保存先"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "検索"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "画像を保存"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "電池​残量​が​ありません。​ブラウザ​を​実行​できません"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "用語​を​検索"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "ホーム​画面に追加"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "ホーム画面に追加"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "よく見るサイト"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Facebookで共有"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Twitterで共有"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "表示切替"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "URL選択"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "このサイトはポップアップウィンドウを開こうとしています"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "ポップアップ​ウィンドウ​を​ブロック"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "文字リーダー"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "画像をコピー"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "画像を保存"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "再生"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "選択"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "前​の​ページ​へ"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "次のページへ"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "停止"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "再読み込み"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "貼り付け"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "もっと​見る"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "失敗​しました。"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "新規​ウィンドウで​開く"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "リスト表示​ダウンロード"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "URLコピー"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "URL​を​コピー​"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "画像を表示"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "プライバシー​設定"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "キャッシュを消去"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "履歴を消去"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "プラグ​イン​を​有効化"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "検索​エンジンを選択"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "保存したＩＤ/パスワードを削除する"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "全てのCoockieを消去"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "上"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "文字サイズ"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "削除​しました。"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "基本​表示​モード"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "ページ​コンテンツ​設定"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "大文字​と​小文字​を​区別​します"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "プラグイン"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "プラグインの​リスト"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "ローカル​ストレージ"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "参照​データ​を​削除​"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "読み込み​中..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "読み込み​中..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "URL入力"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "保護"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "ロック解除"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "変更"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "ページ​アップ"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "ページ​ダウン"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "開発者モード"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "空き"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "証明書"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "ブック​マーク"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "名前​を​入力​して​ください。"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "名前"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Eメール​​送信​"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "メッセージ送信"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "設定"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "ユーザー名"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "既に​登録​されて​います。"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "保存​しま​した。"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "メモリ​が​不足​して​います。"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "ネットワークエラーが発生しました。"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "毎回​確認"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "外部​SDカード"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "本体"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "アカウントがありません"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "エラーページ"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Webページが一時的に利用できません。"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Webページを利用できません。"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "フレームの読み込み失敗"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "Webページ%sの取得中に以下のエラーが発生しました。"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Webページを取得できません。（Webページが一時的にダウンしているか、新しいURLに移動しました)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "最も考えられる原因は以下のとおりです。"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "ネットワーク接続を正常に確立できませんでした。"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "WebページのURLを確認してください。"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "しばらく​して​から​Web​ページ​を​再​読み込み​して​ください。"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "ブック​マーク"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "タイトル"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "タイトル​を​入力して​下さい。"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "フォルダ"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "許可する"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "拒否"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "セキュリティエラー：信頼できないサーバー証明です。"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "%d個選択"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "1個選択"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Webクリップに​追加​"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "作成した​ショートカット"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "テキスト選択"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "ページ内検索"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "ページ内を検索"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "ブラウザ"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "リスト"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "全て​選択"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "メッセージ"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "Eメール"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "キャンセル"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "URLをコピー"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "画像を表示"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "新しい​ページ​で​開く"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "開く"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "テキスト選択ON"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "ブックマーク"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "編集"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "削除"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "削除"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "キャンセル"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "ブックマーク​を編集"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "メッセージ"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "Eメール"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "編集"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "削除"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "ブックマークに追加"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "文字サイズ"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "大"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "小"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "スピード"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "プロキシ​アドレス"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "プロキシ​ポート"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "完了"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "バージョン"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "インストール"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "現在のページ"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "フォルダ名を入力してください。"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "ブックマーク名​を​入力してください。"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "今後​​表示​​しない"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "URL​が​見つかり​ません"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s​は​あなた​の​位置​を​リクエスト​しました"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "設定を保存"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "画像を表示"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "セキュリティ警告を表示"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "パスワード​を保存"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "パスワード​を​消去​"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "保存​された​全て​の​パスワード​を​消去​しますか？"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "全て​の​Cookies​を​削除​します。​続行​しますか？"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "文字入力履歴を保存"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "初期値にリセット"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "全ての設定が標準に戻ります。続行しますか？"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "キャッシュ​を​消去​しますか？"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "全ての​履歴​を​消去​しますか？"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "全ての閲覧履歴を消去します。"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "常にON"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "位置情報を有効"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "位置情報を消去"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "ブックマーク​を​追加​できません。​ブックマーク​が​最大件数​に​達しました"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "保存​された​位置​情報​を​消去​しますか？"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "印刷"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "検索、またはURLを入力"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "自動"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "手動で選択"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "低"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "標準"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "空白​の​ページ"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "インストールが失敗しました。"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "サイト​設定"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "高"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "リンク​を​保存"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "リンク​を​共有"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "プライバシーとセキュリティ"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "オフライン用に保存"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "場所"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "文字入力履歴"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "文字入力履歴を消去"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "保存された全てのパスワードを消去"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "ブックマークに追加しました。"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "削除しました。"
+

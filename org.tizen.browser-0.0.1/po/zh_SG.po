@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "通知中..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "处理中…"
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "处理完成"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "重试"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "下载管理器"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "描述符无效"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "无法打开文件"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "下载?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "已选定"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "已取消下载"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "从最后一页继续"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "页面"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "字典"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "关于浏览器"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "类型"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "发行人"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "显示图片"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "下载"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "输入网址"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "文件夹"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "主页"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "横向显示"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "无书签"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "未找到结果"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "可选的"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "运行 Flash"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "运行Java脚本"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "公用名："
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "组织单位："
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "组织："
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "WAP UA"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "偏好设定"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "启动错误"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "已运行..."
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "未实施"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "认证失败"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "覆盖?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "网址"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "历史记录"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "下载列表"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "已经安装"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "通知中…"
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "不支持的文件"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "错误：无法解决主机名称"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "无法到达代理"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "无 SSL证书"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "文件大小超过上传限制上限"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "输入名称："
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "下一页"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "新文件夹"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "添加到书签"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "新窗口"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "网址"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "网址："
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URL不可用"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "URL %s不可用。它可能暂时不能使用或不能再使用了"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "文件夹"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "文件夹名称"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "文件夹名称\n已存在"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "无标题"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "多窗口"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "没有历史记录"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "添加到书签"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "编辑书签"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "文件夹名称："
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "全选"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "下载管理器"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "添加 RSS feed"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "添加RSS订阅源"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "设定"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "输入URL"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "密码"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "地址无效"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "下载列表中已存在"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "输入文件夹名称"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "没有页"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "无上一页"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "无下一页"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "没有要重新加载的页面"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "需要认证"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "书签已存在"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "文件夹名称已经存在"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "无法保存目标。缓存空间不足"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "选择项目"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "证书信息"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "通过电子邮件共享"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "通过信息共享"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "共享通过"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "无法启动浏览器"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "无地址"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "永远不再显示"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "文件名空"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "创建文件夹"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "已选定"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "共享"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "最近访问的页面"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "显示"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "适合宽度"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "方便阅读"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "隐私"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Cookies"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "全部接受"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "提示"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Cookies"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "接受 Cookies"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "接受 Cookies"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "全部接受"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "全部拒绝"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "自动储存ID和密码"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "开"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "关"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "默认存储"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "搜寻"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "保存图像"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "电池电量低。 无法运行浏览器"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "查找文字"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "添加到主屏"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "添加到主屏幕"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "访问最多的站点"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "通过 Facebook 共享"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "通过 Twitter 共享"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "更改视图"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "选择网址"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "站点尝试打开弹出窗口"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "阻止跳出窗口"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "文本阅读器"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "复制图像"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "保存图像"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "播放"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "选择"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "后退"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "前进"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "停止"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "重新载入"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "粘贴"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "更多"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "失败"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "在新窗口中打开"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "查看下载列表"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "复制网址"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "复制网址到"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "查看图像"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "隐私设定"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "清除缓存"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "清除历史记录"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "启动插件"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "选择搜索引擎"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "删除已储存ID/密码"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "清除所有 Cookie 数据"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "上"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "字体大小"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "已删除"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "预置视图"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "页面内容设置"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "区分大小写"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "插入"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "插件列表"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "本地存储器"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "删除浏览数据"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "裝载中…"
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "裝载中…"
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "输入网址"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "上锁"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "解锁"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "修改"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "上页"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "下页"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "开发模式"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "空白"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "证书"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "书签"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "输入名称"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "名称"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "通过电子邮件发送"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "通过讯息发送"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "设定"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "用户名称"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "已经存在"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "已储存"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "内存不足"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "网络故障"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "始终询问"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "存储卡"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "手机"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "无帐户"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "错误页面"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "网页临时不可用"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "网页不可用"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "加载帧失败"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "获取网页 %s 时发生以下错误"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "无法获取网页。（网页可能临时关闭或已移至新网址）"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "最可能的原因给出如下"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "网络连接未正常建立"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "检查网页网址"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "稍后重新加载网页"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "已添加书签"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "标题"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "输入标题"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "文件夹"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "允许"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "拒绝"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "安全错误： 不可信的服务器证书"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "已选择%d个项目"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "已选择1个项目"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "添加到网页夹"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "已创建快捷键"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "选择字词"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "在页面上查找"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "在页面上查找"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "网络"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "列表"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "全选"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "讯息"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "电邮"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "取消"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "复制链接 URL"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "查看图像"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "在新页面打开"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "开启文件"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "文本选择开启"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "书签"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "编辑"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "删除"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "删除"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "取消"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "编辑书签"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "讯息"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "电邮"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "编辑"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "删除"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "添加到书签"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "字体大小"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "大"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "小"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "速度"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "代理主机地址"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "代理服务器端口"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "已完成"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "版本"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "安装"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "当前页面"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "输入文件夹名称"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "输入书签名称"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "不再询问"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "找不到网址"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s请求您的位置"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "记住首选项"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "显示图像"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "显示安全警告"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "记住密码"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "清除密码"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "删除全部已存密码？"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "删除所有 Cookies。 继续？"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "记住表单数据"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Reset to default"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "所有默认设定。 继续？"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "清除缓存?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "清除全部历史记录"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "浏览器导航历史记录将被清除"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "总是打开"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "启动位置"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "清除位置接入？"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "无法添加书签。已达最大书签数量"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "是否删除网站位置访问信息？"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "打印"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "搜索或输入URL"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "自动"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "手动"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "低"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "中"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "空白页面"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "安装失败"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "网络设置"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "高"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "保存链接"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "共享链接"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "隐私和安全"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "保存用于离线阅读"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "地址"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "格式数据"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "清除表单数据"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "清除所有保存的密码"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "已添加到书签"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "已从书签移除"
+

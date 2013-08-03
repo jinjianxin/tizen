@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Teavitamine..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Töötlemine..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Töötlemine lõpetatud"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Uuesti"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Allalaadimishaldur"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Vigane deskriptor"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Faili ei saa avada"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Laadida alla?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Valitud"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Allalaadimine tühistatud"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Jätka viimaselt lehelt"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Lehekülg"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Sõnaraamat"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "Teave brauseri kohta"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Tüüp"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Teema"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Kuva pildid"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Lae alla"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "Sisestage URL"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Kaust"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Avalehekülg"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Rõhtpaigutus"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Järjehoidjaid ei ole"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Tulemusi ei leitud"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Valikuline"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Käivita Flash"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "Käivita JavaScript"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Üldnimi:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Organisatsiooni üksus:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Organsatsioon:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "Kasutaja esindaja"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Eelistused"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Tõrge aktiveerimisel"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Juba töötab"
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Teostamata"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Autentimine nurjus"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Kas kirjutan üle?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Ajalugu"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Allalaadimiste loend"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Juba installitud"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Teavitamine..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Mittetoetatud sisu"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Tõrge: hostinime ei saa lahendada"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Puhverserverit ei saa kätte"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "SSL-i sertifikaate pole"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Faili suurus ületab maksimaalse üleslaadimise piirangu"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Sisestage nimi:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Järgmine"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Uus kaust"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Lisa järjehoidja"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Uus aken"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URL pole saadaval"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "URL %s pole saadaval. See võib olla ajutiselt maas või mitte enam kasutusel"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Kaust"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Kausta nimi"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Kaustanimi juba kasutusel"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Pealkirjata"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Mitmikaken"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Ajalugu pole"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Lisa järjehoidjatesse"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Muuda järjehoidjat"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Kausta nimi:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Vali kõik"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Allalaadimishaldur"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "Lisa RSS-kanal"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "Lisa RSS-kanaleid"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Seaded"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "Sisesta URL"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Parool"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Kehtetu aadress"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Allalaaditud üksuste loendis juba olemas"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Sisestage kausta nimi"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Leht puudub"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Tagapool puuduvad lehed"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Eespool puuduvad lehed"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Puudub leht, mida uuesti laadida"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Autentimine on kohustuslik"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Järjehoidja on juba olemas"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Kaustanimi on juba olemas"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Objekti ei saa salvestada. Vahemälus pole piisavalt ruumi"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Vali üksusi"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Sertifikaadi teave"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Jaga e-kirja kaudu"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Jaga sõnumite kaudu"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Jaga:"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Brauserit ei saa käivitada"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Aadress puudub"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Ära näita enam kunagi"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Failinimi on tühi"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Loo kaust"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Valitud"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Jaga"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Hiljuti külastatud leheküljed"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Ekraan"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Mahuta laiusele"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Loetav"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Privaatsus"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Küpsised"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Nõustu kõigiga"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Küsi"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Küpsised"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Nõustu küpsistega"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Nõustu küpsistega"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Nõustu kõigiga"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Keeldu kõigist"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Tunnuse/parooli automaatne salvestamine"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Sees"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Väljas"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Vaikemälu"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Otsi"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Salvesta pilt"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Aku on tühi. Brauserit ei saa käivitada"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Otsi sõna"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Lisa avaekraanile"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Lisa avaekraanile"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Enim külastatud saidid"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Jaga Facebookis"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Jaga Twitteris"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Muuda kuva"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "Valige URL-id"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "See sait proovib avada hüpikakent"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Blokeeri hüpikaknad"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Tekstilugeja"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Kopeeri pilt"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Salvesta pilt"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Esita"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Vali"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Mine tagasi"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Mine edasi"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Peata"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Laadi uuesti"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Kleebi"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Veel"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Nurjus"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Ava uues aknas"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Kuva allalaadimise loend"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "Kopeeri URL"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "Kopeeri URL sihtkohta"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Kuva pilt"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Privaatsuse seaded"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Tühjenda vahemälu"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Kustuta ajalugu"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Luba pluginad"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Vali otsingumootor"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Kustuta salvestatud tunnus/parool"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Kustuta kõik küpsiste andmed"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Üles"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Fondi suurus"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Kustutatud"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Vaikevaade"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Lehekülje sisu seaded"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "Tõstutundlik"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Lisandmoodul"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Lisandmoodulite loend"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Kohalik mälu"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Kustuta sirvimisandmed"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Laadimine..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Laadimine..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "Sisestage URL"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Lukusta"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Ava"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Muuda"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Leht üles"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Leht alla"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Arendaja režiim"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Tühi"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Sertifikaadid"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Järjehoidjad"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Sisestage nimi"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Nimi"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Saada e-kirjaga"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Saada sõnumiga"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Seaded"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Kasutajanimi"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Juba olemas"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Salvestatud"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Mälu pole piisavalt"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Võrgutõrge"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Küsi alati"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Mälukaart"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Telefon"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Kontosid pole"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Lehe tõrge"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Veebileht pole ajutiselt saadaval"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Veebileht pole saadaval"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Raamide laadimine nurjus"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "Veebilehe %s toomisel ilmnes järgmine tõrge."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Veebilehte ei saa tuua. (Veebileht võib olla ajutiselt maas või viidud uuele URL-ile)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Allpool on esitatud kõige tõenäolisem põhjus"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Võrguühendus ei taastunud normaalselt"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Kontrollige veebilehe URL-i"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Laadi veebileht hiljem"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Järjehoidja"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Pealkiri"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Sisestage pealkiri"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Kaustad"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Luba"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Keeldu"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Turvalisuse tõrge: ebausaldusväärne serverisertifikaat"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "%d üksust on valitud"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "1 üksus on valitud"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Lisa veebiklipile"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Otsetee on loodud"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Valige sõna"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Otsi lehelt"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Otsi lehelt"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Loend"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Vali kõik"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Sõnum"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "E-kiri"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Tühista"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "Kop. lingi URL"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Kuva pilt"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Ava uuel lehel"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Ava"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Tekstivalik sees"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Järjehoidjad"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Muuda"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Kustuta"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Kustuta"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Tühista"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Muuda järjehoidjat"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Sõnumid"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "E-kiri"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Muuda"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Kustuta"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Lisa järjehoidjatesse"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Fondi suurus"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Suur"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Väike"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Kiirus"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Puhverserveri aadress"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Puhverserveri port"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Valmis"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Versioon"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Installi"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Hetkel kuvatav leht"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Sisestage kausta nimi"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Sisestage järjehoidja nimi"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Ära küsi enam"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "URL-i ei leitud"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s taotleb teie asukohta"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Mäleta eelistusi"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Kuva pildid"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Kuva turvahoiatused"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Mäleta paroole"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Kustuta paroolid"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Kas kustutada kõik salvestatud paroolid?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Kustuta kõik küpsised. Kas jätkata?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Mäleta ankeedi andmeid"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Lähtesta vaikeväärtusele"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Kõik seaded vaikeolekusse. Kas jätkata?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Tühjendada vahemälu?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Tühjendada kogu ajalugu?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Brauseri sirvimisajalugu kustutatakse"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Alati sees"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Luba asukoht"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Tühista asukoha juurdepääs"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Ei ole võimalik lisada järjehoidjat. Maksimaalne arv järjehoidjaid sisestatud"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Kas kustutada veebisaidi asukoha juurdepääsu teave?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Prindi"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "Otsige või sisestage URL"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Automaatne"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Käsitsi"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Madal"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Keskmine"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Tühi leht"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Installimine ebaõnnestus"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Veebisaidi seaded"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Kõrge"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Salvesta link"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Jaga linki"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Privaatsus ja turvalisus"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Salvesta võrguühenduseta lugemiseks"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Asukoht"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Ankeedi andmed"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Kustuta ankeedi andmed"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Kustuta kõik salvestatud paroolid"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Lisatud järjehoidjatesse"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Eemaldatud järjehoidjatest"
+

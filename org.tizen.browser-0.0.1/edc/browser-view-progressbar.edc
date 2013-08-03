@@ -1,0 +1,573 @@
+/*
+ * Copyright 2012  Samsung Electronics Co., Ltd
+ *
+ * Licensed under the Flora License, Version 1.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.tizenopensource.org/license
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ */
+
+#include "browser-macro.edc"
+
+collections {
+   group { name: "elm/progressbar/horizontal/browser/loading";
+      images {
+         image: "browser-view-images/progressbar/00_search_input_field_bg_progress.png" COMP;
+         image: "browser-view-images/progressbar/progressbar.png" COMP;
+      }
+      parts {
+	     part { name: "elm.padding.left";
+            type: RECT;
+			scale: 1;
+            description {
+				state: "default" 0.0;
+				min: 0 0;
+				fixed: 1 0;
+				rel1 {
+					relative: 0.0  0.0;
+					offset:   0    0;
+				}
+				rel2 {
+					relative: 0.0  1.0;
+					offset:   0   0;
+				}
+				color: 0 0 0 0;
+				align: 0.0 0.0;
+            }
+         }
+         part { name: "elm.padding.right";
+            type: RECT;
+			scale: 1;
+            description {
+				state: "default" 0.0;
+				min: 0 0;
+				fixed: 1 0;
+				rel1 {
+					relative: 1.0  0.0;
+				    offset:   0    0;
+				}
+				rel2 {
+					relative: 1.0  1.0;
+					offset:   0   0;
+				}
+				color: 0 0 0 0;
+				align: 1.0 0.0;
+            }
+         }
+		  part { name: "elm.background.progressbar";
+            mouse_events: 0;
+            scale: 1;
+            type: RECT;
+            description {
+               state: "default" 0.0;
+               rel1 {
+				  to_x: "elm.padding.left";
+                  relative: 1.0 0.0;
+                  offset: 0 0;
+               }
+               rel2 {
+				  to_x: "elm.padding.right";
+                  relative: 0.0 1.0;
+                  offset: -1 -1;
+               }
+            }
+         }
+         part { name: "elm.swallow.bar";
+            mouse_events: 0;
+            scale: 1;
+            type: SWALLOW;
+            description {
+               min: 48 0;
+			   fixed: 1 0;
+               state: "default" 0.0;
+               rel1 {
+                  to: "elm.background.progressbar";
+                  relative: 0.0 0.0;
+               }
+               rel2 {
+                  to: "elm.background.progressbar";
+                  relative: 1.0 1.0;
+               }
+            }
+         }
+         part { name: "elm.swallow.content";
+            type: SWALLOW;
+            scale: 1;
+            description { state: "default" 0.0;
+               visible: 0;
+               align: 0.0 0.5;
+               rel1 {
+                  offset: 0 0;
+                  to_y: "elm.background.progressbar";
+               }
+               rel2 {
+                  offset: 0 -1;
+                  relative: 0.0 1.0;
+                  to_y: "elm.background.progressbar";
+               }
+            }
+            description { state: "visible" 0.0;
+               inherit: "default" 0.0;
+               visible: 1;
+               aspect: 1.0 1.0;
+               aspect_preference: VERTICAL;
+               rel2.offset: 6 -1;
+            }
+         }
+         part { name: "elm.text";
+            type: TEXT;
+            mouse_events: 0;
+            scale: 1;
+            description { state: "default" 0.0;
+               visible: 0;
+               fixed: 1 1;
+               align: 0.0 0.5;
+               rel1.to_x: "elm.swallow.content";
+               rel1.relative: 1.0 0.0;
+               rel1.offset: -1 6;
+               rel2.to_x: "elm.swallow.content";
+               rel2.relative: 1.0 1.0;
+               rel2.offset: -1 -5;
+               color: 0 0 0 255;
+               text {
+                  font: "SLP:style=Medium";
+                  size: 15;
+                  min: 0 0;
+                  align: 0.0 0.5;
+               }
+            }
+            description { state: "visible" 0.0;
+               inherit: "default" 0.0;
+               visible: 0;
+               text.min: 1 1;
+               rel1.offset: 0 6;
+               rel2.offset: 0 -7;
+            }
+         }
+
+         part { name: "background";
+            mouse_events: 0;
+            scale: 1;
+            clip_to: "elm.background.progressbar";
+            description {
+               state: "default" 0.0;
+               rel1 {
+                  to: "elm.swallow.bar";
+                  relative: 0.0 0.0;
+               }
+               rel2 {
+                  to: "elm.swallow.bar";
+                  relative: 1.0 1.0;
+                  offset: -1 -1;
+               }
+            }
+         }
+
+         part { name: "elm.text.status";
+            type: TEXT;
+            mouse_events: 0;
+            scale: 1;
+            description { state: "default" 0.0;
+               fixed: 1 1;
+               visible: 0;
+               rel1 {
+                  to: "background";
+                  relative: 0.5 0.5;
+               }
+               rel2 {
+                  to: "background";
+                  relative: 0.5 0.5;
+               }
+               text {
+                  font: "SLP:style=Medium";
+                  size: 15;
+                  min: 0 0;
+                  align: 0.5 0.0;
+               }
+               color: 0 0 0 255;
+            }
+            description { state: "show" 0.0;
+               inherit: "default" 0.0;
+               visible: 0;
+               text.min: 1 1;
+            }
+         }
+
+         part { name: "elm.progress.progressbar";
+            mouse_events: 0;
+            scale: 1;
+            clip_to: "elm.background.progressbar";
+            description {
+               state: "default" 0.0;
+               min: 0 0;
+               fixed: 1 1;
+               rel1 {
+                  to: "elm.swallow.bar";
+                  relative: 0.0 0.0;
+               }
+               rel2 {
+                  to_y: "elm.swallow.bar";
+                  to_x: "elm.cur.progressbar";
+                  offset: -1 -1;
+               }
+               image {
+				  normal: "browser-view-images/progressbar/progressbar.png";
+                  border: 5 5 5 5;
+               }
+            }
+            description {
+               state: "invert" 0.0;
+               inherit: "default" 0.0;
+               rel1 {
+                  to_y: "elm.swallow.bar";
+                  to_x: "elm.cur.progressbar";
+               }
+               rel2 {
+                  to: "elm.swallow.bar";
+                  relative: 1.0 1.0;
+               }
+            }
+            description {
+               state: "state_begin" 0.0;
+               inherit: "default" 0.0;
+               rel1 {
+                  to: "elm.swallow.bar";
+                  relative: 0.0 0.0;
+               }
+               rel2 {
+                  to: "elm.swallow.bar";
+                  relative: 0.1 1.0;
+               }
+            }
+            description {
+               state: "state_end" 0.0;
+               inherit: "default" 0.0;
+               rel1 {
+                  to: "elm.swallow.bar";
+                  relative: 0.9 0.0;
+               }
+               rel2 {
+                  to: "elm.swallow.bar";
+                  relative: 1.0 1.0;
+               }
+            }
+         }
+         part { name: "text-bar";
+            type: TEXT;
+            mouse_events: 0;
+            scale: 1;
+            clip_to: "progress-rect";
+            effect: SOFT_SHADOW;
+            scale: 0;
+            description { state: "default" 0.0;
+               align: 0.0 0.0;
+               fixed: 1 1;
+               visible: 0;
+               rel1.to: "elm.text.status";
+               rel1.offset: -1 -1;
+               rel2.to: "elm.text.status";
+               text {
+                  text_source: "elm.text.status";
+                  font: "SLP:style=Medium";
+                  size: 15;
+                  min: 0 0;
+                  align: 0.0 0.0;
+               }
+               color: 224 224 224 255;
+               color3: 0 0 0 64;
+            }
+            description { state: "show" 0.0;
+               inherit: "default" 0.0;
+               visible: 0;
+               text.min: 1 1;
+            }
+         }
+         part { name: "elm.cur.progressbar";
+            mouse_events: 0;
+            scale: 1;
+            dragable {
+               confine: "background";
+               x: 1 1 1;
+               y: 0 0 0;
+            }
+            description { state: "default" 0.0;
+               min: 0 42;
+               fixed: 1 1;
+               visible: 0;
+               rel1 {
+                  to: "background";
+                  relative: 0 0;
+               }
+               rel2.to: "background";
+           }
+         }
+         part { name: "progress-rect";
+            mouse_events: 0;
+            scale: 1;
+            type: RECT;
+            description {
+               state: "default" 0.0;
+               rel1.to: "elm.progress.progressbar";
+               rel2.to: "elm.progress.progressbar";
+            }
+         }
+      }
+      programs {
+         program { name: "label_show";
+            signal: "elm,state,text,visible";
+            source: "elm";
+            action:  STATE_SET "visible" 0.0;
+            target: "elm.text";
+         }
+         program { name: "label_hide";
+            signal: "elm,state,text,hidden";
+            source: "elm";
+            action:  STATE_SET "default" 0.0;
+            target: "elm.text";
+         }
+         program { name: "icon_show";
+            signal: "elm,state,icon,visible";
+            source: "elm";
+            action:  STATE_SET "visible" 0.0;
+            target: "elm.swallow.content";
+         }
+         program { name: "icon_hide";
+            signal: "elm,state,icon,hidden";
+            source: "elm";
+            action:  STATE_SET "default" 0.0;
+            target: "elm.swallow.content";
+         }
+         program { name: "units_show";
+            signal: "elm,state,units,visible";
+            source: "elm";
+            action:  STATE_SET "show" 0.0;
+            target: "text-bar";
+            target: "elm.text.status";
+         }
+         program { name: "units_hide";
+            signal: "elm,state,units,hidden";
+            source: "elm";
+            action:  STATE_SET "default" 0.0;
+            target: "text-bar";
+            target: "elm.text.status";
+         }
+         program { name: "slide_to_end";
+            action:  STATE_SET "state_end" 0.0;
+            transition: LINEAR 0.5;
+            target: "elm.progress.progressbar";
+            after: "slide_to_begin";
+         }
+         program { name: "slide_to_begin";
+            signal: "elm,state,slide,begin";
+            action: STATE_SET "state_begin" 0.0;
+            target: "elm.progress.progressbar";
+            transition: LINEAR 0.5;
+            after: "slide_to_end";
+         }
+         program { name: "start_pulse";
+            signal: "elm,state,pulse,start";
+            source: "elm";
+            after: "slide_to_end";
+         }
+         program { name: "stop_pulse";
+            signal: "elm,state,pulse,stop";
+            source: "elm";
+            action: ACTION_STOP;
+            target: "slide_to_begin";
+            target: "slide_to_end";
+            target: "start_pulse";
+            after: "state_pulse";
+         }
+         program { name: "state_pulse";
+            signal: "elm,state,pulse";
+            source: "elm";
+            action: STATE_SET "state_begin" 0.0;
+            target: "elm.progress.progressbar";
+            after: "units_hide";
+         }
+         program { name: "state_fraction";
+            signal: "elm,state,fraction";
+            source: "elm";
+            action: ACTION_STOP;
+            target: "slide_to_begin";
+            target: "slide_to_end";
+            target: "start_pulse";
+            action: STATE_SET "default" 0.0;
+            target: "elm.progress.progressbar";
+         }
+         program { name: "set_invert_on";
+            signal: "elm,state,inverted,on";
+            source: "elm";
+            action:  STATE_SET "invert" 0.0;
+            target: "elm.progress.progressbar";
+         }
+         program { name: "set_invert_off";
+            signal: "elm,state,inverted,off";
+            source: "elm";
+            action:  STATE_SET "default" 0.0;
+            target: "elm.progress.progressbar";
+         }
+      }
+   }
+
+/* The cpu consumption depends on the time delay of progress bar */
+#define	PROGRESSING_DELAY 	0.14
+   group { name: "elm/progressbar/horizontal/browser/loading_wheel";
+       images {
+           image: "browser-view-images/progressbar/processing_ani00.png" COMP;
+           image: "browser-view-images/progressbar/processing_ani01.png" COMP;
+           image: "browser-view-images/progressbar/processing_ani02.png" COMP;
+           image: "browser-view-images/progressbar/processing_ani03.png" COMP;
+           image: "browser-view-images/progressbar/processing_ani04.png" COMP;
+           image: "browser-view-images/progressbar/processing_ani05.png" COMP;
+           image: "browser-view-images/progressbar/processing_ani06.png" COMP;
+           image: "browser-view-images/progressbar/processing_ani07.png" COMP;
+       }
+       parts {
+           part { name: "elm.background.progressbar";
+               mouse_events: 0;
+               scale: 1;
+               type: RECT;
+               description {
+                   state: "default" 0.0;
+               }
+           }
+           part { name: "elm.swallow.bar";
+               mouse_events: 0;
+               scale: 1;
+               type: SWALLOW;
+               description { state: "default" 0.0;
+                   min: 0 0;
+                   max: 0 0;
+                   visible: 0;
+               }
+           }
+           part { name: "elm.swallow.content";
+               type: SWALLOW;
+               scale: 1;
+               description { state: "default" 0.0;
+                   min: 0 0;
+                   max: 0 0;
+                   visible: 0;
+               }
+           }
+           part { name: "background";
+               mouse_events: 0;
+               scale: 1;
+               clip_to: "elm.background.progressbar";
+               description {
+                   state: "default" 0.0;
+                   min: 60 60;
+                   max: 90 90;
+                   visible: 1;
+                   aspect: 1.0 1.0;
+                   aspect_preference: BOTH;
+                   image {
+                       normal: "browser-view-images/progressbar/processing_ani00.png";
+                   }
+               }
+               description { state: "pulse" 0.0;
+                   inherit: "default" 0.0;
+                   image {
+                       normal: "browser-view-images/progressbar/processing_ani00.png";
+                   }
+               }
+			   description { state: "pulse" 0.01;
+				   inherit: "default" 0.0;
+				   image {
+					   normal: "browser-view-images/progressbar/processing_ani01.png";
+				   }
+			   }
+			   description { state: "pulse" 0.02;
+				   inherit: "default" 0.0;
+				   image {
+					   normal: "browser-view-images/progressbar/processing_ani02.png";
+				   }
+			   }
+			   description { state: "pulse" 0.03;
+				   inherit: "default" 0.0;
+				   image {
+					   normal: "browser-view-images/progressbar/processing_ani03.png";
+				   }
+			   }
+			   description { state: "pulse" 0.04;
+				   inherit: "default" 0.0;
+				   image {
+					   normal: "browser-view-images/progressbar/processing_ani04.png";
+				   }
+			   }
+			   description { state: "pulse" 0.05;
+				   inherit: "default" 0.0;
+				   image {
+					   normal: "browser-view-images/progressbar/processing_ani05.png";
+				   }
+			   }
+			   description { state: "pulse" 0.06;
+				   inherit: "default" 0.0;
+				   image {
+					   normal: "browser-view-images/progressbar/processing_ani06.png";
+				   }
+			   }
+			   description { state: "pulse" 0.07;
+				   inherit: "default" 0.0;
+				   image {
+					   normal: "browser-view-images/progressbar/processing_ani07.png";
+				   }
+			   }
+           }
+       }
+	   script {
+			public pulse_state;
+	   }
+       programs {
+           program { name: "continue_pulse";
+			   script {
+					new Float:state;
+					state = get_float(pulse_state);
+					set_state(PART:"background", "pulse", state);
+					state += 0.01;
+					if( state > 0.07 )
+						state = 0.00;
+					set_float(pulse_state, state);
+			   }
+               after: "delay";
+           }
+           program { name: "delay";
+               action: STATE_SET "pulse" 0.10;
+               target: "background";
+			   in: PROGRESSING_DELAY 0.0;
+               after: "continue_pulse";
+           }
+           program { name: "start_pulse";
+               signal: "elm,state,pulse,start";
+               source: "elm";
+			   script {
+					set_float(pulse_state, 0.0);
+			   }
+               after: "continue_pulse";
+           }
+           program { name: "stop_pulse";
+               signal: "elm,state,pulse,stop";
+               source: "elm";
+			   action: ACTION_STOP;
+               target: "continue_pulse";
+               target: "delay";
+               target: "start_pulse";
+               after: "init_pulse";
+           }
+		   program { name: "init_pulse";
+				action: STATE_SET "default" 0.0;
+				target: "background";
+		   }
+       }
+   }
+}
+

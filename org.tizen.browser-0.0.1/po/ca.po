@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Notificant..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Processant..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Processament finalitzat"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Reintent"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Administrador de descàrregues"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Descriptor no vàlid"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "No s'ha pogut obrir el fitxer"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Descarregar?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Seleccionat"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Descàrrega cancel·lada"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Cont des d'últ pàg"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Pàgina"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Diccionari"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "Sobre el navegador"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Tipus"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Emissor"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Mostrar imatges"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Descarregar"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "Introdueixi URL"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Carpeta"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Pàgina d'inici"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Horitzontal"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "No hi ha preferits"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "No s'han trobat resultats"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Opcional"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Executar Flash"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "Executar JavaScript"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Nom comú:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Unitat organitzativa:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Organització:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "Agent d'usuari"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Preferències"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Error d'activació"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Ja s'està executant..."
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "No s'ha implementat"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Error en autenticar"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Sobreescriure?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Historial"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Llista de descàrregues"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Ja està instal·lat"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Notificant..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "No s'admet el contingut"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Error: no es pot resoldre el nom del host"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "No es pot arribar al proxy"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "No hi ha certificats SSL"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "La mida del fitxer supera el límit de càrrega màxim"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Introdueixi nom"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Següent"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Carpeta nova"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Afegir a Preferits"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Finestra nova"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URL no disponible"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "L'URL %s no està disponible. Pot estar caiguda temporalment o no estar operativa"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Carpeta"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Nom carpeta"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "El nom de carpeta ja està en ús"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Sense títol"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Finestr múltip"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Sense historials"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Afegir a Preferits"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Editar preferit"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Nom de la carpeta:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Seleccioni-ho tot"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Administrador de descàrregues"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "Afegir canal RSS"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "Afegir canals RSS"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Ajustaments"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "Introdueixi URL"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Contrasenya"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Adreça no vàlida"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Ja existeix a la llista de descàrregues"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Introduir nom de carpeta"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "No hi ha pàgina"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "No hi ha pàgines enrere"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "No hi ha pàgines endavant"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "No hi ha cap pàgina per a recarregar"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Es requereix autenticació"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Ja existeix el preferit"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "El nom de carpeta ja existeix"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "No es pot desar l'objecte. No hi ha prou espai a la memòria cau"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Seleccionar elements"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Informació del certificat"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Compartir amb correu electrònic"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Compartir mitjançant Missatges"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Compartir mitjançant"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "No es pot iniciar el Navegador"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Sense adreça"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "No tornar a most."
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Nom de fitxer buit"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Crear carpeta"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Seleccionat"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Compartir"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Pàgines visitades fa poc"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Pantalla"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Adaptar a l'amplada"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Llegible"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Confidencialitat"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Cookies"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Acceptar-ho tot"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Preguntar"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Cookies"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Acceptar cookies"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Acceptar cookies"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Acceptar-ho tot"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Rebutjar-ho tot"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Desar automàticament l'ID/contrasenya"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Activat"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Desactivat"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Emmagatzematge predeterminat"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Cercar"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Desar imatge"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Bateria baixa. No es pot executar el navegador"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Trobar paraula"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Afegir a la pantalla d'inici"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Afegir a pantalla d'inici"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Llocs més visitats"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Compartir mitjançant Facebook"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Compartir mitjançant Twitter"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Canviar vista"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "Seleccionar URL"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "El lloc està intentant obrir una finestra emergent"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Bloq finestres emergents"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Lector de text"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Copiar la imatge"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Desar imatge"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Reproduir"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Seleccionar"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Anar enrere"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Anar endavant"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Aturar"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Recarregar"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Enganxar"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Més"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Error"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Obrir nova finestra"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Veure llista de descàrregues"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "Copiar URL"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "Copiar URL a"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Veure imatge"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Ajustaments privacitat"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Esborrar memòria cau"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Esborrar historial"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Habilitar connectors"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Seleccionar cercador web"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Esborrar ID/contrasenya desats"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Esborrar totes les dades de cookies"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Amunt"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Mida de font"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Esborrat"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Vista predeterminada"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Ajustam contingut pàgina"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "Distingir entre majúscules i minúscules"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Connectar"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Llista de connectors"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Emmagatzematge local"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Esborrar dades de navegació"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Carregant..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Carregant..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "Introdueixi URL"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Bloquejar"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Desbloquejar"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Modificar"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "P. amunt"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "P. avall"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Mode de programador"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Buit"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Certificats"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Preferits"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Introduir nom"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Nom"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Enviar per correu electrònic"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Enviar a través de missatge"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Ajustaments"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Nom d'usuari"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Ja existeix"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Desat"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "No hi ha prou memòria"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Error de xarxa"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Preguntar sempre"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Targeta de memòria"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Telèfon"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Sense comptes"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Pàgina d'error"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Pàgina web no disponible temporalment"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Pàgina web no disponible"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Error en carregar marcs"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "S'ha produït l'error següent en recuperar la pàgina web %s."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "No es pot recuperar la pàgina web. (La pàgina web pot estar caiguda temporalment o haver canviat a una altra URL)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "A continuació es mostra la causa més probable"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Connexió de xarxa no establerta amb normalitat"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Comprovar URL de pàgina web"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Tornar a carregar la pàgina web més tard"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Preferit"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Títol"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Introduir títol"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Carpetes"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Permetre"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Refusar"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Error de seguretat: Certificat del servidor sense confiança"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "%d elements seleccionats"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "1 element seleccionat"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Afegir a clip web"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "S'ha creat l'accés directe"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Seleccionar paraula"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Cercar a pàgina"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Cercar a pàgina"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Llista"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Seleccioni-ho tot"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Missatge"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "Correu electrònic"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Cancel"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "Copiar URL enll"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Veure imatge"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Obrir en pàg nova"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Obrir"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Selecció de text activada"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Preferits"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Editar"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Esborrar"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Esborrar"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Cancel·lar"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Editar preferit"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Missatges"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "Correu electrònic"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Editar"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Esborrar"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Afegir a Preferits"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Mida de font"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Gran"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Petit"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Velocitat"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Adreça de proxy"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Port de servidor intermediari"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Finalit."
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Versió"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Instal·lar"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Pàgina actual"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Introduir nom de carpeta"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Introdueixi el nom del preferit"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "No ho tornis a preguntar"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "No s'ha trobat l'URL"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s sol·licita la seva ubicació"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Recordar preferència"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Mostrar imatges"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Mostrar advertiments de seguretat"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Recordar contrasenyes"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Esborrar contrasenyes"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Esborrar totes les contrasenyes desades?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Esborrar totes les cookies. Continuar?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Recordar dades de formularis"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Restablir a predeterminat"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Tots els ajustaments als valors predeterminats. Continuar?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Esborrar memòria cau?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Esborrar tot l'historial?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "S'esborrarà l'historial de navegació del navegador"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Sempre activat"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Habilitar ubicació"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Esborrar accés d'ubicació"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "No es pot afegir preferit. S'ha assolit el nombre màxim de preferits"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Esborrar la informació d'accés d'ubicació del lloc web?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Imprimir"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "Cerqui o introdueixi URL"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Auto"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Manual"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Baixa"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Mitjana"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Pàgina buida"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Error d'instal·lació"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Ajustaments de lloc web"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Alta"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Desar enllaç"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Compartir enllaç"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Privadesa i seguretat"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Desar per a lectura fora de línia"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Ubicació"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Dades del formulari"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Esborrar dades de formularis"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Esborrar totes les contrasenyes desades"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Afegit a Preferits"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Esborrat dels preferits"
+

@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Meddelar..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Bearbetar..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Bearbetning slutförd"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Försök"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Hämtningshanterare"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Ogiltig beskrivning"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Det går inte att öppna filen"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Hämta?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Markerade"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Nedladdning avbruten"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Från sista sidan"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Sida"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Ordbok"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "Om webbläsaren"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Typ"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Utfärdare"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Visa bilder"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Hämta"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "Ange URL"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Mapp"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Startsida"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Landskapsvy"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Inga bokmärken"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Inga resultat hittades"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Valfri"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Kör Flash"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "Kör JavaScript"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Allmänt namn:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Organisationsenhet:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Organisation:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "User agent"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Inställningar"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Aktiveringsfel"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Körs redan"
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Inte implementerat"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Verifieringsfel"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Skriva över?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Tidigare"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Hämta lista"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Redan installerat"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Meddelar..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Innehållet stöds inte"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Fel: kan inte analysera värdnamn"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Kan inte få åtkomst till proxy"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "Inga SSL-certifikat"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Filstorleken överskrider maximal överföringsgräns"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Ange namn:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Nästa"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Ny mapp"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Lägg till bokmärke"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Nytt fönster"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URL inte tillgänglig"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "URL:en %s är inte tillgänglig. Den fungerar kanske inte för tillfället eller så används den inte längre"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Mapp"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Mappnamn"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Mappnamnet används redan"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Ingen rubrik"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Flera fönster"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Inga berättelser"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Lägg till i Bokmärken"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Redigera bokmärke"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Mappnamn:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Välj alla"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Hämtningshanterare"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "Lägg till RSS-feed"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "Lägg till RSS-feeds"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Inställningar"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "Ange URL"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Lösenord"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Ogiltig adress"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Finns redan i hämtningslistan"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Ange mappnamn"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Sida saknas"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Inga sidor bakåt"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Inga sidor framåt"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Ingen sida att uppdatera"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Verifiering krävs"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Bokmärket finns redan"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Mappnamnet finns redan"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Objektet kan inte sparas. Inte tillräckligt utrymme i cache"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Välj objekt"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Certifikatsinformation"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Dela via e-post"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Dela via meddelanden"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Dela via"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Det går inte att starta webbläsaren"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Ingen adress"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Visa aldrig igen"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Filnamnet tomt"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Skapa mapp"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Markerade"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Dela"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Nyligen besökta sidor"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Display"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Anpassa till bredd"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Läsbart"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Privat"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Cookie"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Acceptera alla"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Fråga"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Cookie"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Acceptera cookies"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Acceptera cookies"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Acceptera alla"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Avvisa alla"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Spara ID/lösenord automatiskt"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "På"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Av"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Standardlagring"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Sök"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Spara bild"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Låg batterinivå. Det går inte att köra webbläsaren"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Sök ord"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Lägg till på hemskärmen"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Lägg till på hemskärmen"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Mest besökta webbplatser"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Dela via Facebook"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Dela via Twitter"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Ändra vy"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "Välj URL:er"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "Sidan försöker att öppna ett popup-fönster"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Blockera popup-fönster"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Textläsare"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Kopiera bild"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Spara bild"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Spela"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Välj"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Gå bakåt"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Gå framåt"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Stopp"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Uppdatera"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Klistra in"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Mer"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Misslyckades"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Öppna i nytt fönster"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Visa hämtningslista"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "Kopiera URL"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "Kopiera URL till"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Visa bild"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Sekretessinställningar"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Töm cache"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Rensa historik"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Aktivera plug-in"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Välj sökmotor"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Radera sparat ID/lösenord"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Rensa all cookie-data"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Upp"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Teckenstorlek"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Raderad"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Standardvy"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Sidinnehållsinställningar"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "Skiftkänsligt"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Tilläggsprogram"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Plugin-lista"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Lokalt minne"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Radera granskningsdata"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Laddar..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Laddar..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "Ange URL"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Lås"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Lås upp"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Ändra"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Föreg. sida"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Nästa sida"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Utvecklarläge"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Tom"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Certifikat"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Bokmärken"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Ange namn"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Namn"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Skicka via e-post"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Skicka i meddelande"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Inställningar"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Användarnamn"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Finns redan"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Sparad"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Minnet fullt"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Nätverksfel"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Fråga alltid"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Minneskort"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Telefon"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Inga konton"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Felsida"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Webbsidan är för tillfället ej tillgänglig"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Webbsidan är ej tillgänglig"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Det gick inte att läsa in ramar"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "När webbsidan %s hämtades inträffade följande fel."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Det går inte att hämta webbsidan. (Det går kanske inte att nå webbsidan för tillfället eller så har URL:en ändrats)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Se nedan för den troligaste orsaken"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Nätverksanslutningen upprättades inte korrekt"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Kontrollera URL:en för webbsidan"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Läs in webbsidan senare"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Bokmärke"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Rubrik"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Ange rubrik"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Mappar"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Tillåt"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Neka"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Säkerhetsfel: Servercertifikatet är inte pålitligt"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "%d objekt valda"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "1 valt objekt"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Lägg till till webbklipp"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Genväg skapades"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Välj ord"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Sök på sidan"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Sök på sidan"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Lista"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Välj alla"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Meddelande"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "E-post"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Avbryt"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "Kopiera URL-länk"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Visa bild"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Öppna på ny sida"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Öppna"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Textmarkering på"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Bokmärken"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Redigera"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Radera"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Radera"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Avbryt"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Redigera bokmärke"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Meddelanden"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "E-post"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Redigera"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Radera"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Lägg till i Bokmärken"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Teckenstorlek"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Stor"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Liten"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Hastighet"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Proxy-adress"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Proxyport"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Klar"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Version"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Installera"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Denna sida"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Ange mappnamn"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Ange bokmärkesnamn"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Fråga inte igen"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "URL hittades inte"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s begär uppgifter om din plats"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Kom ihåg preferens"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Visa bilder"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Visa säkerhetsvarningar"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Kom ihåg lösenord"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Rensa lösenord"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Radera alla sparade lösenord?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Radera alla cookies. Fortsätta?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Kom ihåg data"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Återställ till standard"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Alla inställningar till standardinställningar. Fortsätta?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Tömma cache?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Vill du radera all historik?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Webbläsarens navigeringshistorik kommer att rensas"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Alltid på"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Aktivera plats"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Rensa platsåtkomst"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Kan inte lägga till bokmärke. Maximala antalet bokmärken uppnått"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Ta bort åtkomstinformation för webbplatsen?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Skriv ut"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "Sök eller ange URL"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Auto"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Manuellt"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Låg"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Medel"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Tom sida"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Installationen misslyckades"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Webbplatsinställningar"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Hög"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Spara länk"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Dela länk"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Sekretess och säkerhet"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Spara för offlineläsning"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Plats"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Formulärdata"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Ta bort formulärdata"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Rensa alla sparade lösenord"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Tillagt i bokmärken"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Borttaget från bokmärken"
+

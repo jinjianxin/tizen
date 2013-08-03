@@ -1,0 +1,500 @@
+/*
+ * Copyright 2012  Samsung Electronics Co., Ltd
+ *
+ * Licensed under the Flora License, Version 1.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.tizenopensource.org/license
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ */
+
+#include "browser-macro.edc"
+
+collections {
+	group {
+		name: "bookmark/content_layout";
+		parts {
+			part { name: "bg";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 255 255 255 255;
+				}
+			}
+			part { name: "elm.swallow.upperlist";
+				mouse_events: 1;
+				type: SWALLOW;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 0 0;
+					max: 0 0;
+					rel1 { relative: 0.0 0.0; to: bg; }
+					rel2 { relative: 1.0 0.0; to: bg; }
+				}
+				description {
+					state: "show_upper_folder" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+					min: 0 115;
+					max: 999999 115;
+					fixed: 0 1;
+					align: 0.0 0.0;
+				}
+			}
+			part { name: "upper_list_bottom_line";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 0 0;
+					max: 999999 0;
+					fixed: 0 1;
+					rel1 { relative: 0.0 1.0; to: "elm.swallow.upperlist"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.upperlist"; }
+					color: 200 200 200 255;
+				}
+			}
+			part { name: "elm.swallow.content_box";
+				mouse_events: 1;
+				type: SWALLOW;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					rel1 { relative: 0.0 1.0; to_x: bg; to_y: "upper_list_bottom_line"; }
+					rel2 { relative: 1.0 1.0; to: bg; }
+					color: 0 255 0 255;
+				}
+				description {
+					state: "empty" 0.0;
+					inherit: "default" 0.0;
+					visible: 0;
+					min: 0 0;
+					max: 0 0;
+				}
+			}
+			part { name: "elm.swallow.no_content";
+				mouse_events: 1;
+				type: SWALLOW;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					rel1 { relative: 0.0 1.0; to_x: bg; to_y: "upper_list_bottom_line"; }
+					rel2 { relative: 1.0 1.0; to: bg; }
+					color: 0 0 255 255;
+				}
+				description {
+					state: "empty" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+		}
+		programs {
+			program { name: "hide,upper_folder";
+				signal: "hide,upper_folder,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.upperlist";
+				target: "upper_list_bottom_line";
+			}
+			program { name: "show,upper_folder";
+				signal: "show,upper_folder,signal";
+				action: STATE_SET "show_upper_folder" 0.0;
+				target: "elm.swallow.upperlist";
+				target: "upper_list_bottom_line";
+			}
+			program { name: "show,content_box";
+				signal: "show,content_box,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.content_box";
+				target: "elm.swallow.no_content";
+			}
+			program { name: "hide,content_box";
+				signal: "hide,content_box,signal";
+				action: STATE_SET "empty" 0.0;
+				target: "elm.swallow.content_box";
+				target: "elm.swallow.no_content";
+			}
+		}
+	}
+	group {
+		name: "bookmark/main_layout";
+		parts {
+			part { name: "elm.swallow.tabbar";
+				mouse_events: 1;
+				repeat_events: 1;
+				type: SWALLOW;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 0 117;
+					fixed: 0 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 0.0; }
+				}
+			}
+			part { name: "elm.swallow.content";
+				mouse_events: 1;
+				repeat_events: 1;
+				type: SWALLOW;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 1.0; to: "elm.swallow.tabbar"; }
+					rel2 { relative: 1.0 1.0; }
+				}
+				description {
+					state: "unvisible" 0.0;
+					inherit: "default" 0.0;
+					visible: 0;
+				}
+			}
+			part { name: "elm.swallow.content1";
+				mouse_events: 1;
+				repeat_events: 1;
+				type: SWALLOW;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.content"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.content"; }
+				}
+				description {
+					state: "unvisible" 0.0;
+					inherit: "default" 0.0;
+					visible: 0;
+				}
+			}
+		}
+		programs {
+			program { name: "show,content0";
+				signal: "show,content0,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.content";
+				after: "hide,content1";
+			}
+			program { name: "hide,content1";
+				action: STATE_SET "unvisible" 0.0;
+				target: "elm.swallow.content1";
+			}
+			program { name: "show,content1";
+				signal: "show,content1,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.content1";
+				after: "hide,content0";
+			}
+			program { name: "hide,content0";
+				action: STATE_SET "unvisible" 0.0;
+				target: "elm.swallow.content";
+			}
+		}
+	}
+
+	group {
+		name: "bookmark/bookmark-folder-view-layout";
+		parts {
+			part { name: "bg";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 100 100 100 255;
+				}
+			}
+			part { name: "elm.swallow.folderlist";
+				mouse_events: 1;
+				type: SWALLOW;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					rel1 { relative: 0.0 0.0; to: bg; }
+					rel2 { relative: 1.0 0.0; to_x: bg; to_y: elm.swallow.controlbar; }
+				}
+			}
+			part { name: "elm.swallow.controlbar";
+				mouse_events: 1;
+				type: SWALLOW;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 0 96;
+					max: 999999 96;
+					fixed: 0 1;
+					align: 0.0 1.0;
+					rel1 { relative: 0.0 1.0; to_x: bg; to_y: bg; }
+					rel2 { relative: 1.0 1.0; to_x: bg; to_y: bg; }
+				}
+			}
+		}
+	}
+
+	group { name: "browser/popup_center_progressview";
+	   parts{
+	      part { name: "elm.title";
+	         type: TEXT;
+	         scale : 1;
+	         description { state: "default" 0.0;
+	            max: 240 24;
+	            text {
+	               font: "SLP:style=Medium";
+	               size: 33;
+	               min: 0 0;
+	               align: 0.5 0.0;
+	              }
+	            color: 108 108 108 255;
+	            align: 0.5 0.0;
+	            rel1 {
+	               relative: 0.0 0.0;
+	               to: "elm.swallow.content";
+	            }
+	            rel2 {
+	               relative: 1.0 0.0;
+	               to: "elm.swallow.content";
+	            }
+	         }
+	      }
+	      part{ name:"elm.swallow.content";
+	         type: SWALLOW;
+	         scale : 1;
+	         description { state: "default" 0.0;
+	            min: 0 105;
+	            align: 0.5 0.8;
+	            fixed: 1 0;
+	            rel1 {
+	               relative: 0.0 0.0;
+	            }
+	            rel2 {
+	               relative: 1.0 1.0;
+	            }
+	         }
+	      }
+	      part { name: "elm.text.left";
+	         type: TEXT;
+	         scale : 1;
+	         description { state: "default" 0.0;
+	            max: 225 24;
+	            text {
+	               font: "SLP:style=Medium";
+	               size: 24;
+	               min: 0 0;
+	               align: 0.0 1.0;
+	              }
+	            color: 108 108 108 255;
+	            align: 0.0 1.0;
+	            rel1 {
+	               relative: 0.0 0.0;
+	               to: "elm.swallow.content";
+	            }
+	            rel2 {
+	               relative: 1.0 1.0;
+	               to: "elm.swallow.content";
+	            }
+	         }
+	      }
+	      part { name: "elm.text.right";
+	         type: TEXT;
+	         scale : 1;
+	         description { state: "default" 0.0;
+	            max: 225 24;
+	            text {
+	               font: "SLP:style=Medium";
+	               size: 24;
+	               min: 0 0;
+	               align: 1.0 1.0;
+	              }
+	            color: 108 108 108 255;
+	            align: 1.0 1.0;
+	            rel1 {
+	               relative: 0.0 0.0;
+	               to: "elm.swallow.content";
+	            }
+	            rel2 {
+	               relative: 1.0 1.0;
+	               to: "elm.swallow.content";
+	            }
+	         }
+	      }
+	   }
+	}
+
+#define NOCONTENT_TEXT_BLOCK_STYLE_COLOR_INC 81 78 76 255
+#define NOCONTENT_TEXT_BLOCK_TEXT_SIZE_INC   42
+#define NOCONTENT_MIDDLE_PADDING_INC         54
+#define NOCONTENT_BASE_SEARCH_PADDING_INC    40
+#define NOCONTENT_IMAGE_REL1_WIDTH_HEIGHT_INC 0.282 0.294
+#define NOCONTENT_IMAGE_REL2_WIDTH_HEIGHT_INC 0.718 0.54
+#define NOCONTENT_BG_COLOR_INC               0 0 0 255
+#define NOCONTENT_TEXT_STYLE_BG_MIN_INC       0 120
+
+group {
+   name: "elm/layout/no_bookmark/full";
+   alias: "elm/no_bookmark/base/full";
+   alias: "elm/no_bookmark/base/default";
+   styles{
+      style { name: "nocontent_style";
+         base: "font=SLP:style=Roman font_size="NOCONTENT_TEXT_BLOCK_TEXT_SIZE_INC" align=center color=#ffffff wrap=mixed ellipsis=1.0";
+         tag:  "br" "\n";
+         tag:  "hilight" "+ font=SLP:style=Bold";
+         tag:  "b" "+ font=SLP:style=Bold";
+         tag:  "tab" "\t";
+      }
+   }
+   images {
+      image: "bookmarks/I01_Nocontents_Bookmarks.png" COMP;
+   }
+   parts {
+      part { name: "bg";
+         type: RECT;
+         scale: 1;
+         description { state: "default" 0.0;
+            visible: 1;
+            min: 200 200;
+            rel1 {
+               relative: 0.0 0.0;
+            }
+            rel2 {
+               relative: 1.0 1.0;
+            }
+            color: NOCONTENT_BG_COLOR_INC;
+         }
+      }
+      part { name: "nocontents.image";
+         description { state: "default" 0.0;
+            visible: 1;
+            align: 0.5 0.0;
+            rel1 {
+               relative: NOCONTENT_IMAGE_REL1_WIDTH_HEIGHT_INC;
+               to: "bg";
+            }
+            rel2 {
+               relative: NOCONTENT_IMAGE_REL2_WIDTH_HEIGHT_INC;
+               to: "bg";
+            }
+            image {
+               normal: "bookmarks/I01_Nocontents_Bookmarks.png";
+               border: 1 1 1 1;
+               border_scale: 1;
+            }
+            aspect: 1.0 1.0;
+            aspect_preference: BOTH;
+         }
+      }
+      part { name: "middle.padding";
+         type: RECT;
+         scale: 1;
+         description { state: "default" 0.0;
+            visible: 0;
+            min: 1 NOCONTENT_MIDDLE_PADDING_INC;
+            max: 1 NOCONTENT_MIDDLE_PADDING_INC;
+            align: 0.5 0.0;
+            rel1 {
+               relative: 0.0 1.0;
+               to_y: "nocontents.image";
+            }
+         }
+      }
+      part { name: "elm.text";
+         type: TEXTBLOCK;
+         scale: 1;
+         description { state: "default" 0.0;
+            min: NOCONTENT_TEXT_STYLE_BG_MIN_INC;
+            fixed: 0 1;
+            align: 0.5 0.5;
+            visible: 1;
+            rel1 {
+               relative: 0.0 1.0;
+               to_x: "bg";
+               to_y: "middle.padding";
+            }
+            rel2 {
+               relative: 1.0 1.0;
+               to_x: "bg";
+               to_y: "middle.padding";
+            }
+            color: NOCONTENT_TEXT_BLOCK_STYLE_COLOR_INC;
+            text {
+               style: "nocontent_style";
+               align: 0.5 0.5;
+               min: 0 0;
+               max: 0 1;
+            }
+         }
+      }
+   }
+}
+
+	group { name: "browser/selectioninfo";
+		parts {
+			part {
+				name: "genlist.swallow.contents";
+				type: SWALLOW;
+				description { state: "default" 0.0;
+					align: 0.5 0.0;
+				}
+			}
+			part {
+				name: "selinfo.swallow.contents";
+				type: SWALLOW;
+				description { state: "default" 0.0;
+					fixed: 0 1;
+					align: 0.5 1.0;
+					rel1 {
+						relative: 0.0 1.0;
+						to:"genlist.swallow.contents";
+					}
+				}
+				description { state: "hide" 0.0;
+					inherit: "default" 0.0;
+					visible: 0;
+				}
+			}
+		}
+		programs {
+			program {
+				name: "show";
+				signal: "show,selection,info";
+				source: "elm";
+				action: STATE_SET "default" 0.0;
+				target: "selinfo.swallow.contents";
+			}
+			program {
+				name: "hide";
+				signal: "hide,selection,info";
+				source: "elm";
+				action: STATE_SET "hide" 0.0;
+				target: "selinfo.swallow.contents";
+			}
+		}
+	}
+}
+

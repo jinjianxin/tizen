@@ -1,0 +1,913 @@
+/*
+ * Copyright 2012  Samsung Electronics Co., Ltd
+ *
+ * Licensed under the Flora License, Version 1.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.tizenopensource.org/license
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ */
+
+/* color define */
+#define BROWSER_COLOR_WHITE 255 255 255 255
+
+/* image define */
+// grey bg color
+#define BROWSER_IMAGE_CONTENT_BG "browser-view-images/41_browser_new_win_bg.png"
+
+#define BROWSER_WAITING_PROGRESS_SIZE 90 90
+#define BROWSER_FLOATING_BACKWARD_BUTTON_SIZE 120 124
+#define BROWSER_CONTROL_BAR_HEIGHT 114
+
+collections {
+	group {
+		name: "browser/browser-view-main";
+		images {
+			image: BROWSER_IMAGE_CONTENT_BG COMP;
+		}
+		parts {
+			part { name: "bg";
+				mouse_events: 0;
+				scale: 1;
+				type: RECT;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: BROWSER_COLOR_WHITE;
+				}
+			}
+			part {
+				name: "contents_bg";
+				type: IMAGE;
+				mouse_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "bg"; }
+					rel2 { relative: 1.0 1.0; to: "bg"; }
+					image.normal: BROWSER_IMAGE_CONTENT_BG;
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part {
+				name: "elm.swallow.content";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					fixed: 1 1;
+					rel1 { relative: 0.0 0.0; to: "contents_bg"; }
+					rel2 { relative: 1.0 0.0; to: "elm.swallow.control_bar"; }
+				}
+				description {
+					state: "full_screen" 0.0;
+					inherit: "default" 0.0;
+					rel1 { relative: 0.0 0.0; to: "contents_bg"; }
+					rel2 { relative: 1.0 1.0; to: "contents_bg"; }
+				}
+			}
+			part {
+				name: "elm.swallow.scissorbox";
+				type: SWALLOW;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.content"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.content"; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			/* ifdef ZOOM_BUTTON */
+			part {
+				name: "elm.swallow.zoom_out_button";
+				type: SWALLOW;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 56 56;
+					max: 56 56;
+					fixed: 1 1;
+					align: 1.0 1.0;
+					rel1 { relative: 0.4 -0.5; to_y: "elm.swallow.control_bar"; }
+					rel2 { relative: 0.4 -0.5; to_y: "elm.swallow.control_bar"; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part {
+				name: "elm.swallow.zoom_in_button";
+				type: SWALLOW;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 56 56;
+					max: 56 56;
+					fixed: 1 1;
+					align: 0.0 1.0;
+					rel1 { relative: 0.6 -0.5; to_y: "elm.swallow.control_bar"; }
+					rel2 { relative: 0.6 -0.5; to_y: "elm.swallow.control_bar"; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			/* endif ZOOM_BUTTON */
+			part {
+				name: "padding,url_layout";  // padding
+				type: RECT;
+				mouse_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 0 74;
+//					min: 0 150;
+					fixed: 0 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "contents_bg"; }
+					rel2 { relative: 1.0 0.0; to: "contents_bg"; }
+					color: 0 0 0 0;
+				}
+			}
+			part {
+				name: "elm.swallow.waiting_progress";
+				type: SWALLOW;
+				mouse_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.5 0.5;
+					min: BROWSER_WAITING_PROGRESS_SIZE;
+					max: BROWSER_WAITING_PROGRESS_SIZE;
+					rel1 { relative: 0.0 0.0; to_x: contents_bg; to_y: "padding,url_layout"; }
+					rel2 { relative: 1.0 1.0; to: contents_bg; }
+				}
+				description {
+					state: "unvisible" 0.0;
+					inherit: "default" 0.0;
+					visible: 0;
+				}
+			}
+			part {
+				name: "most_visited_sites_bg";
+				type: RECT;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.most_visited_sites"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.most_visited_sites"; }
+					color: 38 38 38 255;
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part {
+				name: "padding,most_visited_sites_bottom";
+				type: RECT;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 0 BROWSER_CONTROL_BAR_HEIGHT;
+					align: 0.5 1.0;
+					rel1 { relative: 0.0 1.0; }
+					rel2 { relative: 1.0 1.0; }
+				}
+			}
+			part {
+				name: "elm.swallow.most_visited_sites";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "elm.rect.content_dim"; }
+					rel2 { relative: 1.0 0.0; to: "padding,most_visited_sites_bottom"; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part {
+				name: "elm.rect.content_dim";
+				type: RECT;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 1.0; to_y: "padding,url_layout"; }
+					rel2 { relative: 1.0 1.0; }
+					color: 20 20 20 170;
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part {
+				name: "elm.swallow.most_visited";
+				type: SWALLOW;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "elm.rect.content_dim"; }
+					rel2 { relative: 1.0 0.0; to: "elm.rect.content_dim"; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part {
+				name: "elm.rect.control_bar_bg";
+				type: RECT;
+				mouse_events: 0;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.control_bar"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.control_bar"; }
+					color: 255 255 255 255;
+				}
+			}
+			part {
+				name: "elm.swallow.control_bar";
+				type: SWALLOW;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 0 BROWSER_CONTROL_BAR_HEIGHT;
+					fixed: 0 1;
+					align: 0.5 1.0;
+					rel1 { relative: 0.0 1.0; }
+					rel2 { relative: 1.0 1.0; }
+				}
+				description {
+					state: "invisible" 0.0;
+					inherit: "default" 0.0;
+					align: 0.5 0.0;
+					rel1 { relative: 0.0 1.0; }
+					rel2 { relative: 1.0 1.0; }
+				}
+				description {
+					state: "full_screen" 0.0;
+					inherit: "default" 0.0;
+					visible: 0;
+				}
+			}
+			part {
+				name: "elm.swallow.multi_window";
+				type: SWALLOW;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.content"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.content"; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			/* For change effect. */
+			part { name: "rect.reader_layout";
+				type: RECT;
+				mouse_events: 0;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					color: 255 255 255 0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.reader"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.reader"; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					color: 255 255 255 255;
+				}
+			}
+			part {
+				name: "elm.swallow.reader";
+				type: SWALLOW;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				/* For change effect. */
+				clip_to: "rect.reader_layout";
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "contents_bg"; }
+					rel2 { relative: 1.0 1.0; to: "contents_bg"; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part { name: "elm.swallow.predictive_history";
+				mouse_events: 1;
+				type: SWALLOW;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.most_visited"; }
+					rel2 { relative: 1.0 1.0; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part {
+				/* In case of my sites guide text, dim the background of screen. */
+				name: "elm.rect.screen_dim";
+				type: RECT;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.multi_window"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.multi_window"; }
+					color: 20 20 20 170;
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part {
+				name: "elm.swallow.mysites_guide";
+				type: SWALLOW;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 660 375;
+					max: 660 600;
+					fixed: 1 0;
+					align: 0.5 0.6;
+					rel1 { relative: 0.0 0.0; to: "elm.rect.screen_dim"; }
+					rel2 { relative: 1.0 1.0; to: "elm.rect.screen_dim"; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part {
+				name: "elm.rect.more_context_bg";
+				type: RECT;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 0 0 0 0;
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part {
+				name: "elm.rect.brightness_top_seg_bg";
+				type: RECT;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					fixed: 0 1;
+					min: 0 BROWSER_CONTROL_BAR_HEIGHT;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 0.0; }
+					color: 20 20 20 255;
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part {
+				name: "brightness_title_label";
+				type: TEXT;
+				scale: 1;
+				mouse_events: 0;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					fixed: 1 1;
+					align: 0.0 0.0;
+					rel1 {relative: 0.1 0.0; to: "elm.rect.brightness_top_seg_bg"; }
+					rel2 {relative: 0.9 0.4; to: "elm.rect.brightness_top_seg_bg"; }
+					text { font: FONT_ROM;
+                            size: 25;
+                            min: 0 0;
+                            align: 0.5 0.5;
+                    }
+                    color: 255 255 255 255;
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part { name: "elm.swallow.brightness_top_seg";
+				mouse_events: 1;
+				repeat_events: 0;
+				type: SWALLOW;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.1 0.4; to: "elm.rect.brightness_top_seg_bg"; }
+					rel2 { relative: 0.9 0.9; to: "elm.rect.brightness_top_seg_bg"; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part {
+				name: "elm.rect.brightness_slider_bg";
+				type: RECT;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.brightness_slider"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.brightness_slider"; }
+					color: 20 20 20 255;
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part { name: "elm.swallow.brightness_slider";
+				mouse_events: 1;
+				repeat_events: 0;
+				type: SWALLOW;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 0 BROWSER_CONTROL_BAR_HEIGHT;
+					fixed: 0 1;
+					align: 0.0 1.0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.control_bar"; }
+					rel2 { relative: 1.0 0.0; to: "elm.swallow.control_bar"; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+		}
+		programs {
+			/////////////////////////////
+			// show / hide brightness layout
+			/////////////////////////////
+			program { name: "show,brightness_layout";
+				signal: "show,brightness_layout,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.swallow.brightness_slider";
+				target: "elm.rect.brightness_slider_bg";
+				target: "elm.rect.brightness_top_seg_bg";
+				target: "elm.swallow.brightness_top_seg";
+				target: "brightness_title_label";
+			}
+			program { name: "hide,brightness_layout";
+				signal: "hide,brightness_layout,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.brightness_slider";
+				target: "elm.rect.brightness_slider_bg";
+				target: "elm.rect.brightness_top_seg_bg";
+				target: "elm.swallow.brightness_top_seg";
+				target: "brightness_title_label";
+			}
+
+			/////////////////////////////
+			// show / hide more context bg
+			/////////////////////////////
+			program { name: "show,more_context_bg";
+				signal: "show,more_context_bg,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.rect.more_context_bg";
+			}
+			program { name: "hide,more_context_bg";
+				signal: "hide,more_context_bg,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.rect.more_context_bg";
+			}
+
+			/////////////////////////////
+			// full screen
+			/////////////////////////////
+			program { name: "enter,full_screen";
+				signal: "enter,full_screen,signal";
+				action: STATE_SET "full_screen" 0.0;
+				target: "elm.swallow.control_bar";
+				target: "elm.swallow.content";
+			}
+			program { name: "exit,full_screen";
+				signal: "exit,full_screen,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.control_bar";
+				target: "elm.swallow.content";
+			}
+			/////////////////////////////
+			// show / hide scissor box
+			/////////////////////////////
+			program { name: "show,scissorbox";
+				signal: "show,scissorbox,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.swallow.scissorbox";
+			}
+			program { name: "hide,scissorbox";
+				signal: "hide,scissorbox,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.scissorbox";
+			}
+			/* ifdef ZOOM_BUTTON */
+			/////////////////////////////
+			// show / hide zoom buttons
+			/////////////////////////////
+			program { name: "show,zoom_buttons";
+				signal: "show,zoom_buttons,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.swallow.zoom_out_button";
+				target: "elm.swallow.zoom_in_button";
+			}
+			program { name: "hide,zoom_buttons";
+				signal: "hide,zoom_buttons,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.zoom_out_button";
+				target: "elm.swallow.zoom_in_button";
+			}
+			program { name: "show,zoom_in_buttons";
+				signal: "show,zoom_in_buttons,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.swallow.zoom_in_button";
+			}
+			program { name: "hide,zoom_in_buttons";
+				signal: "hide,zoom_in_buttons,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.zoom_in_button";
+			}
+			program { name: "show,zoom_out_buttons";
+				signal: "show,zoom_out_buttons,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.swallow.zoom_out_button";
+			}
+			program { name: "hide,zoom_out_buttons";
+				signal: "hide,zoom_out_buttons,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.zoom_out_button";
+			}
+			/* endif ZOOM_BUTTON */
+
+			/////////////////////////////
+			// show / hide reader
+			/////////////////////////////
+			program { name: "show,reader";
+				signal: "show,reader,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.swallow.reader";
+			}
+			program { name: "show,reader,clipper";
+				signal: "show,reader,signal";
+				transition: ACCELERATE 0.5;
+				action: STATE_SET "visible" 0.0;
+				target: "rect.reader_layout";
+			}
+			program { name: "hide,reader";
+				signal: "hide,reader,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.reader";
+				target: "rect.reader_layout";
+			}
+
+			/////////////////////////////
+			// show / hide most visited sites
+			/////////////////////////////
+			program { name: "show,most_visited_sites";
+				signal: "show,most_visited_sites,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.swallow.most_visited_sites";
+				target: "most_visited_sites_bg";
+			}
+			program { name: "hide,most_visited_sites";
+				signal: "hide,most_visited_sites,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.most_visited_sites";
+				target: "most_visited_sites_bg";
+			}
+
+			/////////////////////////////////////
+			// show / hide most visited sites guide text
+			/////////////////////////////////////
+			program { name: "show,most_visited_sites_guide_text";
+				signal: "show,most_visited_sites_guide_text,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.rect.screen_dim";
+				target: "elm.swallow.mysites_guide";
+			}
+			program { name: "hide,most_visited_sites_guide_text";
+				signal: "hide,most_visited_sites_guide_text,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.rect.screen_dim";
+				target: "elm.swallow.mysites_guide";
+			}
+
+			/////////////////////////////
+			// url edit mode on/off
+			/////////////////////////////
+			program { name: "edit,url,on";
+				signal: "edit,url,on,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.rect.content_dim";
+				after: "show,most_visited";
+			}
+			program { name: "edit,url,off";
+				signal: "edit,url,off,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.rect.content_dim";
+				after: "hide,most_visited";
+			}
+
+			/////////////////////////////
+			// show / hide background dim
+			/////////////////////////////
+			program { name: "dim,bg";
+				signal: "dim,bg,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.rect.content_dim";
+			}
+			program { name: "undim,bg";
+				signal: "undim,bg,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.rect.content_dim";
+			}
+
+			////////////////////////////////////
+			// show / hide most visited swallow
+			////////////////////////////////////
+			program { name: "show,most_visited";
+				signal: "show,most_visited,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.swallow.most_visited";
+			}
+			program { name: "hide,most_visited";
+				signal: "hide,most_visited,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.most_visited";
+			}
+
+			////////////////////////////////////
+			// show / hide multiwindow swallow
+			////////////////////////////////////
+			program { name: "show,multi_window";
+				signal: "show,multi_window,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.swallow.multi_window";
+			}
+			program { name: "hide,multi_window";
+				signal: "hide,multi_window,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.multi_window";
+			}
+
+			/////////////////////////////
+			// control bar show / hide
+			/////////////////////////////
+			program { name: "show,control_bar";
+				signal: "show,control_bar,signal";
+				transition: LINEAR 0.2;
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.control_bar";
+			}
+			program { name: "hide,control_bar";
+				signal: "hide,control_bar,signal";
+				transition: LINEAR 0.2;
+				action: STATE_SET "invisible" 0.0;
+				target: "elm.swallow.control_bar";
+			}
+			program { name: "hide,control_bar,no_animation";
+				signal: "hide,control_bar,no_animation,signal";
+				action: STATE_SET "invisible" 0.0;
+				target: "elm.swallow.control_bar";
+			}
+			program { name: "show,control_bar,no_animation";
+				signal: "show,control_bar,no_animation,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.control_bar";
+			}
+			/////////////////////////////////////////////////////
+			// hide waiting progress bar / show grey background
+			/////////////////////////////////////////////////////
+			program { name: "hide,waiting_progressbar";
+				signal: "hide,waiting_progressbar,signal";
+				action: STATE_SET "unvisible" 0.0;
+				target: "elm.swallow.waiting_progress";
+			}
+			program { name: "show,grey_background";
+				signal: "show,grey_background,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "contents_bg";
+			}
+			program { name: "hide,grey_background";
+				signal: "hide,grey_background,signal";
+				action: STATE_SET "default" 0.0;
+				target: "contents_bg";
+			}
+
+			////////////////////////////////////
+			// show / hide predictive history
+			////////////////////////////////////
+			program { name: "hide,predictive_history";
+				signal: "hide,predictive_history,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.predictive_history";
+			}
+			program { name: "show,predictive_history";
+				signal: "show,predictive_history,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.swallow.predictive_history";
+			}
+		}
+	}
+
+	group {
+		name: "browser/browser-view-webview";
+		parts {
+			part { name: "bg";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; }
+					/* The height of url bar layout is 65. */
+					/* The webview size is content height + 65. */
+					rel2 { relative: 1.0 1.0; }
+					color: 0 0 0 0;
+					fixed: 0 1;
+					min: 0 1116;
+				}
+				description {
+					state: "resizable" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; }
+					/* The height of url bar layout is 65. */
+					/* The webview size is content height + 65. */
+					rel2 { relative: 1.0 1.0; }
+					color: 0 0 0 0;
+				}
+			}
+			part {
+				name: "elm.swallow.webview";
+				type: SWALLOW;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "bg"; }
+					rel2 { relative: 1.0 1.0; to: "bg"; }
+					fixed: 0 1;
+					min: 0 1116;
+				}
+				description {
+					state: "resizable" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "bg"; }
+					rel2 { relative: 1.0 1.0; to: "bg"; }
+				}
+			}
+		}
+		programs {
+			/////////////////////////////
+			// show / hide more context bg
+			/////////////////////////////
+			program { name: "resizable";
+				signal: "resizable,signal";
+				action: STATE_SET "resizable" 0.0;
+				target: "bg";
+				target: "elm.swallow.webview";
+			}
+			program { name: "unresizable";
+				signal: "unresizable,signal";
+				action: STATE_SET "default" 0.0;
+				target: "bg";
+				target: "elm.swallow.webview";
+			}
+		}
+	}
+}

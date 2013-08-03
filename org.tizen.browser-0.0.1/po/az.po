@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Bildirilir..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Emal edilir..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "İşləmə tamamlandı"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Yenidən cəhd et"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Yükləmə meneceri"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Yanlış deskriptor"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Faylı açmaq mümkün deyildir"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Yüklənsin?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Seçilmişi"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Yükləmədən imtina edildi"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Son səhifdən davm edn"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Səhifə"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Lüğət"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "Brauzer haqqında"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Növ"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Tələbatçı"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Displey təsvirləri"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Yüklə"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "URL daxil et"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Qovluq"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Ana səhifə"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Mənzərə"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Nişanlar yoxdur"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Heç bir nəticə tapılmamışdır"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Şərti"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Flashı-i işə salın"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "JavaScript-i işə sal"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Ümumi ad:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Təşkilat bölmə:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Təşkilat:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "İstifadəçi agenti"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Üstünlüklər"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Fəallaşdırmada yanlışlıq"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Artıq işləyir"
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Yerinə yetirilmədi"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Həqiqiliyin yoxlanması mümkün olmadı"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Üzərindən yazılsın?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Tarix"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Yükləmə siyahısı"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Artıq yükləndi"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Bildirilir..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Dəstəklənməyən məzmun"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Səhv: host adını tapmaq mümkün deyil"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Proksiyə daxil olmaq mümkün deyil"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "SSL sertifikatı yoxdur"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Faylın ölçüsü maksimum yükləmə limitini keçir"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Adı daxil et:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Növbəti"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Yeni qovluq"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Əlfəcin-rə əlavə edin"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Yeni pəncərə"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL :"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URL mümkün deyil"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "URL %s mümkün deyil. O müvəqqəti olaraq işləməyə və ya artıq istifadə olunmaya bilər"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Qovluq"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Qovluğun adı"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Qovluğun adı hazırda istifadə edilir"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Başlıq yoxdur"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Çoxpəncərəli"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Tarixçə yoxdur"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Nişanlara əlavə et"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Nişanı redaktə et"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Qovluğun adı:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Hamısını seç"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Yükləmə meneceri"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "RSS buraxılışı əlavə edin"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "RSS verilişləri əlavə et"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Parametrlər"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "URL daxil et"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Şifrə"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Yanlış ünvan"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Artıq Yüklənənlər siyahısında mövcuddur"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Qovluq adını daxil edin"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Səhifə yoxdur"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Geridə şəkil yoxdur"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "İrəlidə şəkil yoxdur"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Yenidən yüklənəsi səhifə yoxdur"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Kimliyin müəyyən edilməsi tələb olunur"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Əlfəcin artıq mövcuddur"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Qovluq adı hazırda mövcuddur"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Obyekti saxlamaq mümkün deyil. Keşdə kifayət qədər yer yoxdur"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Elementləri seç"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Sertifikat məlumatı"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "E-poçtla paylaş"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Mesajlar ilə paylaş"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Paylaş"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Brauzeri başlatmaq mümkün deyil"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Ünvan yoxdur"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Bir daha göstərmə"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Faylın adı boşdur"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Qovluq yaradın"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Seçilmişi"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Paylaş"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Təzəliklə daxil olunmuş səhifələr"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Displey"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Eninə uyğunlaşdırın"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Oxuna bilən"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Gizlilik"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Kukilər"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Hamısını qəbul et"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Cəld"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Kukilər"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Kukiləri qəbul edin"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Kukiləri qəbul edin"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Hamısını qəbul et"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Hamısından imtina et"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "ID/parolu avtomatik saxla"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Qoş"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Söndür"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "İlkin təyin edilmiş yaddaş"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Axtarış"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Təsviri yaddaşa yaz"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Batareya zəifdir. Gözdən keçirmə proqramını işlətmək mümkün deyildir"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Sözü tapın"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Ana ekrana əlavə et"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Ana ekrana əlavə et"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Ən çox daxil olunan saytlar"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Facebook ilə paylaş"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Twitter ilə paylaş"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Görünüşü dəyiş"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "URL-ları seç"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "Bu sayt ani məlumat pəncərəsi açmağa çalışır"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Çixan pəncələrini blokla"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Mətn oxuyucusu"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Şəkli köçür"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Təsviri yaddaşa yaz"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Səsləndir"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Seç"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Geriyə gedin"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "İrəliyə gedin"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Dayandır"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Yenidən yüklə"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Yapışdır"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Daha çox"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Mümkün olmadı"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Yeni pəncərədə açın"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Yükləmə siyahısına baxın"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "URL-ni kopyala"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "URL ... köçürt"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Şəkil göstərlsn"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Şəxsi parametrlər"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Keşi təmizlə"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Tarixçəni sil"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Qoşmaları aktiv et"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Axtarış mexanizmini seç"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Saxlanmış ID/parolu sil"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Bütün kuki məlumatlarını silin"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Yuxarı"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Şriftin ölçüsü"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Silindi"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Standart görünüş"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Səhifə məzmunu parametrləri"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "Hərf registrinə qarşı həssas"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Qoşma proqram"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Modul siyahısı"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Yerli yaddaş"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Gözdən keçirmə məlumatlarını sil"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Yüklənir..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Yüklənir..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "URL daxil et"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Kilidlə"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Kilidi aç"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Dəyişdirin"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Səhifə-yuxrı"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Səhifə-aşağı"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Yaradıcı rejimi"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Boşdur"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Sertifikatlar"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Çevik keçidlər"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Xahiş olunur adı daxil edin"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Ad"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Epoçt ilə göndərin"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Mesaj vasitəsilə göndər"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Parametrlər"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "İstifadəçinin adı"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Artıq var"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Yaddaşa yazıldı"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Yaddaş kifayət etmir"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Şəbəkə xətası"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Həmişə soruş"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Yaddaş kartı"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Telefon"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Hesab yoxdur"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Xəta səhifəsi"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Veb-səhifə müvəqqəti mümkün deyil"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Veb-səhifə mümkün deyil"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Çərçivələri yükləmək alınmadı"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "Veb-səhifəni yükləyərkən %s, aşağıdakı səhv baş verdi."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Veb-səhifəni yükləmək mümkün deyil. (Veb-səhifə müvəqqəti olaraq çöküb və ya yeni URL-ə köçüb)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Ən oxşar səbəb aşağıda verilib"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Şəbəkə bağlantısı normal qurulmadı"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Veb-səhifənin URL-ni yoxlayın"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Veb-səhifəni daha sonra yükləyin"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Çevik keçid silindi"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Başlıq"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Başlığı daxil et"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Qovluqlar"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "İcazə ver"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Rədd etmək"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Təhlükəsizlik yanlışlığı: Etibar edilməyən server serifikatı"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "%d element seçildi"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "1 element seçildi"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Veb klipə əlavə edin"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Qısa yol yaradılmışdır"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Sözü seçin"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Səhifədə tapın"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Səhifədə tapın"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Siyahı"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Hamısını seç"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Mesaj"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "Elektron poçtu"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Ləğv edin"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "URL linkn kopyl"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Şəkil göstərlsn"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Yeni səhifədə açın"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Aç"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Mətn seçimi qoşulub"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Çevik keçidlər"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Redaktə et"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Sil"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Sil"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Ləğv et"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Nişanı redaktə et"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Mesajlar"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "Elektron poçtu"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Redaktə et"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Sil"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Nişanlara əlavə et"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Şriftin ölçüsü"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Geniş"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Kiçik"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Sürət"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Giriş modulu ünvanı"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Proksi portu"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Bitdi"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Versiya"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Yerləşdir"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Cari səhifə"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Qovluq adını daxil edin"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Əlfəcin adını daxil edin"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Bir də soruşma"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "URL tapılmadı"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s məkanınızı sorğulayır"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Seçimi yadda saxla"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Təsvirləri göstər"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Təhlükəsizlik xəbərdarlıqlarını göstərin"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Parolları yadda saxlayın"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Parolları silin"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Bütün saxlanmış parollar silinsin?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Bütün kukiləri silin. Davam edilsin?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Forma məlumatını xatırlayın"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "İlkin parametrə təyin et"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Bütün parametrlər standart kimi qurulsun. Davam edilsin?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Keş təmizlənsin?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Bütün tarixçə silinsin?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Brauzer naviqasiya tarixi silinəcək"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Həmişə aktivdir"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Məkanı aktivləşdir"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Məkana girişi sil"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Əlfəcini əlavə etmək olmur. Əlfəcin sayı maksimuma çatıb"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Veb-saytın yerinə daxilolma məlumatları silinsin?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Çap et"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "Axtar və ya URL daxil et"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Avtomatik"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Ələ işlət"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Alçaq"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Orta"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Boş səhifə"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Yükləmə baş tutmadı"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Vebsayt parametrləri"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Yüksək"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Linki saxla"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Linki paylaş"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Məxfilik və təhlükəsizlik"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Oflayn oxunuş üçün saxla"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Yeri"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Forma məlumatları"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Forma məlumatlarını silin"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Bütün saxlanmış parolları silin"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Əlfəcinlərə əlavə olunmuşdur"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Əlfəcinlərdən silinmişdir"
+

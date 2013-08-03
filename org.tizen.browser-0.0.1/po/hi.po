@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "सूचित किया जा रहा है..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "प्रोसेस हो रहा है…"
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "कार्रवाई पूर्ण हुई"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "पुन: प्रयास"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "डाउनलोड प्रबंधक"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "अमान्य वर्णनकर्ता"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "फाईल खोलने में अक्षम"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "डाउनलोड?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "चयनित"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "डाउनलोड रद्द"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "अंतिम पेज से जारी रखें"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "पेज"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "शब्दकोष"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "ब्राउजर के बारे में"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "प्रकार"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "जारीकर्ता"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "छवियाँ दर्शाएँ"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "डाउनलोड करें"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "URL प्रविष्ट करें"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "फोल्डर"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "होमपेज"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "लैंडस्केप दृश्य"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "कोई बुकमार्क नहीं"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "कोई परिणाम नहीं मिले"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "वैकल्पिक"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "फ्लैश चलाएँ"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "जावा स्क्रिप्ट चलाएँ"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "सामान्य नाम:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "संगठनात्मक इकाई:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "संगठन:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "उपभोक्ता एजेन्ट"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "प्राथमिकताएँ"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "सक्रियण त्रुटि"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "पहले से चल रहा है..."
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "कार्यान्वित नहीं"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "प्रमाणीकरण असफल"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "ओवरराइट?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "इतिहास"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "डाउनलोड सूची"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "पहले से इंस्टॉल है"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "सूचित किया जा रहा है..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "असमर्थित विषय"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "त्रुटि: होस्ट नाम सुलझाने में अक्षम"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "प्रॉक्सी तक पहुँचने में अक्षम"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "कोई एसएसएल प्रमाणपत्र नहीं"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "फ़ाइल आकार अधिकतम अपलोड सीमा से अधिक है"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "नाम दर्ज करें:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "अगला"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "नया फ़ोल्‍डर"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "बुकमार्क्स में शामिल करें"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "नई विंडो"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "वेब पता उपलब्‍ध नहीं"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "वेब पता %s उपलब्ध नहीं। वह अस्‍थायी रूप से बंद या अब उपयोग में नहीं रहेगी"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "फोल्डर"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "फोल्डर का नाम"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "फ़ोल्डर का नाम पहले से उपयोग में है"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "कोई शीर्षक नहीं"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "मल्टी विंडो"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "इतिहास नहीं"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "बुकमार्क्स में जोड़ें"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "बुकमार्क संपादित करें"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "फोल्डर नाम:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "सभी चुनें"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "डाउनलोड प्रबंधक"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "RSS फीड जोड़ें"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "RSS फ़ीड्स जोड़ें"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "सेटिंग्स"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "यूआरएल प्रविष्ट करें"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "पासवर्ड"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "अमान्य पता"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "डाउनलोड सूची में पहले से मौजूद है"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "फ़ोल्‍डर नाम दर्ज करें"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "कोई पेज नहीं"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "पीछे ले जाने के लिए पेज नहीं"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "आगे ले जाने के लिए पेज नहीं"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "दोबारा लोड करने के लिए कोई पेज नहीं है"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "प्रमाणीकरण आवश्यक है"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "बुकमार्क पहले से मौजूद है"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "फ़ोल्डर का नाम पहले से मौजूद है"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "ऑब्‍जेक्‍ट सुरक्षित करने में अक्षम। कैशे में पर्याप्त स्थान नहीं"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "आइटम चुनें"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "प्रमाणपत्र जानकारी"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "ईमेल के द्वारा साझा करें"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "संदेशो के द्वारा साझा करें"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "इसके द्वारा साझा करें"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "ब्राउज़र शुरू करने में अक्षम"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "कोई पता नहीं"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "दोबारा नहीं दिखाएँ"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "फाइल का नाम रिक्त है"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "फ़ोल्‍डर बनाएँ"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "चयनित"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "शेयर करें"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "हाल ही में भेंट दिए पेजेस"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "प्रदर्शन"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "चौड़ाई में फिट करें"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "पढ़ने योग्य"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "गोपनीयता"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "कुकीज"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "सभी स्वीकारें"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "प्रॉम्प्ट"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "कुकीज"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "कुकीज स्‍वीकारें"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "कुकीज स्‍वीकारें"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "सभी स्वीकारें"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "सभी अस्वीकारें"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "ऑटो सेव ID/पासवर्ड"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "चालू"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "बंद"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "डिफॉल्ट स्टोरेज"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "खोजें"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "छवि सुरक्षित करें"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "बैटरी कम है. ब्राउज़र चलाने में असमर्थ"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "शब्द ढूँढें"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "होम स्क्रीन पर जोड़े"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "होम स्क्रीन पर जोड़े"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "अधिकतम भेंट दिए साइट्स"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "फ़ेसबुक के द्वारा साझा करें"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "ट्विटर के द्वारा साझा करें"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "दृश्य बदलें"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "URL चुनें"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "यह साईट पॉप-अप विंडो खालने का प्रयास कर रही है"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "पॉप-अप विंडो अवरुद्ध करें"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "पाठ पाठक"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "छवि कॉपी करें"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "छवि सुरक्षित करें"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "चलाएँ"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "चुनें"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "पीछे जाएँ"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "आगे जाएँ"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "रोकें"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "पुनः लोड करें"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "पेस्ट करें"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "अधिक"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "असफल हुआ"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "नई विंडो में खोलें"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "डाउनलोड सूची देखें"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "URL कॉपी करें"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "को यूआरएल कापी करें"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "छवि देखें"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "गोपनीयता सेटिंग्स"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "कैचे साफ़ करें"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "इतिहास साफ़ करें"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "प्लग-इन्स सक्षम करें"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "खोज इंजिन चुनें"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "सेव किए हुए ID/पासवर्ड हटाएँ"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "सभी कुकीज़ डेटा साफ़ करें"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "ऊपर"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "फॉन्ट आकार"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "हटाया गया"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "डीफ़ॉल्ट दृश्य"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "पेज सामग्री सेटिंग्स"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "केस-संवेदी"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "प्लग इन"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "प्‍लगइन्‍स सूची"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "लोकल स्‍टोरेज"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "ब्राउजिंग डेटा हटाएँ"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "लोड हो रहा है..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "लोड हो रहा है..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "URL प्रविष्ट करें"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "लॉक करें"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "अनलॉक करें"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "संशोधन करें"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "पेज अप"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "पेज डाउन"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "डेवलपर मोड"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "खाली"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "प्रमाणपत्र"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "बुकमार्क्स"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "नाम प्रविष्ट करें"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "नाम"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "ईमेल द्वारा भेजें"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Message द्वारा भेजें"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "सेटिंग्स"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "उपभोक्ता नाम"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "पहले से ही मौजूद"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "सुरक्षित किया"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "पर्याप्‍त मेमोरी नहीं"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "नेटवर्क त्रुटी"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "हमेशा पूछें"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "मेमोरी कार्ड"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "फोन"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "खाते नहीं"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "त्रुटि पेज"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "वेब पेज अस्थायी रूप में उपलब्ध नहीं"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "वेब पेज उपलब्ध नहीं"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "फ्रेम्स लोड करने में विफल"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "वेब पेज %s पुनर्प्राप्त करने के दौरान, निम्नलिखित त्रुटि पाई गई।"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "वेब पेज पुनर्प्राप्त करने में अक्षम। (वेब पेज अस्‍थायी रूप से डाउन हो सकता है या नए URL में स्थानांतरित हो सकता है)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "सबसे संभव कारण नीचे दिया गया है"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "नेटवर्क कनेक्शन सामान्य रूप से स्‍थापित नहीं हुआ"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "वेब पेज URL देखें"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "बाद में वेब पेज रीलोड करें"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "बुकमार्क"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "शीर्षक"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "शीर्षक प्रविष्ट करें"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "फोल्डर्स"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "अनुमति दें"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "अस्वीकारें"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "सुरक्षा त्रुटि: अविश्‍वसनीय सर्वर प्रमाणपत्र"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "%d मदें चयनित"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "1 मद चयनित"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Web क्लीप में जोड़ें"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "शॉर्टकट बनाया है"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "शब्‍द चुनें"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "पेज़ पर ढूँढें"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "पेज़ पर ढूँढें"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "इंटरनेट"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "सूची"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "सभी चुनें"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "सन्देश"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "ईमेल"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "रद्द करें"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "लिंक URL कॉपी करें"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "छवि देखें"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "नए पेज में खोलें"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "खोलें"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "टेक्स्ट चयन चालू"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "बुकमार्क्स"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "संपादन"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "हटाएँ"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "हटाएँ"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "रद्द"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "बुकमार्क संपादित करें"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "सन्देश"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "ईमेल"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "संपादित करें"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "हटाएँ"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "बुकमार्क्स में जोड़ें"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "फॉन्ट आकार"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "बड़ा"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "छोटा"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "गति"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "प्रॉक्‍सी पता"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "प्रॉक्‍सी पोर्ट"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "हुआ"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "संस्करण"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "स्थापना"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "वर्तमान पेज"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "फ़ोल्‍डर नाम दर्ज करें"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "बुकमार्क का नाम दर्ज करें"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "दोबारा न पूछें"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "यूआरएल नहीं मिला"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s आपके स्थान का अनुरोध करता है"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "प्राथमिकता याद रखें"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "इमेजेस दिखाएँ"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "सुरक्षा चेतावनियां दिखाएँ"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "पासवर्ड्स याद रखें"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "पासवर्ड्‍स साफ़ करें"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "सभी सेव किए गए पासवर्ड्स हटाएँ?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "सभी कुकीज् हटाएँ. जारी रखें?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "फॉर्म डाटा याद रखें"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "डिफॉल्‍ट में रीसेट करें"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "सभी सेटिंग्स डीफ़ॉल्ट पर. जारी रखें?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "कैचे साफ़ करें?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "सभी इतिहास साफ़ करें?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "ब्राउज़र नेविगेशन इतिहास साफ़ हो जाएगा"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "हमेशा चालू"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "स्थान सक्षम करें"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "स्थान ऍक्सेस साफ करें"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Bookmark जोड़ने में अक्षम। Bookmarks की संख्‍या अधिकतम हो गई"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "वेबसाइट स्थान ऍक्सेस जानकारी हटाएँ?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "प्रिंट करें"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "खोजें या URL दर्ज करें"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "स्वतः"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "मैनुअल"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "निम्न"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "मध्यम"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "खाली पेज"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "स्थापना असफल"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "वेबसाइट सेटिंग"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "उच्च"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "लिंक सुरक्षित करें"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "लिंक साझा करें"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "गोपनीयता और सुरक्षा"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "ऑफ़लाइन रीडिंग के लिए सुरक्षित करें"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "स्थान"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "फ़ॉर्म डेटा"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "फ़ॉर्म डेटा साफ़ करें"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "सेव किए सभी पासवर्ड्स साफ़ करें"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "बुकमार्क मे जोड़ा गया"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "बुकमार्क्स से हटाया गया"
+

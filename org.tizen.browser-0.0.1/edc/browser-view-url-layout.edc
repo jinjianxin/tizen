@@ -1,0 +1,1399 @@
+/*
+ * Copyright 2012  Samsung Electronics Co., Ltd
+ *
+ * Licensed under the Flora License, Version 1.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.tizenopensource.org/license
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ */
+
+#include "browser-macro.edc"
+
+collections {
+////////////////////////////////////////////////////////////////////////////////////////
+// editfield
+////////////////////////////////////////////////////////////////////////////////////////
+#define EDITFIELD_TITLE_SIZE_INC 32
+//#define EDITFIELD_DEFAULT_MINH_INC 112
+// Customize - edit field height
+#define EDITFIELD_DEFAULT_MINH_INC 64
+//#define EDITFIELD_DEFAULT_TOP1_SINGLE_INC 20
+// Customize - entry top margin
+// Strangely - (Edit field entry is aligned to top a little, so make the top margin more then bottom)
+#define EDITFIELD_DEFAULT_TOP1_SINGLE_INC 5
+#define EDITFIELD_DEFAULT_TOP1_MULTI_INC 45
+#define EDITFIELD_DEFAULT_TOP2_INC 6
+#define EDITFIELD_DEFAULT_LEFT1_INC 0
+#define EDITFIELD_DEFAULT_LEFT2_INC 0
+#define EDITFIELD_DEFAULT_LEFT3_INC 1
+
+#define EDITFIELD_DEFAULT_RIGHT1_ERASER_SHOW_INC 0 // browser customize
+
+// width of erase icon width and string witdh of "xxx/xxx"
+#define EDITFIELD_DEFAULT_RIGHT1_ERASER_SHOW_INC_FOR_FIND_WORD (EDITFIELD_DEFAULT_ERASER_MINW_INC + 115 + 10)
+// 115 is width of findword entry defined in browser-view-find-word.edc + 10 is minimam margin of index text width
+
+#define EDITFIELD_DEFAULT_RIGHT2_INC 10  // browser customize
+//#define EDITFIELD_DEFAULT_BOTTOM1_SINGLE_INC 20
+// Customize - entry bottom margin
+#define EDITFIELD_DEFAULT_BOTTOM1_SINGLE_INC 0
+#define EDITFIELD_DEFAULT_BOTTOM1_MULTI_INC 5
+#define EDITFIELD_DEFAULT_BOTTOM2_SINGLE_INC 38
+#define EDITFIELD_DEFAULT_BOTTOM2_MULTI_INC 6
+#define EDITFIELD_DEFAULT_BOTTOM3_SINGLE_INC 85
+#define EDITFIELD_DEFAULT_BOTTOM3_MULTI_INC 60
+#define EDITFIELD_TITLE_COLOR_INC 168 168 168 255
+#define EDITFIELD_GUIDE_TEXT_COLOR_INC 70 70 70 255
+#define ENTRY_TEXT_SIZE_INC 44
+// Customize - text color
+//#define ENTRY_TEXT_COLOR_INC "#FFFFFF"
+#define ENTRY_TEXT_COLOR_WHITE_INC "#FFFFFF"
+#define ENTRY_TEXT_COLOR_BLACK_INC "#3C3632"
+
+#define EDITFIELD_DEFAULT_ERASER_MINW_INC 38
+#define EDITFIELD_DEFAULT_ERASER_MINH_INC 38
+
+group { name: "elm/layout/browser-editfield/default";
+   images {
+      image: "browser-view-images/url-layout/I01_field_btn_Clear.png" COMP;
+   }
+   styles {
+      style { name: "ellipsis_textblock_style_white";
+         base: "font=SLP:style=Roman font_size=35 color="ENTRY_TEXT_COLOR_BLACK_INC" wrap=none left_margin=1 right_margin=3 ellipsis=1";
+         tag:  "br" "\n";
+         tag:  "ps" "ps";
+         tag:  "tab" "\t";
+         tag:  "em" "+ font=SLP:style=Oblique";
+         tag:  "b" "+ font=SLP:style=Bold";
+         tag:  "link" "+ color=#800 underline=on underline_color=#8008";
+         tag:  "hilight" "+ font=SLP:style=Bold";
+         tag:  "preedit" "+ underline=on underline_color="ENTRY_PREEDIT_BACKGROUND_COLOR_INC"";
+         tag:  "preedit_sel" "+ backing=on backing_color="ENTRY_PREEDIT_BACKGROUND_COLOR_INC" color="ENTRY_PREEDIT_TEXT_COLOR_INC"";
+      }
+      style { name: "ellipsis_textblock_style_black";
+         base: "font=SLP:style=Roman font_size="ENTRY_TEXT_SIZE_INC" color="ENTRY_TEXT_COLOR_BLACK_INC" wrap=none left_margin=1 right_margin=3 ellipsis=1";
+         tag:  "br" "\n";
+         tag:  "ps" "ps";
+         tag:  "tab" "\t";
+         tag:  "em" "+ font=SLP:style=Oblique";
+         tag:  "b" "+ font=SLP:style=Bold";
+         tag:  "link" "+ color=#800 underline=on underline_color=#8008";
+         tag:  "hilight" "+ font=SLP:style=Bold";
+         tag:  "preedit" "+ underline=on underline_color="ENTRY_PREEDIT_BACKGROUND_COLOR_INC"";
+         tag:  "preedit_sel" "+ backing=on backing_color="ENTRY_PREEDIT_BACKGROUND_COLOR_INC" color="ENTRY_PREEDIT_TEXT_COLOR_INC"";
+      }
+   }
+   parts {
+      part {
+         name: "base";
+         type: RECT;
+         scale: 1;
+         ignore_flags: ON_HOLD;
+         description {
+            state: "default" 0.0;
+            min: 0 EDITFIELD_DEFAULT_MINH_INC;
+            color: 0 0 0 0;
+         }
+      }
+      part {
+         name: "top1";
+         type: RECT;
+         scale: 1;
+         ignore_flags: ON_HOLD;
+         description {
+            state: "default" 0.0;
+            visible: 0;
+            min: 0 EDITFIELD_DEFAULT_TOP1_SINGLE_INC;
+            fixed: 1 1;
+            rel1.relative: 0.0 0.0;
+            rel2.relative: 1.0 0.0;
+            align: 0.5 0;
+         }
+      }
+      part {
+         name: "top2";
+         type: RECT;
+         scale: 1;
+         ignore_flags: ON_HOLD;
+         description {
+            state: "default" 0.0;
+            visible: 0;
+            min: 0 EDITFIELD_DEFAULT_TOP2_INC;
+            fixed: 1 1;
+            rel1.relative: 0.0 0.0;
+            rel2.relative: 1.0 0.0;
+            align: 0.5 0;
+         }
+      }
+      part {
+         name: "left1";
+         type: RECT;
+         scale: 1;
+         ignore_flags: ON_HOLD;
+         description {
+            state: "default" 0.0;
+            visible: 0;
+            min: EDITFIELD_DEFAULT_LEFT1_INC 0;
+            fixed: 1 1;
+            align: 0 0;
+            rel1.relative : 0.0 0.0;
+            rel2.relative : 0.0 1.0;
+         }
+      }
+      part {
+         name: "left2";
+         type: RECT;
+         scale: 1;
+         ignore_flags: ON_HOLD;
+         description {
+            state: "default" 0.0;
+            visible: 0;
+            min: EDITFIELD_DEFAULT_LEFT2_INC 0;
+            fixed: 1 1;
+            align: 0 0;
+            rel1.relative : 0.0 0.0;
+            rel2.relative : 0.0 1.0;
+         }
+      }
+      part {
+         name: "right1";
+         type: RECT;
+         scale: 1;
+         ignore_flags: ON_HOLD;
+         description {
+            state: "default" 0.0;
+            visible: 0;
+            min: EDITFIELD_DEFAULT_RIGHT1_ERASER_SHOW_INC 0;
+            fixed: 1 1;
+            align: 1 0;
+            rel1.relative : 1.0 0.0;
+            rel2.relative : 1.0 1.0;
+         }
+         description {
+            state: "find_word" 0.0;
+            inherit: "default" 0.0;
+            min: EDITFIELD_DEFAULT_RIGHT1_ERASER_SHOW_INC_FOR_FIND_WORD 0;
+         }
+      }
+      part {
+         name: "right2";
+         type: RECT;
+         scale: 1;
+         ignore_flags: ON_HOLD;
+         description {
+            state: "default" 0.0;
+            visible: 0;
+            min: EDITFIELD_DEFAULT_RIGHT2_INC 0;
+            fixed: 1 1;
+            align: 1 0;
+            rel1.relative : 1.0 0.0;
+            rel2.relative : 1.0 1.0;
+         }
+      }
+      part {
+         name: "bottom1";
+         type: RECT;
+         scale: 1;
+         ignore_flags: ON_HOLD;
+         description {
+            state: "default" 0.0;
+            visible: 0;
+            min: 0 EDITFIELD_DEFAULT_BOTTOM1_SINGLE_INC;
+            fixed: 1 1;
+            align: 0 1;
+            rel1.relative: 0.0 1.0;
+         }
+      }
+      part {
+         name: "bottom2";
+         type: RECT;
+         scale: 1;
+         ignore_flags: ON_HOLD;
+         description {
+            state: "default" 0.0;
+            visible: 0;
+            min: 0 EDITFIELD_DEFAULT_BOTTOM2_SINGLE_INC;
+            fixed: 0 1;
+            rel1.relative: 0.0 1.0;
+            align: 0 1;
+         }
+      }
+      part {
+         name: "bottom3";
+         type: RECT;
+         scale: 1;
+         ignore_flags: ON_HOLD;
+         description {
+            state: "default" 0.0;
+            visible: 0;
+            min: 0 EDITFIELD_DEFAULT_BOTTOM3_SINGLE_INC;
+            fixed: 0 1;
+            rel1.relative: 0.0 1.0;
+            align: 0 1;
+         }
+      }
+      part {
+         name: "elm.guidetext";
+         type: TEXT;
+         scale: 1;
+         ignore_flags: ON_HOLD;
+         description {
+            state: "default" 0.0;
+            align: 0.0 0.0;
+            fixed: 1 1;
+            rel1.to: "elm.swallow.content";
+            rel2.to: "elm.swallow.content";
+            color: EDITFIELD_GUIDE_TEXT_COLOR_INC;
+            text {
+               font: "SLP:style=Roman";
+               size: ENTRY_TEXT_SIZE_INC;
+               min: 0 0;
+               align: 0.0 0.5;
+            }
+         }
+         description {
+            state: "hidden" 0.0;
+            inherit: "default" 0.0;
+            visible: 0;
+         }
+      }
+
+		part {	name: "elm.text.ellipsis";
+			type: TEXTBLOCK;
+			effect: SHADOW;
+			mouse_events: 0;
+			scale: 1;
+			description { state: "default" 0.0;
+				visible: 0;
+				align: 0.0 0.5;
+				fixed: 1 1;
+				rel1 { relative: 0.0 0.0; to: "elm.swallow.content"; }
+				rel2 { relative: 1.0 1.0; to: "elm.swallow.content"; }
+				text {
+					style: "ellipsis_textblock_style_white";
+				}
+			}
+			description { state: "ellipsis_show" 0.0;
+				inherit: "default" 0.0;
+				visible: 1;
+			}
+		}
+      part {
+         name: "elm.swallow.content";
+         type: SWALLOW;
+         scale: 1;
+         ignore_flags: ON_HOLD;
+         description {
+            state: "default" 0.0;
+            min: 0 40;
+            visible: 1;
+            rel1 {
+               relative : 1.0 1.0;
+               to_x: "left1";
+               to_y: "top1";
+            }
+            rel2 {
+               relative : 0.0 0.0;
+               to_x: "right1";
+               to_y: "bottom1";
+            }
+            align: 0.0 0.5;
+         }
+         description { state: "ellipsis_show" 0.0;
+             inherit: "default" 0.0;
+             visible: 0;
+         }
+      }
+      part {
+         name: "eraser_image";
+         scale: 1;
+         description {
+            state: "default" 0.0;
+            visible: 0;
+            min: EDITFIELD_DEFAULT_ERASER_MINW_INC EDITFIELD_DEFAULT_ERASER_MINH_INC;
+            max: EDITFIELD_DEFAULT_ERASER_MINW_INC EDITFIELD_DEFAULT_ERASER_MINH_INC;
+            fixed: 1 1;
+            align: 1 0.5;
+            rel1 {
+               relative: 0.0 0.0;
+               to_x : "right2";
+               to_y : "elm.swallow.content";
+            }
+            rel2 {
+               relative: 0.0 0.9;
+               to_x : "right2";
+               to_y : "elm.swallow.content";
+            }
+            image {
+               normal: "browser-view-images/url-layout/I01_field_btn_Clear.png";
+//               border: 10 10 10 10;
+               border_scale: 1;
+            }
+         }
+         description {
+            state: "elm.eraser.show" 0.0;
+            inherit: "default" 0.0;
+            visible: 1;
+         }
+      }
+      part {
+         name: "eraser";
+         mouse_events: 1;
+         ignore_flags: ON_HOLD;
+         description {
+            state: "default" 0.0;
+            visible: 0;
+            color: 0 0 0 0;
+            rel1 {
+               relative: 0.0 0.0;
+               to_x : "eraser_image";
+               to_y : "bottom3";
+            }
+         }
+         description {
+            state: "elm.eraser.show" 0.0;
+            inherit: "default" 0.0;
+            visible: 1;
+         }
+      }
+   }
+   programs {
+      program {
+         name: "ellipsis_show";
+         source: "elm";
+         signal: "ellipsis_show,signal";
+         action: STATE_SET "ellipsis_show" 0.0;
+         target: "elm.text.ellipsis";
+         target: "elm.swallow.content";
+      }
+      program {
+         name: "ellipsis_hide";
+         source: "elm";
+         signal: "ellipsis_hide,signal";
+         action: STATE_SET "default" 0.0;
+         target: "elm.text.ellipsis";
+         target: "elm.swallow.content";
+      }
+      program {
+         name: "find_word_editfield";
+         signal: "find_word,signal";
+         source: "elm";
+         action: STATE_SET "find_word" 0.0;
+         target: "right1";
+      }
+      program {
+         name: "guidetext_show";
+         signal: "elm,state,guidetext,show";
+         source: "elm";
+         action: STATE_SET "default" 0.0;
+         target: "elm.guidetext";
+      }
+      program {
+         name: "guidetext_hide";
+         signal: "elm,state,guidetext,hide";
+         source: "elm";
+         action: STATE_SET "hidden" 0.0;
+         target: "elm.guidetext";
+      }
+      program {
+         name: "eraser_show";
+         signal: "elm,state,eraser,show";
+         source: "elm";
+         action: STATE_SET "elm.eraser.show" 0.0;
+         target: "eraser_image";
+         target: "eraser";
+      }
+      program {
+         name: "eraser_hide";
+         signal: "elm,state,eraser,hide";
+         source: "elm";
+         action: STATE_SET "default" 0.0;
+         target: "eraser_image";
+         target: "eraser";
+      }
+      program {
+         name: "eraser_clicked";
+         signal: "mouse,clicked,1";
+         source: "eraser";
+         action: SIGNAL_EMIT "elm,eraser,clicked" "elm";
+      }
+   }
+}
+
+////////////////////////////////////////////////////////////////////////////////////////
+// url layout
+////////////////////////////////////////////////////////////////////////////////////////
+	group {
+		name: "browser/url_layout";
+		images {
+//			image: "browser-view-images/url-layout/naviframe_optionheader.png" COMP;
+//			image: "browser-view-images/url-layout/I01_Icons_http.png" COMP;
+			image: "browser-view-images/url-layout/I01_toolbar_bg.png" COMP;
+		}
+		parts {
+			part { name: "backgournd";
+				mouse_events: 1;
+				repeat_events: 0;
+				type: IMAGE;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 0 74;
+					fixed: 0 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					image {
+						normal: "browser-view-images/url-layout/I01_toolbar_bg.png";
+						border: 1 1 2 1;
+						border_scale: 1;
+					}
+				}
+			}
+			part { name: "bg";
+				mouse_events: 1;
+				repeat_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 0 74;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 255 255 255 255;  // white
+				}
+			}
+			part {
+				name: "navigationbar_bg";
+				type: IMAGE;
+				mouse_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: bg; }
+					rel2 { relative: 1.0 1.0; to: bg; }
+					image {
+						normal: "browser-view-images/url-layout/I01_toolbar_bg.png";
+						border: 1 1 2 1;
+						border_scale: 1;
+					}
+				}
+			}
+#if 0
+			part {
+				name: "secure_icon";
+				type: IMAGE;
+				mouse_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 0 0;
+					max: 0 0;
+					fixed: 1 1;
+					align: 1.0 0.5;
+					rel1 { relative: 0.0 0.0; to: "title_text"; }
+					rel2 { relative: 0.0 1.0; to: "title_text"; }
+					image {
+						normal: "browser-view-images/url-layout/I01_Icons_http.png";
+					}
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+					min: 30 30;
+					max: 30 30;
+				}
+			}
+			part { name: "padding,title_text,left";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 30 0;
+					fixed: 1 0;
+					align: 0.0 0.5;
+					rel1 { relative: 0.0 0.0; to_y: "title_text"; }
+					rel2 { relative: 0.0 1.0; to_y: "title_text"; }
+				}
+			}
+			part { name: "padding,title_text,right";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 30 0;
+					fixed: 1 0;
+					align: 1.0 0.5;
+					rel1 { relative: 1.0 0.0; to_y: "title_text"; }
+					rel2 { relative: 1.0 1.0; to_y: "title_text"; }
+				}
+			}
+			part {
+				name: "title_text";
+				type: TEXT;
+				scale: 1;
+				mouse_events: 0;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					fixed: 0 1;
+					min: 0 44;
+					max: 999999 44;
+					align: 0.5 0.0;
+					text { font: FONT_ROM;
+						size: 34;
+						min: 0 0;
+						max: 1 0;
+						align: 0.5 1.0;
+					}
+					color: 255 255 255 255;
+					rel1 { relative: 1.0 0.0; to_x: "padding,title_text,left"; }
+					rel2 { relative: 0.0 1.0; to_x: "padding,title_text,right"; }
+				}
+			}
+#endif
+			part { name: "padding,cancel,left";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 16 0;
+					fixed: 1 0;
+					align: 1.0 0.5;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.cancel"; }
+					rel2 { relative: 0.0 1.0; to: "elm.swallow.cancel"; }
+				}
+			}
+			part { name: "padding,url,top";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 0 3;
+					fixed: 0 1;
+					align: 0.5 0.0;
+					rel1 { relative: 0.0 0.0; to: "bg"; }
+					rel2 { relative: 1.0 0.0; to: "bg"; }
+				}
+			}
+			part { name: "padding,backward_button,left";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 10 0;
+					fixed: 1 0;
+					align: 0.0 0.5;
+					rel1 { relative: 0.0 0.0; to: "bg"; }
+					rel2 { relative: 0.0 1.0; to: "bg"; }
+				}
+			}
+			part {
+				name: "elm.swallow.backward_button";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 78 66;
+					max: 78 66;
+					fixed: 1 1;
+					align: 0.0 0.0;
+					rel1 { relative: 1.0 0.0; to_x: "padding,backward_button,left"; to_y: "elm.swallow.url"; }
+					rel2 { relative: 1.0 0.0; to_x: "padding,backward_button,left"; to_y: "elm.swallow.url"; }
+				}
+			}
+			part { name: "padding,backward_button,right";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 3 0;
+					fixed: 1 0;
+					align: 0.0 0.5;
+					rel1 { relative: 1.0 0.0; to: "elm.swallow.backward_button"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.backward_button"; }
+				}
+			}
+			part {
+				name: "elm.swallow.forward_button";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 78 66;
+					max: 78 66;
+					fixed: 1 1;
+					align: 0.0 0.0;
+					rel1 { relative: 1.0 0.0; to_x: "padding,backward_button,right"; to_y: "elm.swallow.url"; }
+					rel2 { relative: 1.0 0.0; to_x: "padding,backward_button,right"; to_y: "elm.swallow.url"; }
+				}
+			}
+			part { name: "padding,forward_button,right";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 10 0;
+					fixed: 1 0;
+					align: 0.0 0.5;
+					rel1 { relative: 1.0 0.0; to: "elm.swallow.forward_button"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.forward_button"; }
+				}
+			}
+			part {
+				name: "elm.swallow.url";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 0 64;
+					fixed: 0 1;
+					align: 0.0 0.0;
+					rel1 { relative: 1.0 1.0; to_x: "padding,forward_button,right"; to_y: "padding,url,top"; }
+					rel2 { relative: 0.0 1.0; to_x: "padding,reader_icon,left"; to_y: "padding,url,top"; }
+				}
+				description {
+					state: "edit_mode_state" 0.0;
+					inherit: "default" 0.0;
+					rel1 { relative: 1.0 1.0; to_x: "padding,backward_button,left"; to_y: "padding,url,top"; }
+					rel2 { relative: 0.0 1.0; to_x: "padding,cancel,left"; to_y: "padding,url,top"; }
+				}
+			}
+			part { name: "padding,reader_icon,left";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 10 0;
+					fixed: 1 0;
+					align: 1.0 0.5;
+					rel1 { relative: 0.0 0.0; to_x: "elm.swallow.reader_icon"; to_y: "navigationbar_bg"; }
+					rel2 { relative: 0.0 1.0; to_x: "elm.swallow.reader_icon"; to_y: "navigationbar_bg"; }
+				}
+			}
+			part {
+				name: "elm.swallow.reader_icon";
+				type: SWALLOW;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 74 64;
+					max: 74 64;
+					fixed: 1 1;
+					align: 0.0 0.5;
+					rel1 { relative: 1.0 0.0; to_x: "navigationbar_bg"; to_y: "elm.swallow.cancel"; }
+					rel2 { relative: 1.0 1.0; to_x: "navigationbar_bg"; to_y: "elm.swallow.cancel"; }
+				}
+				description {
+					state: "show_reader_icon" 0.0;
+					inherit: "default" 0.0;
+					align: 1.0 0.5;
+					rel1 { relative: 0.0 0.0; to_x: "padding,cancel,right"; to_y: "elm.swallow.cancel"; }
+					rel2 { relative: 0.0 1.0; to_x: "padding,cancel,right"; to_y: "elm.swallow.cancel"; }
+				}
+			}
+			part { name: "padding,cancel,right";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 16 0;
+					fixed: 1 0;
+					align: 1.0 0.5;
+					rel1 { relative: 1.0 0.0; to: "navigationbar_bg"; }
+					rel2 { relative: 1.0 1.0; to: "navigationbar_bg"; }
+				}
+			}
+			part {
+				name: "elm.swallow.cancel";
+				type: SWALLOW;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 134 68;
+					max: 134 68;
+					fixed: 1 1;
+					align: 0.0 0.0;
+					rel1 { relative: 1.0 0.0; to_x: "navigationbar_bg"; to_y: "elm.swallow.url"; }
+					rel2 { relative: 1.0 0.0; to_x: "navigationbar_bg"; to_y: "elm.swallow.url"; }
+				}
+				description {
+					state: "edit_mode_state" 0.0;
+					inherit: "default" 0.0;
+					align: 1.0 0.0;
+					rel1 { relative: 0.0 0.0; to_x: "padding,cancel,right"; to_y: "elm.swallow.url"; }
+					rel2 { relative: 0.0 0.0; to_x: "padding,cancel,right"; to_y: "elm.swallow.url"; }
+				}
+			}
+			part { name: "dim_area";
+				mouse_events: 1;
+				repeat_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					fixed: 1 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+					color: 0 0 0 102;
+				}
+			}
+		}
+		programs {
+			/////////////////////////////
+			// show / hide scissor box
+			/////////////////////////////
+			program { name: "show,scissorbox";
+				signal: "show,scissorbox,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "dim_area";
+			}
+			program { name: "hide,scissorbox";
+				signal: "hide,scissorbox,signal";
+				action: STATE_SET "default" 0.0;
+				target: "dim_area";
+			}
+#if 0
+			program { name: "show,secure_icon";
+				signal: "show,secure_icon,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "secure_icon";
+			}
+			program { name: "hide,secure_icon";
+				signal: "hide,secure_icon,signal";
+				action: STATE_SET "default" 0.0;
+				target: "secure_icon";
+			}
+#endif
+			program { name: "edit,url,on";
+				signal: "edit,url,on,signal";
+				action: STATE_SET "edit_mode_state" 0.0;
+				transition: DECELERATE 0.5;
+				target: "elm.swallow.url";
+			}
+			program { name: "cancel_button,show";
+				signal: "edit,url,on,signal";
+				action: STATE_SET "edit_mode_state" 0.0;
+				transition: DECELERATE 0.5;
+				target: "elm.swallow.cancel";
+			}
+			program { name: "show,reader_icon";
+				signal: "show,reader_icon,signal";
+				action: STATE_SET "show_reader_icon" 0.0;
+				transition: DECELERATE 0.5;
+				target: "elm.swallow.reader_icon";
+			}
+			program { name: "hide,reader_icon";
+				signal: "hide,reader_icon,signal";
+				action: STATE_SET "default" 0.0;
+				transition: DECELERATE 0.5;
+				target: "elm.swallow.reader_icon";
+			}
+			program { name: "hide,reader_icon_no_ani";
+				signal: "hide,reader_icon_no_ani,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.reader_icon";
+			}
+			program { name: "edit,url,off";
+				signal: "edit,url,off,signal";
+				action: STATE_SET "default" 0.0;
+				transition: ACCELERATE 0.5;
+				target: "elm.swallow.url";
+				target: "elm.swallow.cancel";
+			}
+		}
+	}
+
+	group {
+		name: "elm/browser/urlentry/default";
+		images {
+			image: "browser-view-images/url-layout/I01_search_input_field_bg.png" COMP;
+			image: "browser-view-images/url-layout/00_search_input_field_bg_black.png" COMP;
+			image: "browser-view-images/url-layout/41_browser_search_icon_refresh.png" COMP;
+			image: "browser-view-images/url-layout/icon_stop.png" COMP;
+			image: "icon/00_close_icon.png" COMP;
+			image: "browser-view-images/url-layout/I01_icon_secretmode.png" COMP;
+			image: "browser-view-images/url-layout/I01_search_icon.png" COMP;
+		}
+
+		parts {
+			part { name: "bg";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					fixed: 0 1;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 0 0 0 0;
+				}
+			}
+			part {
+				name: "bg_image";
+				type: IMAGE;
+				scale: 1;
+				mouse_events: 0;
+				description {
+					state: "default" 0.0;
+					fixed: 0 1;
+					rel1 {relative: 0.0 0.0; offset: 0 0; }
+					rel2 {relative: 1.0 1.0; offset: 0 0; }
+					image.normal: "browser-view-images/url-layout/I01_search_input_field_bg.png";
+					image.border: 7 7 7 7;
+				}
+				description {
+					state: "black" 0.0;
+					inherit: "default" 0.0;
+					image.normal: "browser-view-images/url-layout/00_search_input_field_bg_black.png";
+					image.border: 5 5 5 5;
+				}
+			}
+			part {
+				name: "elm.swallow.progressbar";
+				type: SWALLOW;
+				scale: 1;
+				mouse_events: 0;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+				}
+				description {
+					state: "loading_on" 0.0;
+					visible: 1;
+					rel1 {relative: 0.0 0.0; offset: 0 0; }
+					rel2 {relative: 1.0 1.0; offset: 0 0; }
+				}
+			}
+			PADDING("padding.favicon.left", 9, 0, 1, 0, 0.0, 0.5,
+					0.0, 0.0, 0.0, 1.0, bg, bg)
+			PADDING("padding.favicon.right", 9, 0, 1, 0, 0.0, 0.5,
+					1.0, 0.0, 1.0, 1.0, elm.swallow.favicon, elm.swallow.favicon)
+			part { name: "elm.swallow.favicon";
+				mouse_events: 0;
+				type: SWALLOW;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 0 45;
+					max: 0 45;
+					fixed: 1 1;
+					align: 0.0 0.5;
+					rel1 { relative: 1.0 0.0; to_x: padding.favicon.left; to_y: bg; }
+					rel2 { relative: 1.0 1.0; to_x: padding.favicon.left; to_y: bg; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+					min: 45 45;
+					max: 45 45;
+				}
+			}
+			part { name: "elm.swallow.secure_icon";
+				mouse_events: 0;
+				type: SWALLOW;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 0 22;
+					max: 0 22;
+					fixed: 1 1;
+					align: 0.5 0.5;
+					rel1 { relative: 0.5 0.5; to: elm.swallow.favicon; }
+					rel2 { relative: 1.0 1.0; to: elm.swallow.favicon; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+					min: 22 22;
+					max: 22 22;
+				}
+			}
+			part { name: "padding.search_icon.left";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					fixed: 1 0;
+					min: 9 0;
+					align: 0.0 0.5;
+					rel1 { relative: 0.0 0.0; to: "bg_image"; }
+					rel2 { relative: 0.0 1.0; to: "bg_image"; }
+					color: 0 0 0 0;
+				}
+			}
+			part { name: "elm.swallow.search_icon";
+				mouse_events: 0;
+				repeat_events: 1;
+				type: IMAGE;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					fixed: 1 1;
+					min: 42 42;
+					max: 42 42;
+					align: 0.0 0.5;
+					rel1 { relative: 1.0 0.0; to_x: "padding.search_icon.left"; to_y: "bg_image"; }
+					rel2 { relative: 1.0 1.0; to_x: "padding.search_icon.left"; to_y: "bg_image"; }
+					image.normal: "browser-view-images/url-layout/I01_search_icon.png";
+					image.border: 5 5 5 5;
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part { name: "padding.search_icon.right";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					fixed: 1 0;
+					min: 9 0;
+					align: 0.0 0.5;
+					rel1 { relative: 1.0 0.0; to: "elm.swallow.search_icon"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.search_icon"; }
+					color: 0 0 0 0;
+				}
+			}
+			part {
+				name: "url_guide_text";
+				type: TEXT;
+				scale: 1;
+				mouse_events: 0;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.5;
+					text { font: FONT_ROM;
+						size: 32;
+						align: 0.0 0.5;
+					}
+					color: 78 73 69 255;
+					rel1 { relative: 1.0 0.0; to_x: "padding.search_icon.right"; to_y: "elm.swallow.entry"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.entry"; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			/* rss part is used for private icon. */
+			part { name: "elm.swallow.rss_icon";
+				mouse_events: 0;
+				type: IMAGE;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 0 42;
+					max: 0 42;
+					fixed: 1 1;
+					align: 0.0 0.5;
+					rel1 { relative: 1.0 0.0; to: "elm.swallow.favicon"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.favicon"; }
+					image.normal: "browser-view-images/url-layout/I01_icon_secretmode.png";
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+					min: 42 42;
+					max: 42 42;
+				}
+			}
+			PADDING("padding.progress.left", 9, 0, 1, 0, 1.0, 0.5,
+					0.0, 0.0, 0.0, 1.0, elm.swallow.progress, elm.swallow.progress)
+			part { name: "elm.swallow.progress";
+				mouse_events: 0;
+				type: SWALLOW;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+				}
+				description {
+					state: "loading_on" 0.0;
+					visible: 1;
+					min: 60 60;
+					max: 60 60;
+					fixed: 1 1;
+					align: 1.0 0.5;
+					rel1 { relative: 0.0 0.0; to_x: elm.image.refresh_stop; to_y: bg; }
+					rel2 { relative: 0.0 1.0; to_x: elm.image.refresh_stop; to_y: bg; }
+				}
+			}
+			PADDING("padding.refreshstop.left", 9, 0, 1, 0, 1.0, 0.5,
+					0.0, 0.0, 0.0, 1.0, elm.image.refresh_stop, elm.image.refresh_stop)
+			PADDING("padding.refreshstop.right", 9, 0, 1, 0, 1.0, 0.5,
+					1.0, 0.0, 1.0, 1.0, bg, bg)
+			part { name: "elm.rect.refresh_stop";
+				mouse_events: 1;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 75 60;
+					max: 75 60;
+					fixed: 1 1;
+					align: 0.5 0.5;
+					rel1 { relative: 0.0 0.0; to: "elm.image.refresh_stop"; }
+					rel2 { relative: 1.0 1.0; to: "elm.image.refresh_stop"; }
+					color: 0 0 0 0;
+				}
+			}
+			part { name: "elm.image.refresh_stop";
+				mouse_events: 0;
+				type: IMAGE;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 45 45;
+					max: 45 45;
+					fixed: 1 1;
+					align: 1.0 0.5;
+					rel1 { relative: 0.0 0.0; to_x: padding.refreshstop.right; to_y: bg; }
+					rel2 { relative: 0.0 1.0; to_x: padding.refreshstop.right; to_y: bg; }
+					image.normal: "browser-view-images/url-layout/41_browser_search_icon_refresh.png";
+				}
+				description {
+					state: "loading_on" 0.0;
+					inherit: "default" 0.0;
+					image.normal: "browser-view-images/url-layout/icon_stop.png";
+				}
+				description {
+					state: "edit_url" 0.0;
+					inherit: "default" 0.0;
+					image.normal: "icon/00_close_icon.png";
+				}
+			}
+			part { name: "padding,rss_icon,right";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 7 0;
+					fixed: 1 0;
+					align: 0.0 0.5;
+					rel1 { relative: 1.0 0.0; to: "elm.swallow.rss_icon"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.rss_icon"; }
+				}
+			}
+			part { name: "elm.swallow.entry";
+				mouse_events: 1;
+				type: SWALLOW;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.5;
+					rel1 { relative: 1.0 0.0; to_x: "padding,rss_icon,right"; to_y: bg; }
+					rel2 { relative: 0.0 1.0; to_x: padding.refreshstop.left; to_y: bg; }
+				}
+				description {
+					state: "loading_on" 0.0;
+					visible: 1;
+					rel1 { relative: 1.0 0.0; to_x: "padding,rss_icon,right"; to_y: bg; }
+					rel2 { relative: 0.0 1.0; to_x: padding.progress.left; to_y: bg; }
+				}
+			}
+			part { name: "block_entry";
+				mouse_events: 1;
+				repeat_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.entry"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.entry"; }
+					color: 0 0 0 0;
+				}
+				description {
+					state: "block" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part { name: "padding,rss_icon,left_margin";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 45 0;
+					fixed: 1 0;
+					align: 1.0 0.5;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.rss_icon"; }
+					rel2 { relative: 0.0 1.0; to: "elm.swallow.rss_icon"; }
+				}
+			}
+			part { name: "padding,rss_icon,right_margin";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 45 0;
+					fixed: 1 0;
+					align: 0.0 0.5;
+					rel1 { relative: 1.0 0.0; to: "elm.swallow.rss_icon"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.rss_icon"; }
+				}
+			}
+		}
+		programs {
+			program { name: "url_guide_text,on";
+				signal: "url_guide_text,on,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.swallow.search_icon";
+				target: "url_guide_text";
+			}
+			program { name: "url_guide_text,off";
+				signal: "url_guide_text,off,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.search_icon";
+				target: "url_guide_text";
+			}
+			program { name: "disable_entry";
+				signal: "disable_entry,signal";
+				action: STATE_SET "block" 0.0;
+				target: "block_entry";
+			}
+			program { name: "black_theme";
+				signal: "black_theme,signal";
+				action: STATE_SET "black" 0.0;
+				target: "bg_image";
+			}
+			program { name: "private_on";
+				signal: "private,on,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.swallow.rss_icon";
+			}
+			program { name: "private_off";
+				signal: "private,off,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.rss_icon";
+			}
+			program { name: "loading_on";
+				signal: "loading,on,signal";
+				action: STATE_SET "loading_on" 0.0;
+				target: "elm.swallow.progress";
+				target: "elm.swallow.progressbar";
+				target: "elm.image.refresh_stop";
+				target: "elm.swallow.entry";
+			}
+			program { name: "loading_off";
+				signal: "loading,off,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.progress";
+				target: "elm.swallow.progressbar";
+				target: "elm.image.refresh_stop";
+				target: "elm.swallow.entry";
+			}
+			program { name: "refresh_stop";
+				source: "elm.rect.refresh_stop";
+				signal: "mouse,clicked,1";
+				action: SIGNAL_EMIT "refresh_stop" "EDJ";
+			}
+			program { name: "hide_progress";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.progress";
+				target: "elm.swallow.progressbar";
+				target: "elm.swallow.entry";
+			}
+			program { name: "edit,url,on";
+				signal: "edit,url,on,signal";
+				action: STATE_SET "edit_url" 0.0;
+				target: "elm.image.refresh_stop";
+				after: "hide_progress";
+			}
+			program { name: "edit,url,off";
+				signal: "edit,url,off,signal";
+				script {
+					new st[31];
+					new Float:vl;
+					get_state(PART:"elm.swallow.progress", st, 30, vl);
+					if (!strcmp(st, "loading_on"))
+						set_state(PART:"elm.image.refresh_stop", "loading_on", 0.0);
+					else
+						set_state(PART:"elm.image.refresh_stop", "default", 0.0);
+				}
+			}
+			program { name: "show,favicon";
+				signal: "show,favicon,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.swallow.favicon";
+			}
+			program { name: "hide,favicon";
+				signal: "hide,favicon,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.favicon";
+				target: "elm.swallow.secure_icon";
+			}
+			program { name: "show,secure_icon";
+				signal: "show,secure_icon,signal";
+				script {
+					new st[31];
+					new Float:vl;
+					get_state(PART:"elm.swallow.favicon", st, 30, vl);
+					if (!strcmp(st, "visible"))
+						set_state(PART:"elm.swallow.secure_icon", "visible", 0.0);
+					else
+						set_state(PART:"elm.swallow.secure_icon", "default", 0.0);
+				}
+			}
+			program { name: "hide,secure_icon";
+				signal: "hide,secure_icon,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.secure_icon";
+			}
+		}
+	}
+
+	group {
+		name: "browser-view/option_header";
+		parts {
+			part { name: "elm.swallow.url_layout";
+				mouse_events: 1;
+				type: SWALLOW;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+				}
+				description {
+					state: "invisible" 0.0;
+					inherit: "default" 0.0;
+					visible: 0;
+				}
+			}
+			/* For change effect. */
+			part { name: "rect.find_word_layout";
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					color: 255 255 255 0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.find_word_layout"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.find_word_layout"; }
+				}
+				description {
+					state: "visible" 0.0;
+					color: 255 255 255 255;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.find_word_layout"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.find_word_layout"; }
+				}
+			}
+			part { name: "elm.swallow.find_word_layout";
+				mouse_events: 1;
+				repeat_events: 0;
+				type: SWALLOW;
+				scale: 1;
+				/* For change effect. */
+				clip_to: "rect.find_word_layout";
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+		}
+		programs {
+			program { name: "show,find_word_layout,clipper";
+				signal: "show,find_word_layout,signal";
+				transition: ACCELERATE 0.3;
+				action: STATE_SET "visible" 0.0;
+				target: "rect.find_word_layout";
+				target: "elm.swallow.find_word_layout";
+			}
+			program { name: "hide,find_word_layout,clipper";
+				signal: "hide,find_word_layout,signal";
+				transition: ACCELERATE 0.3;
+				action: STATE_SET "default" 0.0;
+				target: "rect.find_word_layout";
+				target: "elm.swallow.find_word_layout";
+			}
+		}
+	}
+}

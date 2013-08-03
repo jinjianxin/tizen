@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Ag cur in iúl"
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Ag próiseáil..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Próiseáilte"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Atriail"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Bainisteoir íoslódálacha"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Tuairisceoir neamhbhailí"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Ní féidir an comhad a oscailt"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Íoslódáil?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Roghnaithe"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Íoslódáil curtha ar ceal"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Ar lean ón lch. deiridh"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Leathanach"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Foclóir"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "Eolas faoi Bhrabhsálaí"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Cineál"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Eisitheoir"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Taispeáin íomhánna"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Íoslódáil"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "Iontráil URL"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Fillteán"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Leathanach baile"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Amharc tírdhreacha"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Níl leabharmharcanna ann"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Ní bhfuarthas torthaí"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Roghnach"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Rith Splanc"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "Rith JavaScript"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Ainm coitianta:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Aonad eagrúcháin:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Eagraíocht:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "Gníomhaire úsáideora"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Sainroghanna"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Earráid ghníomhachtaithe"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Ar rith cheana"
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Gan cur i bhfeidhm"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Theip ar fhíordheimhniú"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Forscríobh?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Stair"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Liosta íoslódálacha"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Suiteáilte cheana"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Ag cur in iúl..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Inneachar gan tacú"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Earráid: ní féidir óstainm a réiteach"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Ní féidir an seachfhreastalaí a bhaint amach"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "Níl teastais SSL ann"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Sáraíonn méid an chomhaid an uasteorainn uaslódála"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Iontráil ainm:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Ar aghaidh"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Fillteán nua"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Cuir le Leabharmharcanna"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Fuinneog nua"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "Níl an URL ar fáil"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "Níl an URL %s ar fáil. Is féidir go bhfuil sé as ord go sealadach nó nach bhfuil sé in úsáid a thuilleadh"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Fillteán"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Ainm an fhillteáin"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Ainm an chomhaid in úsáid cheana"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Níl teideal ann"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Ilfuinneog"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Níl stair ann"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Cuir le Leabharmharcanna"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Cuir leabharmharc in eagar"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Ainm an fhillteáin:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Roghnaigh gach"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Bainisteoir íoslódálacha"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "Cuir fotha RSS leis"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "Cuir fothaí RSS leis"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Socruithe"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "Iontráil URL"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Pasfhocal"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Seoladh neamhbhailí"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Ann cheana sa liosta íoslódálacha"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Iontráil ainm an fhillteáin"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Níl leathanach ann"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Níl leathanaigh siar ann"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Níl leathanaigh ar aghaidh ann"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Níl leathanach ann le hathlódáil"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Fíordheimhniú de dhíth"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Tá an leabharmharc ann cheana"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Ainm an fhillteáin ann cheana"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Ní féidir an oibiacht a shábháil. Easpa spáis sa taisce"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Roghnaigh míreanna"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Faisnéis faoin deimhniú"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Comhroinn le r-phost"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Comhroinn trí Theachtaireachtaí"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Comhroinn le"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Ní féidir an Brabhsálaí a thosú"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Níl seoladh ann"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Ná taispeáin go deo arís"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Comhadainm folamh"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Déan fillteán"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Roghnaithe"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Comhroinn"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Leathanaigh ar tugadh cuairt orthu le déanaí"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Taispeáint"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Oir don leithead"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Inléite"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Príobháideacht"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Fianáin"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Glac le gach"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Léid"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Fianáin"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Glac le fianáin"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Glac le fianáin"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Glac le gach"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Diúltaigh gach"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Uathshábháil ID/pasfhocal"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Air"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "As"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Stóras réamhshocraithe"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Cuardaigh"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Sábháil íomhá"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Ceallra lag Ní féidir brabhsálaí a rith"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Aimsigh focal"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Cuir le Scáileán baile"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Cuir leis an scáileán baile"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Láithreáin is mó cuairt orthu"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Comhroinn le Facebook"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Comhroinn le Twitter"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Athraigh amharc"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "Roghnaigh na URL"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "Tá an láithreán seo ag iarraidh fuinneog aníos a oscailt"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Bac ar fhuinneoga aníos"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Léitheoir téacs"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Cóipeáil íomhá"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Sábháil íomhá"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Seinn"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Roghnaigh"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Gabh siar"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Gabh ar aghaidh"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Stop"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Athlódáil"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Greamaigh"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Tuilleadh"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Theip air"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Oscail i bhfuinn. úr"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Amharc ar liosta uaslódálacha"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "Cóipeáil URL"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "Cóipeáil URL chuig"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Amharc ar íomhá"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Socruithe príobháideachta"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Glan taisce"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Glan stair"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Cumasaigh breiseáin"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Roghnaigh inneall cuardaigh"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Scrios ID/pasfhocal a sábháladh"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Glan gach sonra fianáin"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Suas"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Méid an chló"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Scriosta"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Réamh-amharc"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Soc. inneachar an lch."
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "Cásíogair"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Plugáil isteach"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Liosta breiseán"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Stórás áitiúil"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Scrios sonraí brabhsála"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Ag lódáil..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Ag lódáil..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "Iontráil URL"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Glasáil"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Díghlasáil"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Mionathraigh"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Lch. suas"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Lch. síos"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Mód forbróra"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Folamh"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Deimhnithe"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Leabharmharcanna"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Iontráil ainm"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Ainm"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Seol le R-phost"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Seol le teachtaireacht"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Socruithe"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Ainm úsáideora"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Ann cheana"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Sábháilte"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Easpa cuimhne"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Earráid líonra"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Iarr i gcónaí"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Cárta cuimhne"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Fón"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Níl cuntas ann"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Leathanach earráide"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Níl leathanach Gréasáin ar fáil go sealadach"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Níl leathanach Gréasáin ar fáil"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Theip ar lódáil frámaí"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "Tharla an earráid seo a leanas agus leathanach Gréasáin %s á aisghabháil."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Ní féidir an leathanach Gréasáin a aisghabháil. (Is féidir go bhfuil an leathanach Gréasáin as feidhm go sealadach nó gur bogadh chuig URL nua é)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Tugtar an chúis is dóchúla thíos"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Níor cruthaíodh an nasc líonra mar ba ghnáth"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Seiceáil URL an leathanaigh Ghréasáin"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Athlódáil an leathanach Gréasáin níos déanaí"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Leabharmharc"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Teideal"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Iontráil teideal"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Fillteáin"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Ceadaigh"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Diúltaigh"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Earráid Slándála: Deimhniú freastalaí neamhiontaofa"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "%d mír roghnaithe"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "1 mhír roghnaithe"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Cuir leis an ngearrthóg Gréasáin"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Aicearra cruthaithe"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Roghnaigh focal"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Aimsigh ar leathanach"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Aimsigh ar lch."
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "an tIdirlíon"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Liostaigh"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Roghnaigh gach"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Teachtaireacht"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "R-phost"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Cealaigh"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "Cóipeáil nasc URL"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Amharc ar íomhá"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Oscail i lch. Nua"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Oscail"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Roghnú téacs ar siúl"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Leabharmharcanna"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Eagraigh"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Scrs"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Scrios"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Cuir ar ceal"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Cuir leabharmharc in eagar"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Teachtaireachtaí"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "R-phost"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Cuir in eagar"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Scrios"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Cuir le Leabharmharcanna"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Méid an chló"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Mór"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Beag"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Luas"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Seoladh seachfhreastalaí"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Seachphort"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Déanta"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Leagan"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Suiteáil"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Leathanach reatha"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Iontráil ainm an fhillteáin"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Iontráil ainm an leabharmhairc"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Ná hiarr arís"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "Níor aimsíodh URL"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "Iarrann %s do shuíomh"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Cuimhnigh ar mo shainrogha"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Taispeáin íomhánna"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Taispeáin rabhaidh shlándála"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Cuimhnigh ar phasfhocail"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Glan pasfhocail"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Scrios gach pasfhocal sábháilte?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Scrios gach fianán. Ar aghaidh?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Cuimhnigh sonraí foirme"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Athshocraigh go réamhshocraithe"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Gach socrú ar réamhshocrú. Ar aghaidh?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Glan taisce?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Glan gach stair?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Glanfar stair nascleanúna an bhrabhsálaí"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Ar siúl i gcónaí"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Cumasaigh suíomh"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Glan rochtain an tsuímh"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Ní féidir leabharmharc a chur leis. Uaslíon na leabharmharcanna bainte amach"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Scrios faisnéis rochtana suímh don láithreán gréasáin?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Priontáil"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "Cuardaigh nó iontráil URL"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Uath-"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Láimhe"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Íseal"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Meán"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Leathanach bán"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Theip ar shuiteáil"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Socruithe láithreán Gréasáin"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Ard"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Sábháil nasc"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Comhroinn nasc"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Príobháideacht agus slándáil"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Sábháil le léamh as líne"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Suíomh"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Sonraí ar fhoirm"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Glan sonraí foirme"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Glan gach pasfhocal a sábháladh"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Curtha le leabharmharcanna"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Bainte de leabharmharcanna"
+

@@ -1,0 +1,525 @@
+/*
+ * Copyright 2012  Samsung Electronics Co., Ltd
+ *
+ * Licensed under the Flora License, Version 1.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.tizenopensource.org/license
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ */
+
+#include "browser-macro.edc"
+
+collections {
+BUTTON(most_visited_item, "browser-view-images/most-visited/I01_favicon_box.png",
+		"browser-view-images/most-visited/41_browser_favicon_box_press.png", 4, 4, 4, 4);
+
+	group {
+		name: "browser/most-visited";
+		images {
+			image: "browser-view-images/most-visited/I01_favicon_bg.png" COMP;
+		}
+		parts {
+			part { name: "bg";
+				mouse_events: 0;
+				type: IMAGE;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 0 141;
+					fixed: 0 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					image.normal: "browser-view-images/most-visited/I01_favicon_bg.png";
+					image.border: 1 1 1 5;
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+				}
+				description {
+					state: "edit_mode_state" 0.0;
+					inherit: "default" 0.0;
+					min: 0 219;
+				}
+				description {
+					state: "landscape" 0.0;
+					inherit: "default" 0.0;
+					min: 0 96;
+				}
+			}
+			part {
+				name: "elm.text.most_visited_title";
+				type: TEXT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 0 52;
+					fixed: 0 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "bg"; }
+					rel2 { relative: 1.0 0.0; to: "bg"; }
+					color: 81 84 84 255;
+					text {
+						font: FONT_MED;
+						size: 30;
+						align: 0.5 0.5;
+					}
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+				}
+				description {
+					state: "landscape" 0.0;
+					inherit: "default" 0.0;
+					align: 0.5 0.0;
+					rel1 { relative: 0.0 0.0; to: "bg"; }
+					rel2 { relative: 0.0 1.0; to_x: "elm.swallow.most_visited"; to_y: "bg"; }
+				}
+				description {
+					state: "landscape_edit_mode_state" 0.0;
+					inherit: "default" 0.0;
+					align: 0.5 0.0;
+					rel1 { relative: 0.0 0.0; to: "bg"; }
+					rel2 { relative: 0.0 1.0; to_x: "elm.swallow.done"; to_y: "bg"; }
+				}
+			}
+			part {
+				name: "padding,item_box_right";  // padding
+				type: RECT;
+				mouse_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 40 0;
+					fixed: 1 0;
+					align: 1.0 0.0;
+					rel1 { relative: 1.0 0.0; to: "bg"; }
+					rel2 { relative: 1.0 1.0; to: "bg"; }
+					color: 0 0 0 0;
+				}
+			}
+			part {
+				name: "padding,item_box_top";  // padding
+				type: RECT;
+				mouse_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 0 10;
+					fixed: 0 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "bg"; }
+					rel2 { relative: 1.0 0.0; to: "bg"; }
+					color: 0 0 0 0;
+				}
+			}
+			part {
+				name: "elm.swallow.most_visited";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 1.0; to: "elm.text.most_visited_title"; }
+					rel2 { relative: 1.0 1.0; to: "bg"; }
+				}
+				description {
+					state: "landscape" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+					min: 690 0;
+					fixed: 1 0;
+					align: 1.0 0.0;
+					rel1 { relative: 0.0 1.0; to_x: "padding,item_box_right"; to_y: "padding,item_box_top"; }
+					rel2 { relative: 0.0 1.0; to_x: "padding,item_box_right"; to_y: "bg"; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part {
+				name: "padding,most_visited_guide_text_top";  // padding
+				type: RECT;
+				mouse_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 0 15;
+					fixed: 0 1;
+					align: 0.0 1.0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.most_visited"; }
+					rel2 { relative: 1.0 0.0; to: "elm.swallow.most_visited"; }
+					color: 0 0 0 0;
+				}
+			}
+			part {
+				name: "padding,most_visited_guide_text_bottom";  // padding
+				type: RECT;
+				mouse_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 0 15;
+					fixed: 0 1;
+					align: 0.0 1.0;
+					rel1 { relative: 0.0 1.0; to: "elm.swallow.most_visited"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.most_visited"; }
+					color: 0 0 0 0;
+				}
+			}
+			part {
+				name: "padding,most_visited_guide_text_bg_bottom";  // padding
+				type: RECT;
+				mouse_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 0 15;
+					fixed: 0 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 1.0; to: "elm.swallow.most_visited_guide_text"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.most_visited_guide_text"; }
+					color: 0 0 0 0;
+				}
+			}
+			part { name: "most_visited_guide_text_bg";
+				mouse_events: 0;
+				type: IMAGE;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.most_visited_guide_text"; }
+					rel2 { relative: 1.0 1.0; to: "padding,most_visited_guide_text_bg_bottom"; }
+					image.normal: "browser-view-images/most-visited/I01_favicon_bg.png";
+					image.border: 1 1 1 5;
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part {
+				name: "elm.swallow.most_visited_guide_text";
+				type: SWALLOW;
+				mouse_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.0 0.0;
+					fixed: 1 1;
+					rel1 { relative: 0.0 0.0; to: "padding,most_visited_guide_text_top"; }
+					rel2 { relative: 1.0 1.0; to: "padding,most_visited_guide_text_bottom"; }
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part {
+				name: "padding,done_right";  // padding
+				type: RECT;
+				mouse_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 15 0;
+					fixed: 1 0;
+					align: 1.0 0.0;
+					rel1 { relative: 1.0 0.0; to: "bg"; }
+					rel2 { relative: 1.0 1.0; to: "bg"; }
+					color: 0 0 0 0;
+				}
+			}
+			part {
+				name: "padding,done_bottom";  // padding
+				type: RECT;
+				mouse_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 0 15;
+					fixed: 0 1;
+					align: 0.0 1.0;
+					rel1 { relative: 0.0 1.0; to: "bg"; }
+					rel2 { relative: 1.0 1.0; to: "bg"; }
+					color: 0 0 0 0;
+				}
+			}
+			part {
+				name: "padding,done_right_for_landscape";  // padding
+				type: RECT;
+				mouse_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 40 0;
+					fixed: 1 0;
+					align: 1.0 0.0;
+					rel1 { relative: 0.0 0.0; to_x: "elm.swallow.most_visited"; }
+					rel2 { relative: 0.0 1.0; to_x: "elm.swallow.most_visited"; }
+					color: 0 0 0 0;
+				}
+			}
+			part {
+				name: "elm.swallow.done";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 135 63;
+					max: 135 63;
+					fixed: 1 1;
+					align: 1.0 1.0;
+					rel1 { relative: 0.0 0.0; to_x: "padding,done_right"; to_y: "padding,done_bottom"; }
+					rel2 { relative: 0.0 0.0; to_x: "padding,done_right"; to_y: "padding,done_bottom"; }
+				}
+				description {
+					state: "edit_mode_state" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+				description {
+					state: "landscape_edit_mode_state" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+					align: 1.0 0.4;
+					rel1 { relative: 0.0 0.0; to_x: "padding,done_right_for_landscape"; to_y: "bg"; }
+					rel2 { relative: 0.0 1.0; to_x: "padding,done_right_for_landscape"; to_y: "bg"; }
+				}
+			}
+		}
+
+		programs {
+			//////////////////////////////////////////////////////////////
+			// most visited edit mode on/off (by longpress on each item)
+			//////////////////////////////////////////////////////////////
+			program { name: "most_visited,edit_mode";
+				signal: "most_visited,edit_mode,signal";
+				transition: LINEAR 0.2;
+				action: STATE_SET "edit_mode_state" 0.0;
+				target: "bg";
+				after: "show,done_button";
+			}
+			program { name: "most_visited,normal_mode";
+				transition: LINEAR 0.2;
+				action: STATE_SET "default" 0.0;
+				target: "bg";
+			}
+			program { name: "most_visited,landscape_edit_mode";
+				signal: "most_visited,landscape_edit_mode,signal";
+				action: STATE_SET "landscape_edit_mode_state" 0.0;
+				target: "elm.swallow.done";
+				target: "elm.text.most_visited_title";
+			}
+			program { name: "most_visited,landscape_normal_mode";
+				signal: "most_visited,landscape_normal_mode,signal";
+				action: STATE_SET "landscape" 0.0;
+				target: "elm.swallow.done";
+				target: "elm.text.most_visited_title";
+			}
+
+			//////////////////////////////////////////////////////////////
+			// portrait / landscape mode
+			//////////////////////////////////////////////////////////////
+			program { name: "most_visited,portrait";
+				signal: "most_visited,portrait,signal";
+				action: STATE_SET "default" 0.0;
+				target: "bg";
+				target: "elm.swallow.most_visited";
+				target: "elm.text.most_visited_title";
+			}
+			program { name: "most_visited,landscape";
+				signal: "most_visited,landscape,signal";
+				action: STATE_SET "landscape" 0.0;
+				target: "bg";
+				target: "elm.swallow.most_visited";
+				target: "elm.text.most_visited_title";
+			}
+
+			//////////////////////////////////////////////////////////////
+			// show / hide done button
+			//////////////////////////////////////////////////////////////
+			program { name: "show,done_button";
+				action: STATE_SET "edit_mode_state" 0.0;
+				target: "elm.swallow.done";
+			}
+			program { name: "hide,done_button";
+				signal: "most_visited,normal_mode,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.done";
+				after: "most_visited,normal_mode";
+			}
+
+			//////////////////////////////////////////////////////////////
+			// show / hide most visited guide text
+			//////////////////////////////////////////////////////////////
+			program { name: "show,guide_text";
+				signal: "show,guide_text,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "bg";
+				target: "elm.swallow.most_visited";
+				target: "elm.text.most_visited_title";
+				target: "elm.swallow.most_visited_guide_text";
+				target: "most_visited_guide_text_bg";
+			}
+			program { name: "hide,guide_text";
+				signal: "hide,guide_text,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.most_visited_guide_text";
+				target: "most_visited_guide_text_bg";
+			}
+		}
+	}
+
+	group {
+		name: "browser/most-visited-item";
+		images {
+			image: "browser-view-images/most-visited/I01_Btn_delete.png" COMP;
+		}
+		parts {
+			part { name: "bg";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 210 69;
+					max: 210 69;
+					fixed: 1 1;
+					align: 0.5 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 0 0 0 0;
+				}
+			}
+			part {
+				name: "elm.swallow.button";
+				type: SWALLOW;
+				scale: 1;
+				mouse_events: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 210 69;
+					max: 210 69;
+					fixed: 1 1;
+					align: 0.5 0.0;
+					rel1 {relative: 0.0 0.0; }
+					rel2 {relative: 1.0 1.0; }
+				}
+			}
+			PADDING("padding.favicon.top", 0, 19, 0, 1, 0.5, 0.0,
+					0.0, 0.0, 1.0, 0.0, bg, bg)
+			PADDING("padding.favicon.left", 15, 0, 1, 0, 0.0, 0.5,
+					0.0, 0.0, 0.0, 1.0, bg, bg)
+			PADDING("padding.favicon.right", 7, 0, 1, 0, 0.0, 0.5,
+					1.0, 0.0, 1.0, 1.0, elm.swallow.favicon, elm.swallow.favicon)
+
+			part { name: "elm.swallow.favicon";
+				type: SWALLOW;
+				mouse_events: 0;
+				repeat_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 30 30;
+					max: 30 30;
+					fixed: 1 1;
+					align: 0.0 0.0;
+					rel1 { relative: 1.0 1.0; to_x: padding.favicon.left; to_y: padding.favicon.top; }
+					rel2 { relative: 1.0 1.0; to_x: padding.favicon.left; to_y: padding.favicon.top; }
+					color: 255 255 255 255;
+				}
+			}
+			part { name: "name";
+				type: TEXT;
+				mouse_events: 0;
+				repeat_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 150 30;
+					max: 150 30;
+					fixed: 1 1;
+					align: 0.0 0.0;
+					rel1 { relative: 1.0 1.0; to_x: padding.favicon.right; to_y: padding.favicon.top; }
+					rel2 { relative: 1.0 1.0; to_x: padding.favicon.right; to_y: padding.favicon.top; }
+					color: 78 73 69 255;
+					text {
+						font: FONT_ROM;
+						size: 27;
+						align: 0.0 0.5;
+					}
+				}
+			}
+			part { name: "delete_icon";
+				type: IMAGE;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 36 34;
+					max: 36 34;
+					fixed: 1 1;
+					align: 0.8 0.2;
+					rel1 { relative: 1.0 0.0; to: elm.swallow.button; }
+					rel2 { relative: 1.0 0.0; to: elm.swallow.button; }
+					image.normal: "browser-view-images/most-visited/I01_Btn_delete.png";
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+		}
+		programs {
+			program { name: "most_visited,edit_mode";
+				signal: "most_visited,edit_mode,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "delete_icon";
+			}
+			program { name: "most_visited,normal_mode";
+				signal: "most_visited,normal_mode,signal";
+				action: STATE_SET "default" 0.0;
+				target: "delete_icon";
+			}
+		}
+	}
+}

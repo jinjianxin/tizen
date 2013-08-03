@@ -1,0 +1,6 @@
+* Wed Dec 18 2012 Rusty Lynch <rusty.lynch@intel.com> submit/2.0alpha-wayland/20121130.184844@615816f
+- Port browser to new elementary 1.7 semantics
+
+* Fri Nov 30 2012 Rusty Lynch <rusty.lynch@intel.com> a128267
+- Fixing build breakage caused by updated EFL
+

@@ -1,0 +1,918 @@
+/*
+ * Copyright 2012  Samsung Electronics Co., Ltd
+ *
+ * Licensed under the Flora License, Version 1.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.tizenopensource.org/license
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ */
+
+#include "browser-macro.edc"
+
+collections {
+#if 1
+	group {
+		name: "most_visited_sites_layout";
+		parts {
+			part {
+				name: "elm.swallow.gengrid";
+				type: SWALLOW;
+				scale: 1;
+				mouse_events: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					rel1 {relative: 0.0 0.0; }
+					rel2 {relative: 1.0 1.0; }
+				}
+			}
+			part { name: "padding,setting_button,left";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 16 0;
+					fixed: 1 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 0.0 1.0; }
+				}
+			}
+			part { name: "padding,setting_button,right";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 16 0;
+					fixed: 1 0;
+					align: 1.0 0.0;
+					rel1 { relative: 1.0 0.0; to: "elm.swallow.gengrid"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.gengrid"; }
+				}
+			}
+			part { name: "padding,setting_button,bottom";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 0 29;
+					fixed: 0 1;
+					align: 0.0 1.0;
+					rel1 { relative: 0.0 1.0; }
+					rel2 { relative: 1.0 1.0; }
+				}
+			}
+			part {
+				name: "elm.swallow.setting_button";
+				type: SWALLOW;
+				scale: 1;
+				mouse_events: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 144 60;
+					max: 144 60;
+					fixed: 1 1;
+					align: 0.0 1.0;
+					rel1 {relative: 1.0 0.0; to_x: "padding,setting_button,left"; to_y: "padding,setting_button,bottom"; }
+					rel2 {relative: 1.0 0.0; to_x: "padding,setting_button,left"; to_y: "padding,setting_button,bottom"; }
+				}
+				description {
+					state: "rotate" 0.0;
+					inherit: "default" 0.0;
+					align: 1.0 1.0;
+					rel1 {relative: 0.0 0.0; to_x: "padding,setting_button,right"; to_y: "padding,setting_button,bottom"; }
+					rel2 {relative: 0.0 0.0; to_x: "padding,setting_button,right"; to_y: "padding,setting_button,bottom"; }
+				}
+			}
+		}
+		programs {
+			program { name: "rotate,landscape";
+				signal: "rotate,landscape,signal";
+				action: STATE_SET "rotate" 0.0;
+				target: "elm.swallow.setting_button";
+			}
+			program { name: "rotate,portrait";
+				signal: "rotate,portrait,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.swallow.setting_button";
+			}
+		}
+	}
+
+	group {
+		name: "most_visited_sites_empty_item";
+		parts {
+			part { name: "bg";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 210 257;
+					max: 210 257;
+					fixed: 1 1;
+					align: 0.5 0.5;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 38 38 38 255;
+				}
+			}
+			part {
+				name: "elm.swallow.snapshot";
+				type: RECT;
+				scale: 1;
+				mouse_events: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 210 220;
+					max: 210 220;
+					fixed: 1 1;
+					align: 0.0 0.0;
+					color: 81 81 81 255;
+					rel1 {relative: 0.0 0.0; to: "bg"; }
+					rel2 {relative: 1.0 0.0; to: "bg"; }
+				}
+			}
+		}
+	}
+	group {
+		name: "most_visited_sites_item";
+		images {
+			image: "browser-view-images/most-visited-sites/I01_icon_bookmark_bg.png" COMP;
+			image: "browser-view-images/most-visited-sites/I01_icon_bookmark_off.png" COMP;
+			image: "browser-view-images/most-visited-sites/I01_icon_bookmark_on.png" COMP;
+			image: "browser-view-images/most-visited-sites/I01_Btn_delete_01.png" COMP;
+			image: "browser-view-images/most-visited-sites/I01_Btn_delete_01_press.png" COMP;
+		}
+		parts {
+			part { name: "bg";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 210 257;
+					max: 210 257;
+					fixed: 1 1;
+					align: 0.5 0.5;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 0 0 0 0;
+				}
+			}
+			part {
+				name: "elm.swallow.snapshot";
+				type: SWALLOW;
+				scale: 1;
+				mouse_events: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 210 220;
+					max: 210 220;
+					fixed: 1 1;
+					align: 0.0 0.0;
+					rel1 {relative: 0.0 0.0; to: "bg"; }
+					rel2 {relative: 1.0 0.0; to: "bg"; }
+				}
+			}
+			part { name: "title_label_bg";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "title_label"; }
+					rel2 { relative: 1.0 1.0; to: "title_label"; }
+					color: 38 38 38 255;
+				}
+			}
+			part {
+				name: "title_label";
+				type: TEXT;
+				scale: 1;
+				mouse_events: 0;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					fixed: 1 1;
+					align: 0.0 0.0;
+					rel1 {relative: 0.0 1.0; to: "elm.swallow.snapshot"; }
+					rel2 {relative: 1.0 1.0; to: "bg"; }
+					text { font: FONT_ROM;
+                            size: 22;
+                            min: 0 0;
+                            align: 0.5 0.5;
+                    }
+                    color: 255 255 255 255;
+				}
+			}
+			part { name: "bookmark_icon_bg";
+				type: IMAGE;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 72 72;
+					max: 72 72;
+					fixed: 1 1;
+					align: 1.0 0.0;
+					image.normal: "browser-view-images/most-visited-sites/I01_icon_bookmark_bg.png";
+					rel1 { relative: 1.01 0.0;  to: "bg"; }
+					rel2 { relative: 1.01 0.0;  to: "bg"; }
+				}
+			}
+			part { name: "bookmark_icon";
+				type: IMAGE;
+				mouse_events: 1;
+				repeat_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 36 36;
+					max: 36 36;
+					fixed: 1 1;
+					align: 1.0 0.0;
+					rel1 { relative: 1.0 0.0;  to: "bg"; }
+					rel2 { relative: 1.0 0.0;  to: "bg"; }
+					image.normal: "browser-view-images/most-visited-sites/I01_icon_bookmark_off.png";
+				}
+				description {
+					state: "bookmark_on" 0.0;
+					inherit: "default" 0.0;
+					image.normal: "browser-view-images/most-visited-sites/I01_icon_bookmark_on.png";
+				}
+			}
+			part { name: "elm.image.delete_button";
+				type: IMAGE;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 48 48;
+					max: 48 48;
+					fixed: 1 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "bg"; }
+					rel2 { relative: 0.0 0.0; to: "bg"; }
+					image.normal: "browser-view-images/most-visited-sites/I01_Btn_delete_01.png";
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+				description {
+					state: "pressed" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+					image.normal: "browser-view-images/most-visited-sites/I01_Btn_delete_01_press.png";
+				}
+			}
+		}
+		programs {
+			program { name: "bookmark_icon,on";
+				signal: "bookmark_icon,on,signal";
+				action: STATE_SET "bookmark_on" 0.0;
+				target: "bookmark_icon";
+			}
+			program { name: "bookmark_icon,off";
+				signal: "bookmark_icon,off,signal";
+				action: STATE_SET "default" 0.0;
+				target: "bookmark_icon";
+			}
+			program { name: "show,delete_button";
+				signal: "show,delete_button,signal";
+				action: STATE_SET "visible" 0.0;
+				target: "elm.image.delete_button";
+			}
+			program { name: "hide,delete_button";
+				signal: "hide,delete_button,signal";
+				action: STATE_SET "default" 0.0;
+				target: "elm.image.delete_button";
+			}
+			program {
+				name: "delete_button_press";
+				signal: "mouse,down,1";
+				source: "elm.image.delete_button";
+				script {
+					new st[31];
+					new Float:vl;
+					get_state(PART:"elm.image.delete_button", st, 30, vl);
+
+					if (!strcmp(st, "visible"))
+						set_state(PART:"elm.image.delete_button", "pressed", 0.0);
+				}
+			}
+			program {
+				name: "delete_button_release";
+				signal: "mouse,up,1";
+				source: "elm.image.delete_button";
+				script {
+					new st[31];
+					new Float:vl;
+					get_state(PART:"elm.image.delete_button", st, 30, vl);
+
+					if (!strcmp(st, "pressed"))
+						set_state(PART:"elm.image.delete_button", "visible", 0.0);
+				}
+			}
+		}
+	}
+#else
+	group {
+		name: "most_visited_sites_item";
+		images {
+			image: "browser-view-images/most-visited-sites/bg-base.png" COMP;
+			image: "browser-view-images/most-visited-sites/favorite.png" COMP;
+			image: "browser-view-images/most-visited-sites/no-image.png" COMP;
+			image: "browser-view-images/most-visited-sites/paper-clip.png" COMP;
+		}
+		parts {
+			part { name: "bg";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 240 255;
+					max: 240 255;
+					fixed: 1 1;
+					align: 0.5 0.5;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 0 0 0 0;
+				}
+			}
+			part { name: "bg_rect";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					fixed: 1 1;
+					align: 0.5 0.5;
+					rel1 {relative: 0.0 0.0; to: bg;}
+					rel2 {relative: 1.0 1.0; to: bg;}
+					color: 0 0 0 0;
+				}
+				description {
+					state: "pressed" 0.0;
+					inherit: "default" 0.0;
+					rel1 {relative: 0.01 0.01; to: bg;}
+					rel2 {relative: 0.99 0.99; to: bg;}
+					color: 53 69 95 150;
+				}
+			}
+			part { name: "bg_base_edge";
+				type: IMAGE;
+				mouse_events: 0;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					fixed: 1 1;
+					align: 0.5 0.5;
+					rel1 {relative: 0.0 0.0; to: bg_rect;}
+					rel2 {relative: 1.0 1.0; to: bg_rect;}
+					image.normal: "browser-view-images/most-visited-sites/bg-base.png";
+				}
+				description {
+					state: "pressed" 0.0;
+					inherit: "default" 0.0;
+					rel1 {relative: 0.03 0.03; to: bg_rect;}
+					rel2 {relative: 0.97 0.97; to: bg_rect;}
+				}
+			}
+			part { name: "bg_no_image";
+				type: IMAGE;
+				mouse_events: 0;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					fixed: 1 1;
+					align: 0.5 0.5;
+					rel1 {relative: 0.0 0.0; to: bg_base_edge;}
+					rel2 {relative: 1.0 1.0; to: bg_base_edge;}
+					image.normal: "browser-view-images/most-visited-sites/no-image.png";
+				}
+			}
+			part {
+				name: "elm.swallow.tile";
+				type: SWALLOW;
+				scale: 1;
+				mouse_events: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					fixed: 1 1;
+					align: 0.5 0.5;
+					rel1 {relative: 0.1 0.1; to: bg_base_edge;}
+					rel2 {relative: 0.9 0.9; to: bg_base_edge;}
+				}
+			}
+			part {
+				name: "title_rect";
+				type: RECT;
+				mouse_events: 0;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					align: 0.5 1.0;
+					fixed: 1 1;
+					rel1 {relative: 0.08 0.78; to: bg_base_edge;}
+					rel2 {relative: 0.92 0.9; to: bg_base_edge;}
+					color: 0 0 0 90;
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part {
+				name: "title_label";
+				type: TEXT;
+				scale: 1;
+				mouse_events: 0;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					fixed: 1 1;
+					align: 0.5 1.0;
+					rel1 {relative: 0.0 0.0; to: title_rect;}
+					rel2 {relative: 1.0 1.0; to: title_rect;}
+					text { font: FONT_ROM;
+                            size: 22;
+                            min: 0 0;
+                            align: 0.5 1.0;
+                    }
+                    color: 255 255 255 255;
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part { name: "bookmark_icon";
+				type: IMAGE;
+				mouse_events: 0;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 36 36;
+					max: 36 36;
+					fixed: 1 1;
+					align: 0.5 0.3;
+					rel1 { relative: 0.85 0.68;  to: bg_base_edge; }
+					rel2 { relative: 1.0 0.8;  to: bg_base_edge; }
+					image.normal: "browser-view-images/most-visited-sites/favorite.png";
+				}
+				description {
+					state: "visible" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+			part { name: "pin";
+				type: IMAGE;
+				mouse_events: 1;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 0;
+					min: 48 48;
+					max: 48 48;
+					fixed: 1 1;
+					align: 0.6 0.6;
+					rel1 { relative: 0.1 0.1;  to: bg_base_edge; }
+					rel2 { relative: 0.1 0.1;  to: bg_base_edge; }
+				}
+				description {
+					state: "pin_tack" 0.0;
+					inherit: "default" 0.0;
+					image.normal: "browser-view-images/most-visited-sites/paper-clip.png";
+					visible: 1;
+				}
+			}
+		}
+		programs {
+			program { name: "bookmark_icon";
+				signal: "bookmark_icon";
+				action: STATE_SET "visible" 0.0;
+				target: "bookmark_icon";
+			}
+			program { name: "pin_icon_default";
+				signal: "hide,pin_icon";
+				action: STATE_SET "default" 0.0;
+				target: "pin";
+			}
+			program { name: "tack_icon";
+				signal: "tack_icon";
+				action: STATE_SET "pin_tack" 0.0;
+				target: "pin";
+			}
+			program { name: "titlearea";
+				signal: "titlearea";
+				action: STATE_SET "visible" 0.0;
+				target: "title_rect";
+			}
+			program { name: "tile_pressed";
+				signal: "tile_pressed";
+				action: STATE_SET "pressed" 0.0;
+				target: "bg_rect";
+			}
+			program { name: "tile_released";
+				signal: "tile_released";
+				action: STATE_SET "default" 0.0;
+				target: "bg_rect";
+			}
+		}
+	}
+
+	group {
+		name: "most_visited_sites_empty_item";
+		images {
+			image: "browser-view-images/most-visited-sites/bg-base.png" COMP;
+			image: "browser-view-images/most-visited-sites/button-add.png" COMP;
+		}
+		parts {
+			part { name: "bg";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 240 255;
+					max: 240 255;
+					fixed: 1 1;
+					align: 0.5 0.5;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 255 255 255 0;  // white
+				}
+			}
+			part { name: "bg_rect";
+				mouse_events: 0;
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					fixed: 1 1;
+					align: 0.5 0.5;
+					rel1 {relative: 0.0 0.0; to: bg;}
+					rel2 {relative: 1.0 1.0; to: bg;}
+					color: 255 255 255 255;  // white
+				}
+				description {
+					state: "pressed" 0.0;
+					inherit: "default" 0.0;
+					rel1 {relative: 0.01 0.01; to: bg;}
+					rel2 {relative: 0.99 0.99; to: bg;}
+					color: 255 127 0 150;
+				}
+			}
+			part { name: "bg_base_edge";
+				type: IMAGE;
+				mouse_events: 0;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					fixed: 1 1;
+					align: 0.5 0.5;
+					rel1 {relative: 0.0 0.0; to: bg_rect;}
+					rel2 {relative: 1.0 1.0; to: bg_rect;}
+					image.normal: "browser-view-images/most-visited-sites/bg-base.png";
+				}
+			}
+			part {
+				name: "elm.swallow.tile";
+				type: SWALLOW;
+				scale: 1;
+				mouse_events: 1;
+				description {
+					state: "default" 0.0;
+					align: 0.5 0.5;
+					rel1 {relative: 0.0 0.0; to: bg_base_edge;}
+					rel2 {relative: 1.0 1.0; to: bg_base_edge;}
+					color: 255 255 255 0;
+				}
+			}
+			part { name: "empty_slot";
+				type: IMAGE;
+				mouse_events: 0;
+				repeat_events: 0;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 96 96;
+					max: 96 96;
+					fixed: 1 1;
+					align: 0.5 0.5;
+					rel1 {relative: 0.0 0.0; to: bg_base_edge;}
+					rel2 {relative: 1.0 1.0; to: bg_base_edge;}
+					image.normal: "browser-view-images/most-visited-sites/button-add.png";
+				}
+			}
+		}
+		programs {
+			program { name: "tile_pressed";
+				signal: "tile_pressed";
+				action: STATE_SET "pressed" 0.0;
+				target: "bg_rect";
+			}
+			program { name: "tile_released";
+				signal: "tile_released";
+				action: STATE_SET "default" 0.0;
+				target: "bg_rect";
+			}
+		}
+	}
+#endif
+
+	group {
+		name: "guide_text";
+		images {
+			image: "browser-view-images/most-visited-sites/I01_popup_bg.png" COMP;
+			image: "browser-view-images/most-visited-sites/I01_popup_bottom_bg.png" COMP;
+		}
+		parts {
+			part {
+				name: "bg";
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					color: 0 0 0 128;
+					rel1 { relative: 0.0 0.0; to: "guide_text_bg"; }
+					rel2 { relative: 1.02 1.15; to: "option_bg"; }
+				}
+			}
+			part {
+				name: "guide_text_bg";
+				type: IMAGE;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					fixed: 1 1;
+					rel1 { relative: -0.05 -0.1; to: "elm.swallow.guide_text_label"; }
+					rel2 { relative: 1.05 1.15; to: "elm.swallow.guide_text_label"; }
+					image {
+						normal: "browser-view-images/most-visited-sites/I01_popup_bg.png";
+						border: 11 11 11 11;
+						border_scale: 1;
+					}
+				}
+			}
+			part {
+				name: "elm.swallow.guide_text_label";
+				type: SWALLOW;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					fixed: 1 1;
+					align: 0.5 0.0;
+					rel1 { relative: 0.05 0.1; }
+					rel2 { relative: 0.95 0.1; }
+				}
+			}
+			part {
+				name: "option_bg";
+				type: IMAGE;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 0 90;
+					align: 0.0 0.0;
+					fixed: 0 1;
+					rel1 { relative: 0.016 1.05; to_y: "elm.swallow.guide_text_label"; }
+					rel2 { relative: 0.982 1.0; to_y: "elm.swallow.guide_text_label"; }
+					image {
+						normal: "browser-view-images/most-visited-sites/I01_popup_bottom_bg.png";
+						border: 3 3 2 3;
+						border_scale: 1;
+					}
+				}
+			}
+			part {
+				name: "elm.swallow.never_show_check_box";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 45 45;
+					max: 45 45;
+					fixed: 1 1;
+					align: 0.5 0.5;
+					rel1 { relative: 0.0 0.0; to: "option_bg"; }
+					rel2 { relative: 0.15 1.0; to: "option_bg"; }
+				}
+			}
+			part {
+				name: "elm.swallow.never_show_text";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					fixed: 1 1;
+					align: 0.0 0.0;
+					rel1 { relative: 1.0 0.2; to_x: "elm.swallow.never_show_check_box"; to_y: "elm.swallow.never_show_check_box"; }
+					rel2 { relative: 0.0 1.0; to_x: "elm.swallow.ok_button"; to_y: "elm.swallow.never_show_check_box"; }
+				}
+			}
+			part {
+				name: "elm.swallow.never_show_text_click_area";
+				type: RECT;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.never_show_text"; }
+					rel2 { relative: 0.5 1.0; to: "elm.swallow.never_show_text"; }
+					color: 0 0 0 0;
+				}
+			}
+			part {
+				name: "elm.swallow.ok_button";
+				type: SWALLOW;
+				mouse_events: 1;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 75 0;
+					fixed: 1 0;
+					align: 1.0 0.5;
+					rel1 { relative: 0.98 0.2; to: "option_bg"; }
+					rel2 { relative: 0.98 0.8; to: "option_bg"; }
+				}
+			}
+		}
+	}
+	group {
+		name: "elm/gengrid/item/default_grid/browser/most_visited_sites/default";
+		data.item: "contents" "elm.swallow.icon elm.swallow.end";
+
+		parts {
+			part {
+				name: "bg";
+				type: RECT;
+				description {
+					state: "default" 0.0;
+					color: 0 0 0 0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+			}
+			}
+			part {
+				name: "left_top_padding";
+				type: RECT;
+				description {
+					state: "default" 0.0;
+					min: 8 15;
+					align: 0.0 0.0;
+					color: 0 0 0 0;
+					rel1 { relative: 0.0 0.0; to: "bg"; }
+					rel2 { relative: 0.0 0.0; to: "bg"; }
+				}
+			}
+			part {
+				name: "right_bottom_padding";
+				type: RECT;
+				description {
+					state: "default" 0.0;
+					min: 7 0;
+					color: 0 0 0 0;
+					align: 1.0 1.0;
+					rel1 { relative: 1.0 1.0; to: "bg"; }
+					rel2 { relative: 1.0 1.0; to: "bg"; }
+				}
+			}
+			part {
+				name: "area_bg";
+				type: RECT;
+				description {
+					state: "default" 0.0;
+					color: 0 0 0 0;
+					rel1 { relative: 1.0 1.0; to_x: "left_top_padding"; to_y: "left_top_padding";}
+					rel2 { relative: 0.0 0.0; to_x: "right_bottom_padding"; to_y: "right_bottom_padding";}
+				}
+				description {
+					state: "enabled" 0.0;
+					inherit: "default" 0.0;
+					rel1.offset: -6 -6;
+					rel2.offset: 5 5;
+				}
+			}
+			part {
+				name: "elm.swallow.icon";
+				type: SWALLOW;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; offset: 1 1; to: "area_bg"; }
+					rel2 { relative: 1.0 1.0; offset: -2 -2; to: "area_bg"; }
+				}
+			}
+
+			part {
+				name: "elm.swallow.end";
+				type: SWALLOW;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; to: "elm.swallow.icon"; }
+					rel2 { relative: 1.0 1.0; to: "elm.swallow.icon"; }
+				}
+			}
+			part {
+				name: "reorder_bg";
+				type: RECT;
+				description {
+					state: "default" 0.0;
+					color: 0 0 0 0;
+					visible: 0;
+					align: 0.0 0.0;
+					rel1 { relative: 0.075 0.075; to: "area_bg"; }
+					rel2 { relative: 0.925 0.925; to: "area_bg"; }
+				}
+				description {
+					state: "enabled" 0.0;
+					inherit: "default" 0.0;
+					color: 0 0 0 128;
+					visible: 1;
+				}
+			}
+		}
+		programs {
+			program {
+				name:    "go_reorder_disabled";
+				signal:  "elm,state,reorder,disabled";
+				source:  "elm";
+				action:  STATE_SET "default" 0.0;
+				target:  "area_bg";
+				target:  "reorder_bg";
+				transition: ACCELERATE 0.3;
+			}
+			program {
+				name:    "go_reorder_enabled";
+				signal:  "elm,state,reorder,enabled";
+				source:  "elm";
+				action:  STATE_SET "enabled" 0.0;
+				target:  "area_bg";
+				target:  "reorder_bg";
+				transition: ACCELERATE 0.3;
+			}
+		}
+	}
+}

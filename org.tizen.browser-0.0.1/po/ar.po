@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "جاري الإخطار..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "جاري المعالجة..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "تمت المعالجة"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "إ. محاولة"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "مدير التحميل"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "الموصف غير صالح"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "غير قادر على فتح ملف"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "تنزيل؟"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "محدد"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "تم إلغاء التنزيل"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "المتابعة من آخر صفحة"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "الصفحة"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "القاموس"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "حول المتصفح"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "النوع"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "المصدر"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "عرض الصور"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "تنزيل"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "أدخل الموقع الإلكتروني"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "المجلد"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "الصفحة الرئيسية"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "عرض أفقي"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "لا يوجد علامات"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "لا توجد نتائج"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "اختياري"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "تشغيل فلاش"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "تشغيل JAVAscript"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "الاسم الشائع:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "الوحدة التابعة للمؤسسة:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "المؤسسة:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "عميل مستخدم"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "الأولويات"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "خطأ في التفعيل"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "‏‏قيد التشغيل بالفعل..."
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "غير مطبق"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "فشل التوثيق"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "احفظ فوق؟"
+
+msgid "IDS_BR_POP_URL"
+msgstr "الموقع"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "المحفوظات"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "قائمة التحميل"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "تم التثبيت بالفعل"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "قيد الإشعار..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "محتوى غير مدعوم"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "خطأ: يتعذر تحليل اسم المضيف"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "يتعذر الوصول إلى الوكيل"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "لا توجد شهادات SSL"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "حجم الملف يتجاوز أقصى حد مسموح للتحميل"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "إدخال الاسم:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "التالي"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "مجلد جديد"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "إضافة لإش.مرجعية"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "إطار جديد"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "الموقع"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "الموقع:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "عنوان URL غير متاح"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "عنوان URL %s غير متاح. قد يكون معطلا بشكل مؤقت أو لم يعد مستخدما"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "المجلد"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "اسم المجلد"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "اسم الملف قيد الاستخدام بالفعل"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "لا يوجد عنوان"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "الإطار المتعدد"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "لا توجد محفوظات"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "أضف للعلامات"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "تعديل العلامة"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "اسم المجلد:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "اختيار الكل"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "مدير التحميل"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "إضافة موجز RSS"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "إضافة RSS"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "الضبط"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "أدخل الموقع الالكتروني"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "كلمة المرور"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "عنوان غير صحيح"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "موجود بالفعل في قائمة التنزيلات"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "أدخل اسم المجلد"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "لا توجد صفحة"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "لا توجد صفحات سابقة"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "لا توجد صفحات تالية"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "لا توجد صفحة لإعادة التحميل"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "مطلوب التوثيق"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "العلامة موجودة بالفعل"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "اسم المجلد موجود مسبقا"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "يتعذر حفظ العنصر. المساحة غير كافية في ذاكرة التخزين المؤقت"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "تحديد العناصر"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "معلومات الشهادة"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "مشاركة عبر البريد الإلكتروني"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "مشاركة عبر الرسائل"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "مشاركة عبر"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "يتعذر بدء تشغيل المستعرض"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "لا يوجد عنوان"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "عدم الإظهار مرة أخرى"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "اسم الملف فارغ"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "إنشاء مجلد"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "محدد"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "مشاركة"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "الصفحات التي تمت زيارتها مؤخرا"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "الشاشة"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "ملائمة للعرض"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "مقروء"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "الخصوصية"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "ملفات تعريف الارتباط"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "قبول الكل"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "إسأل أولا"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "ملفات تعريف الارتباط"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "قبول ملفات تعريف الارتباط"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "قبول ملفات تعريف الارتباط"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "قبول الكل"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "رفض الكل"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "حفظ تلقائي للمعرف/كلمة المرور"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "مفعل"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "غير مفعل"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "ذاكرة التخزين الافتراضية"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "بحث"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "حفظ الصورة"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "البطارية منخفضة الشحن. يتعذر تشغيل المستعرض"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "البحث عن الكلمة"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "إضافة إلى الشاشة الرئيسية"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "إضافة إلى الشاشة الرئيسية"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "المواقع الأكثر زيارة"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "مشاركة عبر Facebook"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "مشاركة عبر Twitter"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "تغيير العرض"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "تحديد عناوين URL"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "يحاول هذا الموقع فتح إطار منبثق"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "منع الإطارات المنبثقة"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "قارئ النص"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "نسخ الصورة"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "حفظ الصورة"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "تشغيل"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "اختيار"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "الانتقال إلى السابق"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "الانتقال إلى التالي"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "إيقاف"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "إعادة التحميل"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "لصق"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "المزيد"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "فشل"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "فتح في إطار جديد"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "عرض قائمة التنزيل"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "نسخ الموقع الإلكتروني"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "نسخ الموقع الالكتروني إلى"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "عرض الصور"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "إعدادات الخصوصية"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "مسح الذاكرة المؤقتة"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "مسح السجل"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "تفعيل الوظائف الإضافية"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "تحديد محرك بحث"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "حذف اسم المستخدم/كلمة المرور المحفوظ"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "مسح كافة بيانات ملفات الارتباط"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "أعلى"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "حجم الخط"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "تم المسح"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "العرض الافتراضي"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "إعدادات محتوى الصفحة"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "حساس لحالة الأحرف"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "توصيل"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "قائمة المكونات الإضافية"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "التخزين المحلي"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "حذف بيانات الاستعراض"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "جاري التحميل ..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "جاري التحميل ..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "أدخل الموقع الإلكتروني"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "قفل"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "إلغاء القفل"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "تعديل"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "ص لأعلى"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "ص لأسفل"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "وضع المطور"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "خالي"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "الشهادات"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "العلامات"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "أدخل الاسم"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "الاسم"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "إرسال بالبريد الإلكتروني"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "إرسال عبر رسالة"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "الضبط"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "اسم المستخدم"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "موجود مسبقا"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "تم الحفظ"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "الذاكرة لا تكفي"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "خطأ في الشبكة"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "اسأل دائما"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "بطاقة الذاكرة"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "الهاتف"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "لا توجد حسابات"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "خطأ في الصفحة"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "صفحة الويب غير متاحة مؤقتا"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "صفحة الويب‬ غير متاحة"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "فشل تحميل إطارات"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "حدث الخطأ التالي أثناء استرداد صفحة الويب %s."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "يتعذر استرداد صفحة الويب. (ربما يوجد عطل مؤقت بصفحة الويب أو تم نقلها إلى عنوان URL جديد)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "السبب الأرجح موضح أدناه"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "لم يتم إنشاء اتصال الشبكة بطريقة عادية"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "تحقق من عنوان URL لصفحة الويب"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "إعادة تحميل صفحة الويب لاحقا"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "علامة"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "العنوان"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "أدخل العنوان"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "المجلدات"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "السماح"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "رفض"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "خطأ بالأمان: شهادة خادم غير موثوقة"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "تم تحديد %d عناصر"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "تم تحديد عنصر واحد"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "إضافة إلى مقطع ويب"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "تم إنشاء اختصارا"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "تحديد كلمة"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "البحث في الصفحة"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "البحث في الصفحة"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "الإنترنت"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "اللائحة"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "اختيار الكل"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "رسالة"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "بريد إلكتروني"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "إلغاء"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "نسخ عنوان الارتباط"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "عرض الصور"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "فتح في صفحة جديدة"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "فتح"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "اختيار النص فعال"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "العلامات"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "تعديل"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "مسح"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "مسح"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "إلغاء"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "تعديل العلامة"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "الرسائل"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "بريد إلكتروني"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "تعديل"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "مسح"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "أضف للعلامات"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "حجم الخط"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "كبير"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "صغير"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "السرعة"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "عنوان التفويض"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "منفذ الوكيل"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "تمت"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "النسخة"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "تثبيت"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "الصفحة الحالية"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "أدخل اسم المجلد"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "أدخل اسم الإشارة المرجعية"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "عدم السؤال مرة أخرى"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "لم يتم العثور على URL"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "يطالب %s بتحديد موقعك"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "تذكر الأفضلية"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "عرض الصور"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "عرض تحذيرات الأمان"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "تذكر كلمات المرور"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "مسح كلمات المرور"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "حذف جميع كلمات المرور المحفوظة؟"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "حذف جميع ملفات التعريف. متابعة؟"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "تذكر بيانات النموذج"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "إعادة الضبط إلى الافتراضي"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "الضبط إلى جميع الإعدادات الافتراضية. متابعة؟"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "مسح الذاكرة المؤقتة؟"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "هل تريد مسح كل السجل؟"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "سيتم مسح محفوظات تنقل المستعرض"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "التشغيل دوما"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "تمكين الموقع"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "إلغاء إمكانية الوصول إلى الموقع"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "غير قادر على إضافة علامة. وصل إلى الحد الأقصى لعدد العلامات"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "هل تريد حذف معلومات الوصول إلى موقع الويب؟"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "طباعة"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "ابحث عن عنوان URL أو أدخله"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "تلقائي"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "يدوي"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "غير هامة"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "وسط"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "صفحة فارغة"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "فشل التثبيت"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "إعدادات موقع الويب"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "مرتفعة"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "حفظ الارتباط"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "مشاركة الارتباط"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "الخصوصية والأمان"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "حفظ للقراءة عند عدم الاتصال"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "الموقع"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "بيانات النموذج"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "مسح بيانات النموذج"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "مسح كافة كلمات المرور المحفوظة"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "مضافة إلى الإشارات المرجعية"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "تمت الإزالة من الإشارات المرجعية"
+

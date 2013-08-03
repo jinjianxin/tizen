@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "正在通知..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "正在處理..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "處理完成"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "重試"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "下載管理員"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "無效描述項"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "無法開啟檔案"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "要下載嗎？"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "已選擇"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "下載已取消"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "從上一頁繼續"
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "頁面"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "字典"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "關於瀏覽器"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "類型"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "簽發者"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "顯示圖像"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "下載"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "輸入網址"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "資料夾"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "首頁"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "橫向檢視"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "無書籤"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "找不到結果"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "可選"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "執行 Flash"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "執行 JavaScript"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "一般名稱："
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "機構單位："
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "機構："
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "用戶代理"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "偏好設定"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "啟動錯誤"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "已在執行..."
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "無執行"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "認證失敗"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "要覆蓋嗎？"
+
+msgid "IDS_BR_POP_URL"
+msgstr "網址"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "歷程記錄"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "下載清單"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "已安裝"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "正在通知..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "不支援的內容"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "錯誤：無法分辨主機名稱"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "無法連接至代理"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "無 SSL 證書"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "檔案大小超出最大上載限制"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "輸入名稱："
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "下一個"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "新資料夾"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "加到書籤"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "新視窗"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "網址"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "網址："
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "網址不可用"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "網址 %s 不可用。可能暫時無法使用或不能再使用"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "資料夾"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "資料夾名稱"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "資料夾名稱已被使用"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "無標題"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "多個視窗"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "無歷史記錄"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "加到書籤"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "編輯書籤"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "資料夾名稱："
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "選擇全部"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "下載管理員"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "加入 RSS Feed"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "加入 RSS Feed"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "設定"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "輸入網址"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "密碼"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "位址無效"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "已存在於下載清單中"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "輸入資料夾名稱"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "無頁面"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "無上一頁"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "無下一頁"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "沒有要重新載入的頁面"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "需要認證"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "書籤已存在"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "資料夾名稱已存在"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "無法儲存對象。緩存空間不足"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "選擇項目"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "證書資料"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "透過電子郵件分享"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "透過訊息共享"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "分享透過"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "無法啟動瀏覽器"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "無地址"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "永不再顯示"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "無檔案名稱"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "建立資料夾"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "已選擇"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "分享"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "最近瀏覽的頁面"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "顯示"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "符合寬度"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "可讀取"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "私隱"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Cookies"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "全部接受"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "提示"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Cookies"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "接受 Cookies"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "接受 Cookies"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "全部接受"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "全部拒絕"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "自動儲存ID /密碼"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "開"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "關閉"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "預設儲存裝置"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "搜尋"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "儲存圖像"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "電量不足。無法執行瀏覽器"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "尋找字詞"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "加入至主螢幕"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "加入至主螢幕"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "最常瀏覽網站"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "透過 Facebook 分享"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "透過 Twitter 分享"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "更改檢視"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "選擇網址"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "此網站正嘗試開啟一個彈出視窗"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "封鎖彈出視窗"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "文字閱讀器"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "複製圖像"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "儲存圖像"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "播放"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "選擇"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "轉至上一頁"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "轉至下一頁"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "停止"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "重新載入"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "貼上"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "更多"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "失敗"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "在新視窗開啟"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "檢視下載清單"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "複製網址"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "複製網址到"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "檢視圖像"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "私隱權設定"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "清除緩存"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "清除歷程記錄"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "啟用外掛程式"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "選擇搜尋引擎"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "刪除已儲存的用戶名/密碼"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "清除全部 Cookie 數據"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "上"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "字體大小"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "已刪除"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "預設檢視"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "頁面內容設定"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "符合大小寫"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "外掛"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "外掛程式清單"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "本機儲存空間"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "刪除瀏覽數據"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "正在載入..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "正在載入..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "輸入網址"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "鎖定"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "解鎖"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "修改"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "向上翻頁"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "向下翻頁"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "開發人員模式"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "空白"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "證書"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "書籤"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "輸入名稱"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "名稱"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "透過電子郵件發送"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "透過訊息發送"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "設定"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "用戶名稱"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "已存在"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "已儲存"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "記憶體不足"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "網絡故障"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "總是詢問"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "記憶卡"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "電話"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "無帳戶"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "錯誤頁面"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "網頁暫時不可用"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "網頁不可用"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "無法載入幀"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "取得網頁 %s 時，發生以下錯誤"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "無法取得網頁。（網頁可能暫時關閉或遷移至新的網址）"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "可能導致此問題的原因如下"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "網絡連接未正常建立"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "檢查網頁網址"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "稍後重新載入網頁"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "書籤"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "標題"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "輸入標題"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "資料夾"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "允許"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "拒絕"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "安全性錯誤：不受信任的伺服器證書"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "已選擇 %d 個項目"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "已選擇 1 個項目"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "加到網上短片"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "捷徑已建立"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "擇擇字詞"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "在頁面上尋找"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "在頁面上尋找"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "互聯網"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "清單"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "選擇全部"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "訊息"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "電子郵件"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "取消"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "複製連結網址"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "檢視圖像"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "在新頁面開啟"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "開啟"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "文字選擇開"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "書籤"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "編輯"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "刪除"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "刪除"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "取消"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "編輯書籤"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "訊息"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "電子郵件"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "編輯"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "刪除"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "加到書籤"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "字體大小"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "大"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "小"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "速度"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "代理伺服器位址"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "代理伺服器端口"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "完成"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "版本"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "安裝"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "目前頁面"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "輸入資料夾名稱"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "輸入書籤名稱"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "不再詢問"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "找不到網址"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s請求你的位置"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "記住偏好"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "顯示圖像"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "顯示安全性警告"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "記住密碼"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "清除密碼"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "刪除所有儲存的密碼嗎?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "刪除全部 Cookies。要繼續嗎？"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "記住表格數據"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "重設為預設"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "將全部設定值設定為預設值。要繼續嗎？"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "要清除緩存嗎？"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "要清除全部歷程記錄嗎？"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "瀏覽器導覽歷程記錄將被清除"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "總是開啟"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "啟用定位功能"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "清除位置資訊存取權"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "無法加入書籤。書籤數目已達上限"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "刪除網站位置存取資訊嗎？"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "列印"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "搜尋或輸入網址"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "自動"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "手動"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "低"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "中"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "空白頁面"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "安裝失敗"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "網址設定"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "高"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "儲存連結"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "分享連結"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "私隱和安全"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "儲存以供離線閱讀"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "位置"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "表格數據"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "清除表格數據"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "清除全部已儲存的密碼"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "已加到書籤"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "已從書籤中移除"
+

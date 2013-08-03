@@ -1,0 +1,179 @@
+/*
+ * Copyright 2012  Samsung Electronics Co., Ltd
+ *
+ * Licensed under the Flora License, Version 1.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.tizenopensource.org/license
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ */
+
+#include "browser-macro.edc"
+
+collections {
+	group {
+		name: "edit_homepage_view";
+
+		parts {
+			part {
+	      		name: "bg";
+				mouse_events: 0;
+				type: RECT;
+				description
+				{
+					state: "default" 0.0;
+					visible: 1;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 0 0 0 0;
+				}
+			}
+			part {
+				name: "elm.swallow.entry";
+				type: SWALLOW;
+				mouse_events: 1;
+				description {
+					state: "default" 0.0;
+					visible: 1;
+					min: 0 80;
+					fixed: 0 1;
+					align: 0.0 0.0;
+					rel1 { relative: 0.0 0.0; to: bg; offset: 20 0; }
+					rel2 { relative: 1.0 0.0; to: bg; offset: -20 0; }
+				}
+			}
+		}
+	}
+
+	group { name: "elm/genlist/item/browser-settings/select_all/default";
+      alias: "elm/genlist/item_odd/browser-settings/select_all/default";
+      alias: "elm/genlist/item_compress/browser-settings/select_all/default";
+      alias: "elm/genlist/item_compress_odd/browser-settings/select_all/default";
+
+      data.item: "stacking" "above";
+      data.item: "selectraise" "on";
+      data.item: "texts" "elm.text";
+      data.item: "contents" "elm.swallow.icon elm.swallow.end";
+      parts {
+         BEAT_GENLIST_PART_BASE( 120 )
+
+         part { name: "bg";
+            type: RECT;
+            clip_to: "disclip";
+            mouse_events: 0;
+            description { state: "default" 0.0;
+               color: 52 74 85 255;
+            }
+         }
+
+         BEAT_GENLIST_PART_BG_IMAGE
+         BEAT_GENLIST_PART_BOTTOM_LINE
+         BEAT_GENLIST_PART_PADDING_LEFT( 15 )
+         BEAT_GENLIST_PART_PADDING_RIGHT( 22 )
+         part { name: "elm.swallow.end";
+            clip_to: "disclip";
+            type: SWALLOW;
+            scale: 1;
+            description { state: "default" 0.0;
+               fixed: 1 0;
+               align: 1.0 0.5;
+               rel1.to_x: "elm.padding.right";
+               rel2 {
+                  relative: 0.0  1.0;
+                  to_x: "elm.padding.right";
+               }
+            }
+         }
+         part { name: "elm.text";
+            clip_to: "disclip";
+            type: TEXT;
+            mouse_events: 0;
+            scale: 1;
+            description { state: "default" 0.0;
+               rel1 {
+                  relative: 1.0  0.0;
+                  offset: 30 0;
+                  to_x: "elm.swallow.icon";
+               }
+               rel2 {
+                  to_x: "elm.swallow.end";
+                  relative: 0.0  1.0;
+                  offset:   30   0;
+               }
+               color: 255 255 255 255;
+               text {
+                  font: "SLP:style=Roman";
+                  size: 48;
+                  min: 0 1;
+                  align: 0.0 0.5;
+               }
+            }
+            description { state: "selected" 0.0;
+               inherit: "default" 0.0;
+               color: 255 255 255 255;
+            }
+         }
+         part { name: "elm.swallow.icon";
+            clip_to: "disclip";
+            type: SWALLOW;
+            scale: 1;
+            description { state: "default" 0.0;
+            align: 0.0 0.5;
+               fixed: 1 1;
+               visible:1;
+               min: 63 63;
+               max: 63 63;
+               rel1 {
+                  relative: 1.0 0.0;
+                  to_x: "elm.padding.left";
+               }
+               rel2.to_x: "elm.padding.left";
+           }
+         }
+
+         BEAT_GENLIST_SELECT_ALL_PART_DISCLIP
+      }
+      programs {
+         // signal: elm,state,%s,active
+         //   a "check" item named %s went active
+         // signal: elm,state,%s,passive
+         //   a "check" item named %s went passive
+         // default is passive
+         program { name: "go_active";
+            signal: "elm,state,selected";
+            source: "elm";
+            action: STATE_SET "selected" 0.0;
+            target: "bg_image";
+            target: "elm.text";
+         }
+         program { name: "go_passive";
+            signal: "elm,state,unselected";
+            source: "elm";
+            action: STATE_SET "default" 0.0;
+            target: "bg_image";
+            target: "elm.text";
+            transition: LINEAR 0.1;
+         }
+         program { name: "go_disabled";
+            signal: "elm,state,disabled";
+            source: "elm";
+            action: STATE_SET "disabled" 0.0;
+            target: "disclip";
+         }
+         program { name: "go_enabled";
+            signal: "elm,state,enabled";
+            source: "elm";
+            action: STATE_SET "default" 0.0;
+            target: "disclip";
+         }
+      }
+   }
+}
+

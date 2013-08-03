@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Se notifică..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Se procesează..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Procesare terminată"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Reîncerc."
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Manager descărcare"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "JAD invalid"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Imposibil de deschis fişierul"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Descărcaţi?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Selectat"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Descărcare anulată"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Contin. cu ultim. pag."
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Pagină"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Dicţionar"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "Despre navigator"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Tip"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Emitent"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Afişare imagini"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Descărcare"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "Introduceţi URL"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Folder"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Pagină de pornire"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Peisaj"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Niciun marcaj"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Nu au fost găsite rezultate"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "Opţional"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Executare Flash"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "Executare JavaScript"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Nume comun:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Unitate organizaţională:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Organizaţie:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "Agent utilizator"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Preferinţe"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Eroare de activare"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Deja se execută"
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Neimplementat"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Autentificare eşuată"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Suprascrieţi?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Istoric"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Descărcare listă"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Deja instalat"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Se notifică..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Conţinut neacceptat"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Eroare: imposibil de rezolvat numele gazdei"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Imposibil de accesat proxy"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "Nici un certificat SSL"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Dimensiunea fişierului depăşeşte limita maximă de încărcare"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Introducere nume:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Următor"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Folder nou"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Adăugare la Marcaje"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Fereastră nouă"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URL nedisponibil"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "URL-ul %s nu este disponibil. Poate fi temporar scos din funcţiune sau nu mai este utilizat"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Folder"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Nume director"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Nume folder deja în uz"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Nici un titlu"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Feres. multiple"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Niciun istoric"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Adăugare la Marcaje"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Editare marcaj"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Nume folder:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Selectare toate"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Manager descărcare"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "Adăugare alimentare RSS"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "Adăugare alimentări RSS"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Setări"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "Introduceţi URL"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Parolă"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Adresă incorectă"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Există deja în lista de descărcări"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Introduceţi numele folderului"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Nicio pagină"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Nici o pagină înapoi"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Nici o pagină înainte"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Nicio pagină de reîncărcat"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Se solicită autentificare"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Marcajul există deja"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Numele directorului există deja"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Imposibil de salvat obiectul. Spaţiu insuficient în cache"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Selectare elemente"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Informaţii certificat"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Partajare prin e-mail"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Partajare prin Mesaje"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Partajare prin"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Imposibil de pornit Navigatorul"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Nicio adresă"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Nu se mai afişează niciodată"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Fişier fără nume"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Creare folder"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Selectat"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Partajare"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Pagini vizitate recent"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Ecran"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Încadrare pe lăţime"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Lizibil"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Confidenţialitate"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Module cookie"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Acceptare toate"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Confirmare"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Module cookie"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Acceptare module cookie"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Acceptare module cookie"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Acceptare toate"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Respingere toate"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "Salvare automată ID/parolă"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Pornit"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Oprit"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Stocare implicită"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Căutare"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Salvare imagine"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Baterie descărcată. Imposibil de executat navigatorul"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Găsire cuvânt"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Adăugare la Ecranul de pornire"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Adăug. la ecran. de pornire"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Site-urile cele mai vizitate"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Partajare prin Facebook"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Partajare prin Twitter"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Schimb. vizual."
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "Selectaţi URL-urile"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "Site-ul încearcă să deschidă o fereastră de tip pop-up"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Blocare ferestre pop-up"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Cititor de text"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Copiere imagine"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Salvare imagine"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Redare"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Selectare"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Înapoi"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Înainte"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Oprire"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Reîncărcare"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Lipire"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Mai multe"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Nereuşit"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Desc. în fer. nouă"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Vizualizare listă descărcări"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "Copiere URL"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "Trimitere URL"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Viz. imagine"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Setări confidenţialitate"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Ştergere cache"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Ştergere istoric"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Activare plug-in-uri"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Selectare motor de căutare"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Ştergere ID/parolă salvate"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Ştergere integrală date module cookie"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Sus"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Dimensiune font"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Şters"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Vizualizare implicită"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Setări conţinut pagină"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "Diferenţiere între literele mari şi mici"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Plug in"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Listă inserturi"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Stocare locală"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Ştergere date de navigare"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Încărcare..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Încărcare..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "Introduceţi URL"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Blocare"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Deblocare"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Modificare"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Pag. în sus"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Pag. în jos"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Mod dezvoltator"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Liber"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Certificate"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Marcaje"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Introduceţi numele"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Nume"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Trimite prin e-mail"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Trimitere prin mesaj"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Setări"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Nume utilizator"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Există deja"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Salvat"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Memorie plină"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Eroare reţea"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Se întreabă întotdeauna"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Cartelă de memorie"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Telefon"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Nu există conturi"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Pagină de eroare"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Pagină Web temporar indisponibilă"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Pagină Web indisponibilă"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Încărcarea cadrelor nu a reuşit"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "S-a produs următoarea eroare la preluarea paginii Web %s."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Imposibil de preluat pagina Web. (Este posibil ca pagina Web să fie temporar dezactivată sau să se fi mutat la un URL nou)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Cauza cea mai probabilă este dată mai jos"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Conexiunea de reţea nu a fost stabilită în mod normal"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Verificare URL pagină Web"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Reîncărcaţi pagina Web ulterior"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Marcaj"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Titlu"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Introduceţi titlul"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Directoare"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Se permite"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Refuzare"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Eroare securitate: Certificat server neautorizat"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "%d elemente selectate"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "1 element selectat"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Adăugare la clip Web"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Comanda rapidă a fost creată"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Selectaţi un cuvânt"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Găsire în pag."
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Găsire în pag."
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Listă"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Selectare toate"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Mesaj"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "Email"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Anulare"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "Cop. link URL"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Viz. imagine"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Desc. în pag. nouă"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Deschidere"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Selecţie text activă"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Marcaje"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Editare"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Şter."
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Ştergere"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Anulare"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Editare marcaj"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Mesaje"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "Email"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Editare"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Ştergere"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Adăugare la Marcaje"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Dimensiune font"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Mare"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Mic"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Viteză"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Adresă proxy"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Port proxy"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Gata"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Versiune"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Instalare"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Pagină actuală"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Introduceţi numele folderului"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Introduceţi numele marcajului"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Nu întreba din nou"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "URL negăsit"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s solicită locaţia dvs."
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Reţinere preferinţe"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Afişare imagini"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Afişare avertismente de securitate"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Memorare parole"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Ştergere parole"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Ştergeţi toate parolele salvate?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Se şterg toate modulele cookie. Continuaţi?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Memorare date formular"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Reiniţializare la valori implicite"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Toate setările sunt la valoarea implicită. Continuaţi?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Golire cache?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Ştergeţi întregul istoric?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Istoricul de navigare va fi şters"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Activat întotdeauna"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Activare locaţie"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Autorizare acces la locaţie"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Imposibil de adăugat marcajul. S-a atins numărul maxim de marcaje"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Ştergeţi informaţiile privind accesul la locaţie al site-ului Web?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Imprimare"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "Căutaţi sau introduceţi adresa URL"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Automat"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Manual"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Scăzută"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Mediu"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Pagină goală"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Instalarea nu a reuºit"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Setări pentru site-uri web"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Ridicată"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Salvare link"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Partajare link"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Confidenţialitate şi securitate"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Salvare pentru citire offline"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Locaţie"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Date formular"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Ştergere date formular"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Ştergere integrală parole salvate"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Adăugat la marcaje"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Eliminat din marcaje"
+

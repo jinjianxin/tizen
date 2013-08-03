@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "Известяване..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "Обработване..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "Обработката е завършена"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "Отново"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "Диспечер на изтеглянето"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "Невалиден дескриптор"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "Файлът не може да се отвори"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "Изтегляне?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "Избран"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "Изтеглянето отменено"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "Продължи от посл. стр."
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "Страница"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "Речник"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "За браузъра"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "Тип"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "Издал"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "Покажи изображения"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "Изтегляне"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "Въведете URL"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "Папка"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "Начална страница"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "Пейзажно"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "Няма показалци"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "Няма намерени резултати"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "По желание"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Изпълнение на Flash"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "Изпълнение на JavaScript"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "Общо име:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "Организационна единица:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "Организация:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "Потребителски агент"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "Предпочитания"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "Грешка при активирането"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "Вече се изпълнява"
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "Не е реализирано"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "Неуспешно удостоверяване"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "Презапис?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "Хронология"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "Списък за изтегляне"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "Вече е инсталирано"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "Известяване..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "Неподдържано съдържание"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "Грешка: името на хоста не може да се преобразува"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "Не може да се достигне до прокси сървъра"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "Няма SSL сертификати"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "Размерът на файла надхвърля максималния размер за качване"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "Въведете име:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "Следващ"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "Ръчно"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "Добави към Показалци"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "Нов прозорец"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URL не е достъпен"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "URL %s не е достъпен. Вероятно временно е спрян или вече не се използва"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "Папка"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "Име на папка"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "Вече има папка с това име"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "Няма заглавие"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "Множ. прозорец"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "Няма хронологии"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "Добави към маркери"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "Редактиране на показалец"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "Име на папка:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "Избери всички"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "Диспечер на изтеглянето"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "Добави RSS емисия"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "Добавяне на RSS емисии"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "Настройки"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "Въведете URL"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "Парола"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "Невалиден адрес"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "Вече съществува в списъка за изтегляне"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "Въведете име на папка"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "Няма страница"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "Назад няма страници"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "Напред няма страници"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "Няма страница за презареждане"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "Изисква се удостоверяване"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "Показалецът вече съществува"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "Името на папка вече същест- вува"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "Обектът не може да се запамети. Няма достатъчно място в кеша"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "Изберете елементи"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "Информация за сертификат"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "Споделяне през email"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "Споделяне чрез Съобщения"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "Споделяне чрез"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "Не може да се стартира браузърът"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "Няма адрес"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "Не показвай повече"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "Празно име на файл"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "Създай папка"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "Избран"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "Споделям"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "Наскоро посещавани страници"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "Дисплей"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "Побиране в ширината"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "Четима"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "Поверителност"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "Бисквитки"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "Приемане на всички"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "Напомняне"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "Бисквитки"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "Приемане на бисквитки"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "Приемане на бисквитки"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "Приемане на всички"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "Отхвърляне на всички"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "ИД/парола за автоматично запаметяване"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "Включено"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "Изключено"
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "Основно съхранение"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "Търси"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "Запис на изображение"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "Изтощена батерия. Не може да се пусне браузъра"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "Търсене на дума"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Добавяне към началния екран"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "Добавяне към началния екран"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "Най-посещавани сайтове"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "Споделяне чрез Facebook"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "Споделяне чрез Twitter"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "Смяна на изглед"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "Избрани URL"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "Този сайт се опитва да отвори изскачащ прозорец"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "Блок. изскачащи прозорци"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "Четец на текст"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "Копиране на изображение"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "Запис на изображение"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "Изпълняване"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "Избор"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "Връщане назад"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "Отиване напред"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "Спри"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "Презареждане"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "Поставяне"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "Още"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "Неуспешно"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "Отв. в нов прозорец"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "Преглед списък на изтеглени"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "Копиране на URL"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "Копиране на URL в"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "Покажи изображ."
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "Настройки за поверителност"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "Изчистване на кеша / Изчисти кеша"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "Изтриване на хронология"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "Активиране на добавките"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "Избор на машина за търсене"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "Изтрий запаметените ИД/парола"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "Изчистване на всички данни от бисквитки"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "Нагоре"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "Размер на шрифта"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "Изтрито"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "Изглед по подразбиране"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "Настр.съдържание страници"
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "С разлика между главни и малки букви"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "Включване"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "Списък на добавките"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "Локално съхранение"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "Изтрий данните на браузъра"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "Зареждане"
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "Зареждане"
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "Въведете URL"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "Заключване"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "Отключване"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "Промяна"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "Стр. нагоре"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "Стр. надолу"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "Режим за разработчици"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "Празно"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "Сертификати"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "Показалци"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "Въведете име"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "Име"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "Изпращане чрез email"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "Изпращане като съобщение"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "Настройки"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "Потребителско име"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "Вече съществува"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "Записан"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "Няма достатъчно памет"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "Грешка на мрежата"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "Винаги питай"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "Карта с памет"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "Телефон"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "Няма акаунти"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "Страница за грешка"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "Уеб страницата временно не е достъпна"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "Уеб страницата не е достъпна"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "Неуспешно зареждане на рамки"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "По време на извличането на уеб страницата %s възникна следната грешка."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "Уеб страницата не може да се извлече. (Уеб страницата може да е временно недостъпна или да има нов URL адрес)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "Най-вероятната причина е дадена по-долу"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "Връзката с мрежата не е установена нормално"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "Проверка на URL адреса на уеб страницата"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "Презареждане на уеб страницата по-късно"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "Показалец"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "Заглавие"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "Въведете заглавие"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "Папки"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "Разрешаване"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "Отказвам"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "Грешка от защитата: Ненадежден сертификат на сървъра"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "Избрани са %d елемента"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "Избран е 1 елемент"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "Добави в уеб клип"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "Създаден е бърз клавиш"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "Избор на дума"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "Търсене в стр."
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "Търсене в стр."
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "Интернет"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "Списък"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "Избери всички"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "Съобщение"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "Email"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "Отказ"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "Копиране на URL"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "Покажи изображ."
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "Отвори в нова стр."
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "Отваряне"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "Избор на текст включен"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "Показалци"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "Редактиране"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "Изтрий"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "Изтрий"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "Отмени"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "Редактиране на показалец"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "Съобщения"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "Email"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "Редактиране"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "Изтрий"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "Добави към маркери"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "Размер на шрифта"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "Едър"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "Малък"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "Скорост"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "Адрес на прокси"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "Порт за прокси"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "Готово"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "Версия"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "Инсталир."
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "Текуща страница"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "Въведете име на папка"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "Въведете име на показалец"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "Не питай повече"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "URL не е открит"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s иска вашето местоположение"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "Запомни предпочитанията"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "Покажи изображения"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "Показване на предупрежденията за защита"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "Запомняне на паролите"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "Изчисти паролите"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "Изтриване на всички запаметени пароли?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "Изтриване на всички бисквитки. Продължаване?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "Запомняне на данни за формуляри"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "Нулиране до стойности по подразбиране"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "Всички стойности по подразбиране. Продължаване?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "Изчистване на кеша?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "Изчисти напълно историята?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "Хронологията на навигацията на браузъра ще бъде изтрита"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "Винаги включено"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "Активиране на местоположение"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "Изчистване на достъпа до местоположения"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "Не може да се добави показалец. Достигнат е максималният брой показалци"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "Изтриване на информацията за достъп до местоположение на уеб сайт?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "Отпечатаване"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "Потърсете или въведете URL"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "Авто"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "Ръчно"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "Нисък"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "Среден"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "Празна страница"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "Неуспешна инсталация"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "Настройки на уеб сайт"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "Висок"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "Записване на връзка"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "Споделяне на връзка"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "Поверителност и защита"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "Записване за офлайн четене"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "Позиция"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "Данни за формуляра"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "Изчистване на данни за формуляри"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "Изчистване на всички запаметени пароли"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "Добавено към показалците"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "Премахнато от показалците"
+

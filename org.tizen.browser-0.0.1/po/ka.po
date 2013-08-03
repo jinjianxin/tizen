@@ -1,0 +1,861 @@
+msgid "IDS_BR_BODY_NOTIFYING_ING"
+msgstr "შეტყობინება..."
+
+msgid "IDS_BR_BODY_PROCESSING_ING"
+msgstr "მუშავდება..."
+
+msgid "IDS_BR_BODY_PROCESSING_COMPLETED"
+msgstr "დამუშავება დასრულდა"
+
+msgid "IDS_BR_SK_RETRY"
+msgstr "კიდევ ცდა"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_MANAGER"
+msgstr "ჩამოტვირთვების მმართველი"
+
+msgid "IDS_BR_POP_INVALIDDESCRIPTOR"
+msgstr "აღმწერი არასწორია"
+
+msgid "IDS_BR_POP_UNABLE_TO_OPEN_FILE"
+msgstr "ფაილი ვერ იხსნება"
+
+msgid "IDS_BR_POP_DOWNLOAD_Q"
+msgstr "ჩამოტვირთავთ?"
+
+msgid "IDS_BR_OPT_DELETE_SELECTED"
+msgstr "შერჩეული"
+
+msgid "IDS_BR_POP_DOWNLOAD_CANCELLED"
+msgstr "ჩამოტვირთვა შეწყდა"
+
+msgid "IDS_BR_BODY_CONTINUE_FROM_LAST_PAGE"
+msgstr "ბოლო გვერდიდან გაგრძ."
+
+msgid "IDS_BR_BODY_PAGE"
+msgstr "გვერდი"
+
+msgid "IDS_BR_OPT_DICTIONARY"
+msgstr "ლექსიკონი"
+
+msgid "IDS_BR_BODY_ABOUT_BROWSER"
+msgstr "ბრაუზერის შესახებ"
+
+msgid "IDS_BR_BODY_BROWSER_TYPE"
+msgstr "ტიპი"
+
+msgid "IDS_BR_BODY_CERTIFICATE_ISSUER"
+msgstr "გამომცემელი"
+
+msgid "IDS_BR_BODY_DISPLAY_IMAGES"
+msgstr "ეკრანის სურათები"
+
+msgid "IDS_BR_BODY_DOWNLOAD"
+msgstr "ჩამოტვირთვა"
+
+msgid "IDS_BR_BODY_ENTER_URL"
+msgstr "ჩაწერეთ URL"
+
+msgid "IDS_BR_BODY_FOLDER"
+msgstr "საქაღალდე"
+
+msgid "IDS_BR_BODY_HOMEPAGE"
+msgstr "საწყისი გვერდი"
+
+msgid "IDS_BR_BODY_LANDSCAPE_VIEW"
+msgstr "პანორამა"
+
+msgid "IDS_BR_BODY_NO_BOOKMARKS"
+msgstr "ჩემი ნიშნულები"
+
+msgid "IDS_BR_BODY_NO_RESULTS_FOUND"
+msgstr "შედეგები არ მოიძებნა"
+
+msgid "IDS_BR_BODY_OPTIONAL"
+msgstr "შერჩევითი"
+
+msgid "IDS_BR_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_BR_BODY_RUN_FLASH"
+msgstr "Flash–ის გაშვება"
+
+msgid "IDS_BR_BODY_RUN_JAVASCRIPT"
+msgstr "JavaScript-ის გაშვება"
+
+msgid "IDS_BR_HEADER_COMMON_NAME_C"
+msgstr "საერთო სახელი:"
+
+msgid "IDS_BR_HEADER_ORGANIZATIONAL_UNIT_C"
+msgstr "ორგანიზაციის ერთეული:"
+
+msgid "IDS_BR_HEADER_ORGANIZATION_C"
+msgstr "ორგანიზაცია:"
+
+msgid "IDS_BR_HEADER_USER_AGENT"
+msgstr "მომხმარებლის აგენტი"
+
+msgid "IDS_BR_OPT_LAST_VIEWED_PAGE_ATNT"
+msgstr "Last Viewed Page"
+
+msgid "IDS_BR_OPT_PREFERENCES"
+msgstr "პრეფერენციები"
+
+msgid "IDS_BR_POP_ACTICATION_ERR"
+msgstr "აქვივიზაციის შეცდომა"
+
+msgid "IDS_BR_POP_ALREADY_RUNNING"
+msgstr "პროგრამა უკვე მუშაობს"
+
+msgid "IDS_BR_POP_ERRORIMPLEMENTED"
+msgstr "არ გამოიყენება"
+
+msgid "IDS_BR_POP_HTTPERRAUTHFAILED"
+msgstr "ავტორიზაცია ვერ შესრულდა"
+
+msgid "IDS_BR_POP_OVERWRITE_Q"
+msgstr "გადააწერთ?"
+
+msgid "IDS_BR_POP_URL"
+msgstr "URL"
+
+msgid "IDS_BR_TAB_HISTORY"
+msgstr "ისტორია"
+
+msgid "IDS_BR_HEADER_DOWNLOAD_LIST"
+msgstr "ჩამოტვირთვების სია"
+
+msgid "IDS_BR_POP_ALREADYINSTALLED"
+msgstr "უკვე დაინსტალირდა"
+
+msgid "IDS_BR_POP_NOTIFYING"
+msgstr "შეტყობინება..."
+
+msgid "IDS_BR_POP_NOTSUPPORT"
+msgstr "შინაარსს არა აქვს მხარდაჭერა"
+
+msgid "IDS_BR_POP_ERROR_C_UNABLE_TO_RESOLVE_HOST_NAME"
+msgstr "შეცდომა: მასპინძელი კომპიუტერის სახელი ვერ იძებნება"
+
+msgid "IDS_BR_POP_UNABLE_TO_REACH_PROXY"
+msgstr "პროქსი-სერვერი მიუწვდომელია"
+
+msgid "IDS_BR_POP_NOSSLCERTI"
+msgstr "არ არის SSL სერთიფიკატი"
+
+msgid "IDS_BR_BODY_FILE_SIZE_EXCEEDS_MAXIMUM_UPLOAD_LIMIT"
+msgstr "ფაილის ზომა აჭარბებს ატვირთვისთვის დასაშვებ ლიმიტს"
+
+msgid "IDS_BR_BODY_ENTER_NAME_C"
+msgstr "ჩაწერეთ სახელი:"
+
+msgid "IDS_BR_SK_NEXT"
+msgstr "შემდეგი"
+
+msgid "IDS_BR_OPT_NEW_FOLDER"
+msgstr "ახალი საქაღალდე"
+
+msgid "IDS_BR_SK3_ADD_TO_BOOKMARKS"
+msgstr "სანიშნეებში დამატება"
+
+msgid "IDS_BR_SK1_NEW_WINDOW"
+msgstr "ახალი ფანჯარა"
+
+msgid "IDS_BR_BODY_URL"
+msgstr "URL"
+
+msgid "IDS_BR_BODY_URL_C"
+msgstr "URL:"
+
+msgid "IDS_BR_BODY_URL_NOT_AVAILABLE"
+msgstr "URL მიუწვდომელია"
+
+msgid "IDS_BR_BODY_URL_PS_NOT_AVAILABLE_IT_MIGHT_BE_DOWN_TEMPORARILY_OR_NO_LONGER_IN_USE"
+msgstr "URL %s მიუწვდომელია. შეიძლება დროებით გამორთულია ან აღარ გამოიყენება"
+
+msgid "IDS_BR_HEADER_FOLDER"
+msgstr "საქაღალდე"
+
+msgid "IDS_BR_BODY_FOLDER_NAME"
+msgstr "საქაღალდის სახელი"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_ALREADY_IN_USE"
+msgstr "საქაღალდის სახელი\nუკვე გამოყენებულია"
+
+msgid "IDS_BR_BODY_NO_TITLE"
+msgstr "თემა არ არის"
+
+msgid "IDS_BR_HEADER_MULTI_WINDOW"
+msgstr "მულტი–ფანჯარა"
+
+msgid "IDS_BR_BODY_NO_HISTORIES"
+msgstr "ისტორიები არ არის"
+
+msgid "IDS_BR_BODY_ADD_TO_BOOKMARKS"
+msgstr "სანიშნეებში დამატება"
+
+msgid "IDS_BR_BODY_EDIT_BOOKMARK"
+msgstr "ნიშნულის შეცვლა"
+
+msgid "IDS_BR_BODY_FOLDER_NAME_C"
+msgstr "საქაღალდის სახელი:"
+
+msgid "IDS_BR_OPT_SELECT_ALL"
+msgstr "ყველას არჩევა"
+
+msgid "IDS_BR_OPT_DOWNLOAD_MANAGER"
+msgstr "ჩამოტვირთვების მმართველი"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEED"
+msgstr "RSS ნაკადის დამატება"
+
+msgid "IDS_BR_OPT_ADD_RSS_FEEDS"
+msgstr "RSS ვებ-არხების დამატება"
+
+msgid "IDS_BR_OPT_SETTINGS"
+msgstr "პარამეტრები"
+
+msgid "IDS_BR_POP_ENTER_URL"
+msgstr "შეიყვანეთ URL"
+
+msgid "IDS_BR_BODY_AUTHPASSWORD"
+msgstr "პაროლი"
+
+msgid "IDS_BR_POP_INVALIDADDRESS"
+msgstr "მისამართი არასწორია"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS_IN_DOWNLOAD_LIST"
+msgstr "უკვე არის ჩამოტვირთვის სიაში"
+
+msgid "IDS_BR_POP_ENTER_FOLDER_NAME"
+msgstr "შეიყვანეთ საქაღალდის სახელი"
+
+msgid "IDS_BR_POP_NO_PAGE"
+msgstr "გვერდები არ არის"
+
+msgid "IDS_BR_POP_NO_PAGES_BACKWARD"
+msgstr "უკანა პლანზე გვერდები არ არის"
+
+msgid "IDS_BR_POP_NO_PAGES_FORWARD"
+msgstr "წინა პლანზე გვერდები არ არის"
+
+msgid "IDS_BR_POP_NO_PAGE_TO_RELOAD"
+msgstr "თავიდან ჩამოსატვირთი გვერდი არ არის"
+
+msgid "IDS_BR_BODY_DESTINATIONS_AUTHENTICATION_REQUIRED"
+msgstr "ავტორიზაცია აუცილებელია"
+
+msgid "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS"
+msgstr "სანიშნე უკვე არსებობს"
+
+msgid "IDS_BR_POP_FOLDER_NAME_ALREADY_EXISTS"
+msgstr "საქაღალდის სახელი უკვე არსებობს"
+
+msgid "IDS_BR_POP_UNABLE_TO_SAVE_OBJECT_NOT_ENOUGH_SPACE_IN_CACHE"
+msgstr "ვერ შეინახავთ ობიექტს. არ არის საკმარისი ქეშ-მეხსიერება"
+
+msgid "IDS_BR_HEADER_SELECT_ITEMS"
+msgstr "ელემენტების არჩევა"
+
+msgid "IDS_BR_HEADER_CERTIFICATE_INFO"
+msgstr "სერთიფიკატის ინფო"
+
+msgid "IDS_BR_OPT_SHARE_VIA_EMAIL"
+msgstr "გაზიარება ელ.ფოსტით"
+
+msgid "IDS_BR_OPT_SHARE_VIA_MESSAGES"
+msgstr "გაზიარება წერილებით"
+
+msgid "IDS_BR_OPT_SHARE_VIA"
+msgstr "გაზიარების მეთოდია"
+
+msgid "IDS_BR_POP_UNABLE_TO_START_BROWSER"
+msgstr "ვერ ჩართავთ ბრაუზერს"
+
+msgid "IDS_BR_POP_NO_ADDRESS"
+msgstr "მისამართი არ არის"
+
+msgid "IDS_BR_POP_NEVER_SHOW_AGAIN"
+msgstr "აღარ მაჩვენო"
+
+msgid "IDS_BR_POP_FILE_NAME_EMPTY"
+msgstr "ფაილის დასახელება არაა მითითებული"
+
+msgid "IDS_BR_SK3_CREATE_FOLDER"
+msgstr "საქაღალდის შექმნა"
+
+msgid "IDS_BR_OPT_SELECTED"
+msgstr "შერჩეული"
+
+msgid "IDS_BR_OPT_SHARE"
+msgstr "გაზიარება"
+
+msgid "IDS_BR_HEADER_RECENTLY_VISITED_PAGES"
+msgstr "ბოლო დროს ნანახი გვერდები"
+
+msgid "IDS_BR_OPT_DISPLAY"
+msgstr "ჩვენება"
+
+msgid "IDS_BR_BODY_FIT_TO_WIDTH"
+msgstr "მორგება სიგანეზე"
+
+msgid "IDS_BR_BODY_READABLE"
+msgstr "წაკითხვადი"
+
+msgid "IDS_BR_BODY_PRIVACY"
+msgstr "პირადი"
+
+msgid "IDS_BR_BODY_COOKIES"
+msgstr "ქუქი-ფაილები"
+
+msgid "IDS_BR_BODY_COOKIESACCEPTALL"
+msgstr "ყველაფრის მიღება"
+
+msgid "IDS_BR_BODY_COOKIESPROMPT"
+msgstr "მინიშნება"
+
+msgid "IDS_BR_HEADER_COOKIES"
+msgstr "ქუქი-ფაილები"
+
+msgid "IDS_BR_BODY_ACCEPT_COOKIES"
+msgstr "ქუქი–ფაილების მიღება"
+
+msgid "IDS_BR_OPT_ACCEPT_COOKIES"
+msgstr "ქუქი–ფაილების მიღება"
+
+msgid "IDS_BR_BODY_ACCEPT_ALL"
+msgstr "ყველაფრის მიღება"
+
+msgid "IDS_BR_BODY_REJECT_ALL"
+msgstr "ყველაფრის უარყოფა"
+
+msgid "IDS_BR_BODY_AUTO_SAVE_ID_PASSWORD"
+msgstr "ID/პაროლის ავტომატური შენახვა"
+
+msgid "IDS_BR_BODY_ON"
+msgstr "ჩართვა"
+
+msgid "IDS_BR_BODY_OFF"
+msgstr "გამორთ."
+
+msgid "IDS_BR_BODY_DEFAULT_STORAGE"
+msgstr "ნაგულისხმევი შესანახი ადგილი"
+
+msgid "IDS_BR_BODY_SEARCH"
+msgstr "ძიება"
+
+msgid "IDS_BR_BODY_SAVE_IMAGE"
+msgstr "სურათის შენახვა"
+
+msgid "IDS_BR_POP_LOW_BATTERY_UNABLE_TO_RUN_BROWSER"
+msgstr "კვების ელემენტი იცლება. ბრაუზერს ვერ ჩართავთ"
+
+msgid "IDS_BR_BODY_FIND_WORD"
+msgstr "სიტყვის ძებნა"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "საწყის ეკრანზე დამატება"
+
+msgid "IDS_BR_OPT_ADD_TO_HOME_SCREEN_ABB"
+msgstr "საწყის ეკრანზე დამატება"
+
+msgid "IDS_BR_BODY_MOST_VISITED_SITES"
+msgstr "ყველაზე ხშირად ნანახი საიტები"
+
+msgid "IDS_BR_OPT_SHARE_VIA_FACEBOOK"
+msgstr "გაზიარება Facebook-ით"
+
+msgid "IDS_BR_OPT_SHARE_VIA_TWITTER"
+msgstr "გაზიარება Twitter-ით"
+
+msgid "IDS_BR_SK3_CHANGE_VIEW"
+msgstr "ხედის შეცვლა"
+
+msgid "IDS_BR_HEADER_SELECT_URLS"
+msgstr "აირჩიეთ URL-ები"
+
+msgid "IDS_BR_POP_THIS_SITE_IS_ATTEMPTING_TO_OPEN_POP_UP_WINDOW"
+msgstr "ეს საიტი ცდილობს გახსნას დიალოგის ფანჯარა"
+
+msgid "IDS_BR_MBODY_BLOCK_POP_UP_WINDOWS"
+msgstr "დიალოგის ფანჯრის დაბლოკვა"
+
+msgid "IDS_BR_BODY_TEXT_READER"
+msgstr "ტექსტის წამკითხველი"
+
+msgid "IDS_BR_OPT_COPY_IMAGE"
+msgstr "სურათის ასლის გადაღება"
+
+msgid "IDS_BR_OPT_SAVE_IMAGE"
+msgstr "სურათის შენახვა"
+
+msgid "IDS_BR_BODY_PLAY"
+msgstr "დაკვრა"
+
+msgid "IDS_BR_OPT_SELECT"
+msgstr "არჩევა"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_BACKWARD"
+msgstr "უკან გადასვლა"
+
+msgid "IDS_BR_OPT_NAVIGATE_GO_FORWARD"
+msgstr "წინ გადასვლა"
+
+msgid "IDS_BR_OPT_STOP"
+msgstr "შეჩერება"
+
+msgid "IDS_BR_OPT_RELOAD"
+msgstr "განახლება"
+
+msgid "IDS_BR_OPT_PASTE"
+msgstr "ჩასმა"
+
+msgid "IDS_BR_BUTTON_MORE"
+msgstr "სხვა"
+
+msgid "IDS_BR_POP_FAIL"
+msgstr "ვერ შესრულდა"
+
+msgid "IDS_BR_BODY_OPEN_IN_NEW_WINDOW"
+msgstr "ახალ გვერდზე გახსნა"
+
+msgid "IDS_BR_OPT_VIEW_DOWNLOAD_LIST"
+msgstr "ჩამოტვირთვების სიის ნახვა"
+
+msgid "IDS_BR_BODY_COPY_URL"
+msgstr "URL-ს კოპირება"
+
+msgid "IDS_BR_BODY_COPY_URL_TO"
+msgstr "დააკოპირეთ URL"
+
+msgid "IDS_BR_BODY_VIEW_IMAGE"
+msgstr "სურათის ნახვა"
+
+msgid "IDS_BR_BODY_PRIVACY_SETTINGS"
+msgstr "პირადი პარამეტრები"
+
+msgid "IDS_BR_BODY_CLEAR_CACHE"
+msgstr "ქეშის გასუფთავება"
+
+msgid "IDS_BR_BODY_CLEAR_HISTORY"
+msgstr "ისტორიის გასუფთავება"
+
+msgid "IDS_BR_BODY_ENABLE_PLUG_INS"
+msgstr "ჩადგმული პროგრამების გააქტიურება"
+
+msgid "IDS_BR_BODY_SELECT_SEARCH_ENGINE"
+msgstr "აირჩიეთ საძიებო სისტემა"
+
+msgid "IDS_BR_BODY_DELETE_SAVED_ID_PASSWORD"
+msgstr "წაიშალოს შენახული ID/პაროლი"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_COOKIE_DATA"
+msgstr "ყველა ქუქი–მონაცემების გასუფთავება"
+
+msgid "IDS_BR_BODY_UP"
+msgstr "ზემოთ"
+
+msgid "IDS_BR_BODY_FONT_SIZE"
+msgstr "შრიფტის ზომა"
+
+msgid "IDS_BR_POP_DELETED"
+msgstr "წაშლილია"
+
+msgid "IDS_BR_BODY_DEFAULT_VIEW"
+msgstr "ნაგულისხმევი ხედი"
+
+msgid "IDS_BR_MBODY_PAGE_CONTENT_SETTINGS"
+msgstr "გვერდის შინაარსის პარამ."
+
+msgid "IDS_BR_POP_CASE_SENSITIVE"
+msgstr "რეგისტრი აღიქმება"
+
+msgid "IDS_BR_BODY_PLUG_IN"
+msgstr "მიერთება"
+
+msgid "IDS_BR_OPT_PLUGINS_LIST"
+msgstr "ჩაშენებული პროგრამების სია"
+
+msgid "IDS_BR_HEADER_LOCAL_STORAGE"
+msgstr "ადგილობრივი მეხსიერება"
+
+msgid "IDS_BR_BODY_DELETE_BROWSING_DATA"
+msgstr "დათვალიერების მონაცემთა წაშლა"
+
+msgid "IDS_BR_BODY_LOADING_ING"
+msgstr "იტვირთება..."
+
+msgid "IDS_BR_HEADER_LOADING_ING"
+msgstr "იტვირთება..."
+
+msgid "IDS_BR_HEADER_ENTERURL"
+msgstr "ჩაწერეთ URL"
+
+msgid "IDS_BR_OPT_LOCK"
+msgstr "დაბლოკვა"
+
+msgid "IDS_BR_OPT_UNLOCK"
+msgstr "განბლოკვა"
+
+msgid "IDS_BR_BODY_MODIFY"
+msgstr "შეცვლა"
+
+msgid "IDS_BR_SK_PAGE_UP"
+msgstr "გვერდ. ზემოთ"
+
+msgid "IDS_BR_SK_PAGE_DOWN"
+msgstr "გვერდით ქვემოთ"
+
+msgid "IDS_BR_BODY_DEVELOPER_MODE"
+msgstr "დეველოპერის რეჟიმი"
+
+msgid "IDS_BR_BODY_EMPTY"
+msgstr "ცარიელია"
+
+msgid "IDS_BR_BODY_CERTIFICATES"
+msgstr "სერთიფიკატები"
+
+msgid "IDS_BR_BODY_BOOKMARKS"
+msgstr "სანიშნე"
+
+msgid "IDS_BR_BODY_ENTER_NAME"
+msgstr "ჩაწერეთ სახელი"
+
+msgid "IDS_BR_BODY_NAME"
+msgstr "სახელი"
+
+msgid "IDS_BR_OPT_SEND_VIA_EMAIL"
+msgstr "ელ.ფოსტით გაგზავნა"
+
+msgid "IDS_BR_OPT_SEND_VIA_MESSAGE"
+msgstr "წერილით გაგზავნა"
+
+msgid "IDS_BR_BODY_SETTINGS"
+msgstr "პარამეტრები"
+
+msgid "IDS_BR_BODY_AUTHUSERNAME"
+msgstr "მომხმარებლის სახელი"
+
+msgid "IDS_BR_POP_ALREADY_EXISTS"
+msgstr "უკვე არის"
+
+msgid "IDS_BR_POP_SAVED"
+msgstr "შენახულია"
+
+msgid "IDS_BR_POP_NOT_ENOUGH_MEMORY"
+msgstr "მეხსიერება არ არის საკმარისი"
+
+msgid "IDS_BR_POP_NETWORK_ERROR"
+msgstr "ქსელის შეცდომა"
+
+msgid "IDS_BR_BODY_ALWAYS_ASK"
+msgstr "ყოველთვის მკითხე"
+
+msgid "IDS_BR_BODY_MEMORY_CARD"
+msgstr "მეხსიერების ბარათი"
+
+msgid "IDS_BR_BODY_PHONE"
+msgstr "ტელეფონი"
+
+msgid "IDS_BR_BODY_NO_ACCOUNTS_ABB"
+msgstr "ანგარიშები არ არის"
+
+msgid "IDS_BR_HEADER_ERROR_PAGE"
+msgstr "შეცდომის გვერდი"
+
+msgid "IDS_BR_BODY_WEB_PAGE_TEMPORARILY_NOT_AVAILABLE"
+msgstr "ვებგვერდი დროებით მიუწვდომელია"
+
+msgid "IDS_BR_BODY_WEB_PAGE_NOT_AVAILABLE"
+msgstr "ვებგვერდი მიუწვდომელია"
+
+msgid "IDS_BR_BODY_FAILED_TO_LOAD_FRAMES"
+msgstr "ჩარჩოები ვერ ჩამოიტვირთა"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_1"
+msgstr "როდესაც იტვირთებოდა ვებგვერდი %s, მოხდა შემდეგი შეცდომა."
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_2"
+msgstr "ვებგვერდი ვერ იხსნება. (შეიძლება, ვებგვერდი დროებით მიუწვდომელია, ან გადავიდა ახალ URL-ზე)"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_3"
+msgstr "ყველაზე მეტად სავარაუდო მიზეზი მოცემულია ქვემოთ"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_4"
+msgstr "ქსელთან კავშირი არ დამყარდა ნორმალურად"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_5"
+msgstr "შეამოწმეთ ვებგვერდის URL"
+
+msgid "IDS_BR_BODY_LOAD_FAILED_MSG_6"
+msgstr "თავიდან ჩამოტვირთეთ ვებგვერდი მოგვიანებით"
+
+msgid "IDS_BR_OPT_BOOKMARK"
+msgstr "სანიშნე"
+
+msgid "IDS_BR_BODY_TITLE"
+msgstr "სათაური"
+
+msgid "IDS_BR_BODY_ENTER_TITLE"
+msgstr "შეიყვანეთ სათაური"
+
+msgid "IDS_BR_OPT_FOLDERS"
+msgstr "საქაღალდეები"
+
+msgid "IDS_BR_OPT_ALLOW"
+msgstr "დართე ნება"
+
+msgid "IDS_BR_POP_REFUSE"
+msgstr "უარი"
+
+msgid "IDS_BR_POP_SECURITY_ERROR_C_UNTRUSTED_SERVER_CERTIFICATE"
+msgstr "დაცვის შეცდომა: სერვერის სერთიფიკატი არ არის სანდო"
+
+msgid "IDS_BR_POP_PD_ITEMS_SELECTED"
+msgstr "არჩეულია %d ელემენტი"
+
+msgid "IDS_BR_POP_1_ITEM_SELECTED"
+msgstr "არჩეულია 1 ელემენტი"
+
+msgid "IDS_BR_OPT_ADD_TO_WEB_CLIP"
+msgstr "ვებ–კლიპზე დამატება"
+
+msgid "IDS_BR_POP_SHORTCUT_CREATED"
+msgstr "შეიქმნა სწრაფი ღილაკი"
+
+msgid "IDS_BR_BODY_SELECT_WORD"
+msgstr "აირჩიეთ სიტყვა"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE"
+msgstr "გვერდზე პოვნა"
+
+msgid "IDS_BR_OPT_FIND_ON_PAGE_ABB"
+msgstr "გვერდზე პოვნა"
+
+msgid "IDS_BR_HEADER_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_BR_BODY_INTERNET"
+msgstr "ინტერნეტი"
+
+msgid "IDS_BR_OPT_LIST"
+msgstr "სია"
+
+msgid "IDS_BR_BODY_SELECT_ALL"
+msgstr "ყველას არჩევა"
+
+msgid "IDS_BR_OPT_SENDURLVIA_MESSAGE"
+msgstr "შეტყობინება"
+
+msgid "IDS_BR_OPT_SENDURLVIA_EMAIL"
+msgstr "ელ.ფოსტა"
+
+msgid "IDS_BR_BUTTON_CANCEL_ABB"
+msgstr "გაუქმება"
+
+msgid "IDS_BR_OPT_COPY_LINK_URL"
+msgstr "URL–ს კოპირება"
+
+msgid "IDS_BR_OPT_VIEW_IMAGE"
+msgstr "სურათის ნახვა"
+
+msgid "IDS_BR_OPT_OPEN_IN_NEW_PAGE_ABB"
+msgstr "ახ. გვერდზე გახსნა"
+
+msgid "IDS_BR_OPT_OPEN"
+msgstr "გახსნა"
+
+msgid "IDS_BR_OPT_TEXT_SELECTION_ON"
+msgstr "ტექსტის შერჩევა ჩართულია"
+
+msgid "IDS_BR_TAB_BOOKMARKS"
+msgstr "სანიშნი"
+
+msgid "IDS_BR_SK_EDIT"
+msgstr "შესწორება"
+
+msgid "IDS_BR_SK_DELETE_ABB"
+msgstr "წაშლა"
+
+msgid "IDS_BR_SK_DELETE"
+msgstr "წაშლა"
+
+msgid "IDS_BR_SK_CANCEL"
+msgstr "გაუქმება"
+
+msgid "IDS_BR_HEADER_EDIT_BOOKMARK"
+msgstr "ნიშნულის შეცვლა"
+
+msgid "IDS_BR_OPT_MESSAGES"
+msgstr "შეტყობინებები"
+
+msgid "IDS_BR_OPT_EMAIL_M_BOX"
+msgstr "ელ.ფოსტა"
+
+msgid "IDS_BR_HEADER_EDIT"
+msgstr "შეცვლა"
+
+msgid "IDS_BR_SK3_DELETE"
+msgstr "წაშლა"
+
+msgid "IDS_BR_OPT_ADDTOBOOKMARKS"
+msgstr "სანიშნეებში დამატება"
+
+msgid "IDS_BR_HEADER_FONT_SIZE"
+msgstr "შრიფტის ზომა"
+
+msgid "IDS_BR_OPT_PAGE_SIZE_LARGE"
+msgstr "დიდი"
+
+msgid "IDS_BR_BODY_PREFERENCESTEXTSIZESMALL"
+msgstr "პატარა"
+
+msgid "IDS_BR_BODY_SPEED"
+msgstr "სიჩქარე"
+
+msgid "IDS_BR_BRSETTINGS_BODY_CONNECTIONPROXYADRS"
+msgstr "პროქსი სერვერის მისამართი"
+
+msgid "IDS_BR_BODY_PROXY_PORT"
+msgstr "პროქსი სერვერის პორტი"
+
+msgid "IDS_BR_SK_DONE"
+msgstr "შესრულდა"
+
+msgid "IDS_BR_BODY_SETTINGS_VERSION"
+msgstr "ვერსია"
+
+msgid "IDS_BR_SK_INSTALL"
+msgstr "დაყენება"
+
+msgid "IDS_BR_BODY_CURRENT_PAGE"
+msgstr "მიმდინარე გვერდი"
+
+msgid "IDS_BR_BODY_ENTER_FOLDER_NAME"
+msgstr "შეიყვანეთ საქაღალდის სახელი"
+
+msgid "IDS_BR_POP_ENTER_BOOKMARK_NAME"
+msgstr "ჩაწერეთ სანიშნის სახელი"
+
+msgid "IDS_BR_OPT_DO_NOT_ASK_AGAIN"
+msgstr "აღარ მკითხო"
+
+msgid "IDS_BR_POP_URL_NOT_FOUND"
+msgstr "URL არ მოიძებნა"
+
+msgid "IDS_BR_BODY_PS_REQUESTS_YOUR_LOCATION"
+msgstr "%s ითხოვს თქვენს ლოკაციას"
+
+msgid "IDS_BR_BODY_REMEMBER_PREFERENCE"
+msgstr "უპირატესობის დამახსოვრება"
+
+msgid "IDS_BR_BODY_SHOW_IMAGES"
+msgstr "სურათების ჩვენება"
+
+msgid "IDS_BR_BODY_SHOW_SECURITY_WARNINGS"
+msgstr "უსაფრთხოების გაფრთხილებების ჩვენება"
+
+msgid "IDS_BR_BODY_REMEMBER_PASSWORDS"
+msgstr "დაიმახსოვრეთ პაროლები"
+
+msgid "IDS_BR_BODY_CLEAR_PASSWORDS"
+msgstr "პაროლების წაშლა"
+
+msgid "IDS_BR_POP_DELETE_ALL_SAVED_PASSWORDS_Q"
+msgstr "წაიშალოს ყველა შენახული პაროლი?"
+
+msgid "IDS_BR_POP_DELETE_ALL_COOKIES_CONTINUE_Q"
+msgstr "წაშალეთ ყველა ქუქი-ფაილი. განაგრძობთ?"
+
+msgid "IDS_BR_BODY_REMEMBER_FORM_DATA"
+msgstr "ფორმის მონაცემების დამახსოვრება"
+
+msgid "IDS_BR_BODY_RESET_TO_DEFAULT"
+msgstr "ავტო. პარამეტრის დაბრუნება"
+
+msgid "IDS_BR_POP_ALL_SETTINGS_TO_DEFAULT_CONTINUE_Q"
+msgstr "საწყისი პარამეტრების დაბრუნება. განაგრძობთ?"
+
+msgid "IDS_BR_POP_CLEAR_CACHE_Q"
+msgstr "გასუფთავდეს ქეშ-მეხსიერება?"
+
+msgid "IDS_BR_POP_HISTORYREMOVEALLHISTORY"
+msgstr "მთელ ისტორიას წაშლით?"
+
+msgid "IDS_BR_BODY_BROWSER_NAVIGATION_HISTORY_WILL_BE_CLEARED"
+msgstr "ბრაუზერის ნავიგაციის ისტორია გასუფთავდება"
+
+msgid "IDS_BR_BODY_ALWAYS_ON"
+msgstr "მუდამ ჩართული"
+
+msgid "IDS_BR_BODY_ENABLE_LOCATION"
+msgstr "ლოკაციის ჩართვა"
+
+msgid "IDS_BR_BODY_CLEAR_LOCATION_ACCESS"
+msgstr "გაასუფთავეთ ლოკაციაზე წვდომის მონაცემი"
+
+msgid "IDS_BR_POP_UNABLE_TO_ADD_BOOKMARK_MAXIMUM_NUMBER_OF_BOOKMARKS_REACHED"
+msgstr "ვერ ვამატებ ნიშნულს. მიღწეულია ნიშნულების მაქსიმალური რაოდენობა"
+
+msgid "IDS_BR_POP_DELETE_WEBSITE_LOCATION_ACCESS_INFORMATION_Q"
+msgstr "წაშლით ვებსაიტის ლოკაციაზე წვდომის ინფორმაციას?"
+
+msgid "IDS_BR_BODY_PRINT"
+msgstr "ამობეჭდვა"
+
+msgid "IDS_BR_BODY_SEARCH_OR_ENTER_URL"
+msgstr "მოძებნეთ ან ჩაწერეთ URL"
+
+msgid "IDS_BR_BODY_AUTO"
+msgstr "ავტომატური"
+
+msgid "IDS_BR_OPT_MANUAL"
+msgstr "მექანიკური"
+
+msgid "IDS_BR_BODY_LOW"
+msgstr "დაბალი"
+
+msgid "IDS_BR_BODY_MEDIUM"
+msgstr "საშუალო"
+
+msgid "IDS_BR_BODY_BLANK_PAGE"
+msgstr "ცარიელი გვერდი"
+
+msgid "IDS_BR_POP_INSTALLATION_FAILED"
+msgstr "ვერ დაინსტალირდა"
+
+msgid "IDS_BR_BODY_WEBSITE_SETTINGS"
+msgstr "ვებსაიტის პარამეტრები"
+
+msgid "IDS_BR_BODY_HIGH_MPRIORITY"
+msgstr "მაღალი"
+
+msgid "IDS_BR_BODY_SAVE_LINK"
+msgstr "ბმულის შენახვა"
+
+msgid "IDS_BR_BODY_SHARE_LINK"
+msgstr "ბმულის გაზიარება"
+
+msgid "IDS_BR_BODY_PRIVACY_AND_SECURITY_ABB"
+msgstr "კონფიდენციალურობა და უსაფრთხოება"
+
+msgid "IDS_BR_BODY_SAVE_FOR_OFFLINE_READING_ABB"
+msgstr "შეინახოს ინტერნეტის გარეშე წასაკითხად"
+
+msgid "IDS_BR_HEADER_LOCATION"
+msgstr "ადგილმდებარეობა"
+
+msgid "IDS_BR_HEADER_FORM_DATA"
+msgstr "ფორმის მონაცემები"
+
+msgid "IDS_BR_BODY_CLEAR_FORM_DATA"
+msgstr "ფორმის მონაცემების გასუფთავება"
+
+msgid "IDS_BR_BODY_CLEAR_ALL_SAVED_PASSWORDS"
+msgstr "ყველა შენახული პაროლის გასუფთავება"
+
+msgid "IDS_BR_POP_ADDED_TO_BOOKMARKS"
+msgstr "დაემატა სანიშნეებში"
+
+msgid "IDS_BR_POP_REMOVED_FROM_BOOKMARKS"
+msgstr "ამოიშალა სანიშნეებიდან"
+
